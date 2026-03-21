@@ -799,7 +799,6 @@ alt1.meLI.Megalynarion.text = ""
 alt1.meCouplet_v1.text = ""
 alt1.meCouplet_v2.text = ""
 
-
 alt2.meDA.date = "August 24" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 alt2.meDA.commemoration.full = "Commemoration of the translation of the holy Relic of our Father among the saints Dionysius Archbishop of Aegina, and its return from Strofades to Zakynthos." // full title of day
 alt2.meDA.commemoration.second = "" // full title of day

@@ -5,7 +5,6 @@ daForDay.text = ""
 daOnDay.text = "on Tuesday,"
 daCommemoration.text = ""
 
-
 daVE.OnTheDayBefore.text = ""
 daVE.OnTheEveningBefore.text = template.titles_en_US_goadedes.d.onMondayEvening
 
