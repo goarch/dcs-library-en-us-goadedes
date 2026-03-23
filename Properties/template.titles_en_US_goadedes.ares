@@ -183,6 +183,10 @@ li.html.tab = ""
 li.pdf.header = ""
 li.pdf.cover = ""
 
+lib.html.tab = ""
+lib.pdf.header = ""
+lib.pdf.cover = ""
+
 li1.html.tab = ""
 li1.pdf.header = ""
 li1.pdf.cover = ""
