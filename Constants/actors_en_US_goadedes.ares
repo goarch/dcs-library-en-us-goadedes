@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = actors_en_US_goadedes
 
 ac.Archbishop = "ARCHBISHOP"
+ac.Bishop = "BISHOP"
 ac.Bishop_Elect = "BISHOP-ELECT"
 ac.Candidate_Sponsor = "CANDIDATE/SPONSOR"
 ac.Chanter = "CHANTER"
@@ -38,6 +39,7 @@ ac.Superior = "SUPERIOR"
 ac.SuperiorOrReader = "HIERARCH or READER"
 
 ac.IL.Archbishop = "ARCHBISHOP:"
+ac.IL.Bishop = "BISHOP:"
 ac.IL.Bishop_Elect = "BISHOP-ELECT:"
 ac.IL.Candidate_Sponsor = "CANDIDATE/SPONSOR:"
 ac.IL.Chanter = "CHANTER:"
