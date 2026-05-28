@@ -48,8 +48,8 @@ meVE.SticGlory.text = ""
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.SticTheotokion.greekmelody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.greekname
 meVE.SticTheotokion.melody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.name
-meVE.SticTheotokion.incipit = "…"
-meVE.SticTheotokion.text = ""
+meVE.SticTheotokion.incipit = "Lady, all the world…"
+meVE.SticTheotokion.text = "Lady, all the world saluting you * sings, “Rejoice!” O all-holy Virgin, Scepter of David, rejoice! * Rejoice! You produced the mystical divine bunch of grapes. * Gate of heaven, and bush that was not burnt, we salute you. * Rejoice! You enlightened all the earth. Rejoice, joy of all! * Mother of our God, the Apostles * revel knowing you. We salute you, * the help and defense of all who honor you."
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.SticStavrotheotokion.greekmelody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.greekname
@@ -65,14 +65,14 @@ meVE.AposGlory.text = ""
 meVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.AposTheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
 meVE.AposTheotokion.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
-meVE.AposTheotokion.incipit = "…"
-meVE.AposTheotokion.text = ""
+meVE.AposTheotokion.incipit = "Theotokos, I look…"
+meVE.AposTheotokion.text = "Theotokos, I look to you * for protection and pray to you. * By your intercessions with God, deliver me * from all my troubles and every kind of hardship, from terrible * circumstances, every kind * of temptation assaulting me, and the stumbling blocks * that are set every day by the unrighteous men who hate me and by demons * who always seek to destroy my life."
 
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.AposStavrotheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
 meVE.AposStavrotheotokion.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
-meVE.AposStavrotheotokion.incipit = oc.m4.d6_en_US_goadedes.ocMA.AposTheotokion.incipit
-meVE.AposStavrotheotokion.text = oc.m4.d6_en_US_goadedes.ocMA.AposTheotokion.text
+meVE.AposStavrotheotokion.incipit = "When Your Mother…"
+meVE.AposStavrotheotokion.text = "When Your Mother the Virgin pure * saw You hanging upon the Cross, * she was overwhelmed with distressing grief, O Lord, * and she lamented and cried aloud, * “Look how they rewarded You, * Master, even after they * had received many gifts from You. * I implore You now, * do not leave me to face the world alone, but rather hasten to be risen, * raising the Ancestors with yourself.”"
 
 meVE.GeneralApolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.GeneralApolytikion1.melody = ""
