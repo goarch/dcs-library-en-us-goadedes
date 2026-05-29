@@ -42,13 +42,13 @@ meVE.Stichera03.text = "Ambrose, you publicly censured the pious emperor * when 
 meVE.Stichera04.mode = miscellanea_en_US_goadedes.misc.Mode5
 meVE.Stichera04.greekmelody = he.a.m5_en_US_goadedes.heAU.OsiePater.greekname
 meVE.Stichera04.melody = he.a.m5_en_US_goadedes.heAU.OsiePater.name
-meVE.Stichera04.incipit = "…"
-meVE.Stichera04.text = ""
+meVE.Stichera04.incipit = "O father Ambrose…"
+meVE.Stichera04.text = "O father Ambrose, most devout and holy hierarch, * the Orthodox dogmas that you have left us all * are like a saving song that delights the souls * of us believers, who extol you, the great * instrument of God; for you are the Holy Spirit’s * sweetest guitar and resonant harp. * You are the holy Church’s venerable trumpet. * Filled with the gifts of grace, you are the clearest fountain, * washing away all the filth of the sinful passions. * To Christ pray earnestly, and fervently implore Him, O Saint, * that He grant to the Church forever * unanimity, lasting peace and the great mercy."
 
 meVE.Stichera05.mode = miscellanea_en_US_goadedes.misc.Mode5
 meVE.Stichera05.melody = he.a.m5_en_US_goadedes.heAU.OsiePater.name
-meVE.Stichera05.incipit = "…"
-meVE.Stichera05.text = ""
+meVE.Stichera05.incipit = "O father Ambrose…"
+meVE.Stichera05.text = "O father Ambrose, most devout and blessed hierarch, * you joined God-bearing fathers at a Council in the West * and publicly proclaimed the Orthodox Faith: * one and the same, the Son of God has appeared * to us, having become incarnate from the Virgin, * twofold in natures, and yet remains * co-eternal with His Father, in essence one. * And by the Spirit’s might you certified as specious * the blasphemous arguments of Arianism. * To Christ pray earnestly, and fervently implore Him, O Saint, that He grant to the Church forever * unanimity, lasting peace and the great mercy."
 
 meVE.Stichera06.mode = miscellanea_en_US_goadedes.misc.Mode5
 meVE.Stichera06.melody = he.a.m5_en_US_goadedes.heAU.OsiePater.name
