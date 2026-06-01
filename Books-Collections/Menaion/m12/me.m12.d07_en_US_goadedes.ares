@@ -52,20 +52,20 @@ meVE.Stichera05.text = "O father Ambrose, most devout and blessed hierarch, * yo
 
 meVE.Stichera06.mode = miscellanea_en_US_goadedes.misc.Mode5
 meVE.Stichera06.melody = he.a.m5_en_US_goadedes.heAU.OsiePater.name
-meVE.Stichera06.incipit = "…"
-meVE.Stichera06.text = ""
+meVE.Stichera06.incipit = "O father Ambrose…"
+meVE.Stichera06.text = "O father Ambrose, the devout, praiseworthy hierarch, * the grace of the all-holy Spirit was pleased to find * your soul to be pure and thus receptive to it, * and it dwelt in you as an unsetting light. * Even now you drive out the spirits of deception, * by its power and action in you, * and also cure the illnesses and the diseases * of the believers who wholeheartedly entreat you, * and who observe your holy memory with splendor. * To Christ pray earnestly, and fervently implore Him, O Saint, that He grant to the Church forever * unanimity, lasting peace and the great mercy."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode5
 meVE.SticTheotokion.greekmelody = he.a.m5_en_US_goadedes.heAU.OsiePater.greekname
 meVE.SticTheotokion.melody = he.a.m5_en_US_goadedes.heAU.OsiePater.name
-meVE.SticTheotokion.incipit = "…"
-meVE.SticTheotokion.text = ""
+meVE.SticTheotokion.incipit = "O wretched soul…"
+meVE.SticTheotokion.text = "O wretched soul of mine, alas, what has become of you! * Day by day you are progressing from bad to worse, * unthinkingly adding trauma to your bruises. * It is as if you have a full-body wound. * Do you not recall that the Judge is surely coming, * and that before Him you will appear * to give account for your actions with consequences? * So I implore you, repent, and pray to the Virgin, * saying, “O all-pure Lady, do not overlook me, * who have provoked to anger our most sympathetic God, * who in His surpassing compassion was born of you, for the salvation of humanity.”"
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode5
 meVE.SticStavrotheotokion.greekmelody = he.a.m5_en_US_goadedes.heAU.OsiePater.greekname
 meVE.SticStavrotheotokion.melody = he.a.m5_en_US_goadedes.heAU.OsiePater.name
-meVE.SticStavrotheotokion.incipit = "…"
-meVE.SticStavrotheotokion.text = ""
+meVE.SticStavrotheotokion.incipit = "You saw your Son…"
+meVE.SticStavrotheotokion.text = "You saw your Son upon the Cross, like a cluster of grapes, * which you had produced, O Lady, like an unsown vine. * You saw His divine side be pierced with a lance; * “Dear Lord!” you uttered, “O my Son and my God! * Since you are impassible in Your divine nature * and heal all suffering and disease, * how is it You undergo suffering now? * Why have the people thus repaid their Benefactor * with such ingratitude for all the good You did them?” * O all-pure Virgin, pray to Him unceasingly, * that by virtue of His Passion * He release me from passions, and I will glorify you."
 
 meVE.Apolytikion1ger.poet = poets_en_US_goadedes.po.Gerasimou
 meVE.Apolytikion1ger.mode = miscellanea_en_US_goadedes.misc.Mode4
