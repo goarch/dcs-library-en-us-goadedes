@@ -6,7 +6,7 @@ hoSA.title3 = ""
 hoSA.title4 = ""
 hoSA.title5 = ""
 
-hoSA.R01 = ""
+hoSA.R01.rubric = ""
 
 hoSA.LastHymn.mode = miscellanea_en_US_goadedes.misc.Mode3
 hoSA.LastHymn.melody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.melody

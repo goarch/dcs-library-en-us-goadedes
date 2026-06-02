@@ -3,20 +3,20 @@ A_Resource_Whose_Name = ho.ho03_en_US_goadedes
 hoMA.title = "The Service of Matins"
 hoMA.MatinsOrdinary.title = "Matins Ordinary"
 hoMA.MatinsOrdinary.text = ""
-R01 = ""
-R02 = ""
+R01.rubric = ""
+R02.rubric = ""
 hoMA.Troparion3.text = ""
-R3 = ""
-R4 = ""
+R3.rubric = ""
+R4.rubric = ""
 SixPsalms.title = "The Six Psalms."
-R6 = ""
-R7 = ""
-R8 = ""
-R9 = "" //(about Lent)
-R10 = ""
+R6.rubric = ""
+R7.rubric = ""
+R8.rubric = ""
+R9.rubric = "" //(about Lent)
+R10.rubric = ""
 
 hoMA.Triadics.title = titles_en_US_goadedes.ti.TriadicHymns
-R11 = ""
+R11.rubric = ""
 /*
 Title Mode1
 Triadic11
@@ -75,12 +75,12 @@ Both
 Triadic3
 */
 
-R12a = ""
-R12b = ""
+R12a.rubric = ""
+R12b.rubric = ""
 
 hoMA.ResEvlog.title1 = "Resurrectional Evlogetaria."
 hoMA.ResEvlog.title2 = "Chanted on Sundays throughout the year"
-R13 = "Before each Troparion, we sing:"
+R13.rubric = "Before each Troparion, we sing:"
 hoMA.ResEvlogVerse.text = "Blessed are You, O Lord, teach me Your statutes."
 hoMA.ResEvlog1.mode = miscellanea_en_US_goadedes.misc.Mode5
 hoMA.ResEvlog1.incipit = "When the hosts of the…"
@@ -105,7 +105,7 @@ hoMA.ResEvlog7.text = prayers_en_US_goadedes.pr.Alleluia3Glory.text
 
 hoMA.FuneralEvlog.title1 = "Evlogetaria for the Dead."
 hoMA.FuneralEvlog.title2 = ""
-R14 = ""
+R14.rubric = ""
 hoMA.FuneralEvlogVerse.text = "Blessed are You, O Lord, teach me Your statutes."
 hoMA.FuneralEvlog1.mode = miscellanea_en_US_goadedes.misc.Mode5
 hoMA.FuneralEvlog1.incipit = "…"
@@ -141,8 +141,8 @@ hoMA.MM.Magnificat.text = properties_en_US_goadedes.media.key //for media of all
 hoMA.Ode9.Meg00.incipit = "It is truly right…"
 hoMA.Ode9.Meg00.text = "It is truly right to call you blessed, Theotokos, the ever-blessed and all-blameless one and the Mother of our God."
 
-R15 = ""
-R16 = "" //(Lent)
+R15.rubric = ""
+R16.rubric = "" //(Lent)
 /*
 Title On Monday
 ending1
@@ -155,9 +155,9 @@ ending
 Title On Thur
 ending
 Title On Sat
-R17
+R17.rubric
 ending
-R18
+R18.rubric
 ending
 
 Title Photogogics
@@ -243,11 +243,10 @@ hoMA.ExapSatTh.melody = he.a.m2_en_US_goadedes.heAU.TonMathitonOrontonSe.name
 hoMA.ExapSatTh.incipit = da.d7_en_US_goadedes.daMA.ExapTheotokion2.incipit
 hoMA.ExapSatTh.text = da.d7_en_US_goadedes.daMA.ExapTheotokion2.text
 
-R19 = ""
-R20 = ""
-R21 = ""
-
-R_Lauds_Hierarchical = "The Hierarch descends from the throne and recites the preparatory prayers for the Liturgy, as the Choirs sing:"
+R19.rubric = ""
+R20.rubric = ""
+R21a.rubric = "The Hierarch descends from the throne and recites the preparatory prayers for the Liturgy, as the Choirs sing:"
+R21b.rubric = "The Hierarch takes “kairon” in preparation for the Divine Liturgy, as the right choir slowly sings “Ton Despotin…” When he is finished, the hierarch blesses the people with the candles, as the left choir sings “Eis polla eti, despota,” and he enters the altar. Then the choirs resume singing Lauds."
 
 hoMA.LaudsSunTheotokion.incipit = oc.m2.d1_en_US_goadedes.ocMA.Kathisma23.incipit
 hoMA.LaudsSunTheotokion.text = oc.m2.d1_en_US_goadedes.ocMA.Kathisma23.text
@@ -280,10 +279,10 @@ hoMA.DoxologyVerse16.text = "Holy God, Holy Mighty, Holy Immortal, have mercy on
 hoMA.DoxologyVerse17.text = "Glory to the Father and the Son and the Holy Spirit."
 hoMA.DoxologyVerse18.text = "Both now and ever and to the ages of ages. Amen."
 hoMA.DoxologyVerse19.text = "Holy Immortal, have mercy on us."
-R22 = ""
+R22.rubric = ""
 hoMA.MM.DoxologyGreatAsmatic.text = properties_en_US_goadedes.media.key
 hoMA.DoxologyVerse20.text = "Holy God, Holy Mighty, Holy Immortal, have mercy on us."
-R23 = ""
+R23.rubric = ""
 hoMA.DoxologySmallIntro.text = ""
 hoMA.DoxologySmallEnd.text = ""
 hoMA.SmallDoxology.title = ""
@@ -296,30 +295,30 @@ hoMA.SmallDoxology2e = ""
 hoMA.SmallDoxology2n = ""
 hoMA.SmallDoxology3.text = ""
 
-R24 = ""
-R25 = ""
-R26 = ""
-R27 = "Then we begin the First Hour, saying: “Come let us worship…”"
-R28 = ""
+R24.rubric = ""
+R25.rubric = ""
+R26.rubric = ""
+R27.rubric = "Then we begin the First Hour, saying: “Come let us worship…”"
+R28.rubric = ""
 hoMA.Apolytikion = oc.m6.d5_en_US_goadedes.ocMA.Kathisma33.text
-R29 = "" //[maybe unpack]
-R30 = ""
-R31 = ""
-R32 = ""
-R33 = ""
-R34 = ""
-R35 = "Then we begin the First Hour, saying: “Come let us worship…”"
-R36 = "After the Doxology, sing the following Resurrectional Troparion."
+R29.rubric = "" //[maybe unpack]
+R30.rubric = ""
+R31.rubric = ""
+R32.rubric = ""
+R33.rubric = ""
+R34.rubric = ""
+R35.rubric = "Then we begin the First Hour, saying: “Come let us worship…”"
+R36.rubric = "After the Doxology, sing the following Resurrectional Troparion."
 hoMA.SunTroparion1.mode = miscellanea_en_US_goadedes.misc.Mode4
 hoMA.SunTroparion1.incipit = "Today has salvation come to pass…"
 hoMA.SunTroparion1.text = "Today has salvation come to pass in the world. Let us sing to Him who resurrected from the tomb and is the Author of our life. For, destroying death by death, He gave us the victory and the great mercy."
-R37 = ""
+R37.rubric = ""
 //Title ultimately link this to pe.d18.peMA.Kath12
 hoMA.SunTroparion2.mode = miscellanea_en_US_goadedes.misc.Mode8
 hoMA.SunTroparion2.incipit = "When You rose from the sepulcher…"
 hoMA.SunTroparion2.text = "When You rose from the sepulcher and broke the bonds of Hades, You repealed the sentence of death, O Lord, and delivered all from the snares of the enemy. And when You showed yourself to Your Apostles, You sent them out to preach, and through them You granted peace to the whole world, O only very merciful One."
-R38 = "" //[maybe unpack]
-R39 = "The Doxology follows immediately. At the end of the Doxology, we sing the Apolytikion."
+R38.rubric = "" //[maybe unpack]
+R39.rubric = "The Doxology follows immediately. At the end of the Doxology, we sing the Apolytikion."
 
 //Order of Matins Gospel
 hoMA.Antiphon11.title = "Anavathmoi Antiphon 1 of Mode 4."
@@ -375,7 +374,7 @@ hoMA.SunPostGospelIdiomelon.text = "Jesus, having risen from the grave as He for
 hoMA.SunExapVerse1.text = properties_en_US_goadedes.media.key
 
 //Triodion specific, not in Horologion
-hoMA.RtrSoS01 = "The priest comes out of the gates and, standing before the icon of Christ, intones the memorial petitions for the deceased."
+R40.rubric = "The priest comes out of the gates and, standing before the icon of Christ, intones the memorial petitions for the deceased."
 
 //Polyelelos, not in Horologion
 hoMA.MM.PolyeleosPsalm134.text = properties_en_US_goadedes.media.key

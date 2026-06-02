@@ -18,7 +18,7 @@ hoH9.Troparion2.text = oc.m8.d4_en_US_goadedes.ocMA.Kathisma12.text
 hoH9.Troparion3.incipit = oc.m8.d4_en_US_goadedes.ocVE.ApolTheotokionVM.incipit
 hoH9.Troparion3.text = oc.m8.d4_en_US_goadedes.ocVE.ApolTheotokionVM.text
 
-hoH9.Prayer.R01 = ""
+hoH9.Prayer.R01.rubric = ""
 hoH9.Prayer.title = ""
 hoH9.Prayer.incipit = "…"
 hoH9.Prayer.text = ""

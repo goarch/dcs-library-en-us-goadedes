@@ -8,9 +8,9 @@ hoCA.translator = ""
 
 hoCA.media.text = "" //for complete music
 
-R01 = ""
-R02 = ""
-R03 = ""
+R01.rubric = ""
+R02.rubric = ""
+R03.rubric = ""
 
 hoCA.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode4
 hoCA.Apolytikion1.greekmelody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.greekname
@@ -18,14 +18,14 @@ hoCA.Apolytikion1.melody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.name
 hoCA.Apolytikion1.incipit = oc.m4.d3_en_US_goadedes.ocVE.ApolTheotokionVM.incipit
 hoCA.Apolytikion1.text = oc.m4.d3_en_US_goadedes.ocVE.ApolTheotokionVM.text
 
-R04 = ""
+R04.rubric = ""
 
 hoCA.Apolytikion2.mode = miscellanea_en_US_goadedes.misc.Mode4
 hoCA.Apolytikion2.melody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.name
 hoCA.Apolytikion2.incipit = "…"
 hoCA.Apolytikion2.text = "We the unworthy shall not ever be silent, * O Theotokos, from proclaiming your powers. * For were you not concerned to intercede for us, * who would have delivered us * from such manifold dangers, * and who else would up to now * have preserved us in freedom? * O Lady, we shall not depart from you, * for you ever save your servants * from evils of every kind."
 
-R05 = ""
+R05.rubric = ""
 
 hoCA.Ode1H.ode = miscellanea_en_US_goadedes.misc.Ode1
 hoCA.Ode1H.mode = miscellanea_en_US_goadedes.misc.Mode8
@@ -389,13 +389,13 @@ hoCA.Meg06.melody = he.h.m6_en_US_goadedes.heHE.TinTimioteran.name
 hoCA.Meg06.incipit = "…"
 hoCA.Meg06.text = ""
 //R16
-R17 = ""
+R17.rubric = ""
 hoCA.MegTrans1.melody = he.h.m6_en_US_goadedes.heHE.TinTimioteran.name
 hoCA.MegTrans1.incipit = "…"
 hoCA.MegTrans1.text = me.m08.d06_en_US_goadedes.meLI.Megalynarion.text
-R18 = "Then, the Megalynarion of the local church."
+R18.rubric = "Then, the Megalynarion of the local church."
 hoCA.MegLocal.text = "Text (in right frame)"
-R19 = "Then, the following:"
+R19.rubric = "Then, the following:"
 hoCA.Meg0F.melody = he.h.m6_en_US_goadedes.heHE.TinTimioteran.name
 hoCA.Meg0F.incipit = "Join the Theotokos…"
 hoCA.Meg0F.text = "Join the Theotokos, all you arrays * of angelic powers, honored Forerunner of the Lord, * holy Twelve Apostles * and all the Saints together, * and pray for our salvation, and intercede for us."
@@ -438,7 +438,7 @@ hoCA.Troparion7.melody = ""
 hoCA.Troparion7.incipit = "O Mother of God…"
 hoCA.Troparion7.text = "O Mother of God, I have committed my every hope wholly unto you. Keep me under your shelter."
 
-R24 = ""
+R24.rubric = ""
 
 hoCA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode3
 hoCA.Exaposteilarion1.melody = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.name

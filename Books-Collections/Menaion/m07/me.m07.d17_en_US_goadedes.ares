@@ -134,7 +134,7 @@ meMA.Kathisma2T.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
 meMA.Kathisma2T.incipit = oc.m1.d1_en_US_goadedes.ocMA.Kathisma13.incipit
 meMA.Kathisma2T.text = oc.m1.d1_en_US_goadedes.ocMA.Kathisma13.text
 
-meMA.R01 = ""
+meMA.R01.rubric = ""
 
 meMA.Kathisma31.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Kathisma31.greekmelody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.greekname
@@ -146,7 +146,7 @@ meMA.Kathisma3T.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
 meMA.Kathisma3T.incipit = "…"
 meMA.Kathisma3T.text = ""
 
-meMA.R02 = ""
+meMA.R02.rubric = ""
 
 meMA.PostGospelGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.PostGospelGlory.melody = ""

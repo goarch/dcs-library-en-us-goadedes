@@ -2,24 +2,24 @@ A_Resource_Whose_Name = hi.hi05_en_US_goadedes
 
 hiVI.title = ""
 
-hiVI.R001 = ""
+hiVI.R001.rubric = ""
 
 hiVI.Key01.title = ""
-hiVI.R101 = ""
-hiVI.R102 = ""
-hiVI.R103 = ""
-hiVI.R104 = ""
+hiVI.R101.rubric = ""
+hiVI.R102.rubric = ""
+hiVI.R103.rubric = ""
+hiVI.R104.rubric = ""
 
 hiVI.Key02.title = ""
-hiVI.R201 = ""
-hiVI.R201b = ""
-hiVI.R201c = ""
-hiVI.R201d = ""
-hiVI.R201dalt = ""
+hiVI.R201.rubric = ""
+hiVI.R201b.rubric = ""
+hiVI.R201c.rubric = ""
+hiVI.R201d.rubric = ""
+hiVI.R201dalt.rubric = ""
 
 hiVI.Key03.title = ""
-hiVI.R301 = ""
-hiVI.R301alt = ""
+hiVI.R301.rubric = ""
+hiVI.R301alt.rubric = ""
 
 hiVI.Key04.title = ""
-hiVI.R401 = ""
+hiVI.R401.rubric = ""

@@ -8,17 +8,17 @@ hoCA.translator = ""
 
 hoCA.media.text = "" //for complete music
 
-R01 = ""
+R01.rubric = ""
 /*
 Priest
 [Invocation]
 Reader: Amen
 Ps142.title = ""
 Ps142.text = ""
-R02 = ""
+R02.rubric = ""
 Mode4
 God is the Lord
-R03 = ""
+R03.rubric = ""
 */
 
 hoCA.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode4
@@ -457,7 +457,7 @@ hoCA.Meg06.melody = he.h.m6_en_US_goadedes.heHE.TinTimioteran.name
 hoCA.Meg06.incipit = ho.ho23_en_US_goadedes.hoCA.Meg06.incipit
 hoCA.Meg06.text = ho.ho23_en_US_goadedes.hoCA.Meg06.text
 //R16
-R17 = ""
+R17.rubric = ""
 hoCA.MegTrans1.melody = he.h.m6_en_US_goadedes.heHE.TinTimioteran.name
 hoCA.MegTrans1.incipit = "…"
 hoCA.MegTrans1.text = me.m08.d06_en_US_goadedes.meLI.Megalynarion.text

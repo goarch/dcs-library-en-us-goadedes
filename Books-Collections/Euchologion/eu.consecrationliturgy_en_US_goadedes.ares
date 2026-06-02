@@ -230,7 +230,7 @@ euCA.Ode9T.melody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.name
 euCA.Ode9T.incipit = "Rejoice, holy Bride…"
 euCA.Ode9T.text = "Rejoice, holy Bride of the great King, Maiden full of grace, Virgin Mary! * Through you we have all been delivered * from the curse that Eve heard long ago in Eden, * and we have found eternal life, O ever-virgin, through your childbirth."
 
-euMA.R001 = "The Hierarch … and says the prayers of Pat. Callistus."
+euMA.R001.rubric = "The Hierarch … and says the prayers of Pat. Callistus."
 
 euCON.Key4000.title = "CONSECRATION LITURGY"
 euCON.Key4100.title = "CONSECRATION"

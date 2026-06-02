@@ -2,7 +2,7 @@ A_Resource_Whose_Name = ho.ho07_en_US_goadedes
 
 hoTY.title = ""
 
-R01 = ""
+R01.rubric = ""
 
 hoLI.MM.Psalm102.text = "" //media for Psalm 102
 hoLI.MM.Psalm145.text = "" //media for Psalm 145

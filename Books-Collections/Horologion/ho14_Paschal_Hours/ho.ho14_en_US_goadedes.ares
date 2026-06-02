@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = ho.ho14_en_US_goadedes
 
 hoPH.title = "THE PASCHAL HOURS"
-hoPH.R01 = ""
+hoPH.R01.rubric = ""
 hoPH.Troparion1.incipit = pe.d071_en_US_goadedes.peMA.Troparion.incipit
 hoPH.Troparion1.text = pe.d071_en_US_goadedes.peMA.Troparion.text
 hoPH.Troparion2.incipit = ho.ho03_en_US_goadedes.hoMA.SunPostGospel.incipit
@@ -16,6 +16,6 @@ hoPH.Troparion6.incipit = oc.m4.d1_en_US_goadedes.ocMA.OdeS7C12.incipit
 hoPH.Troparion6.text = oc.m4.d1_en_US_goadedes.ocMA.OdeS7C12.text
 hoPH.Troparion7.incipit = oc.m4.d1_en_US_goadedes.ocMA.OdeS7C1T.incipit
 hoPH.Troparion7.text = oc.m4.d1_en_US_goadedes.ocMA.OdeS7C1T.text
-hoPH.R02 = ""
-hoPH.R03 = ""
-hoPH.R04 = ""
+hoPH.R02.rubric = ""
+hoPH.R03.rubric = ""
+hoPH.R04.rubric = ""

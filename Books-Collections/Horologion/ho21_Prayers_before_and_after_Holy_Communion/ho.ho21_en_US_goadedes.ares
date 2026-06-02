@@ -8,7 +8,7 @@ hoCA.poet = ""
 
 hoCA.media.text = "" //for complete music
 
-R01 = ""
+R01.rubric = ""
 
 hoCA.Ode11.ode = miscellanea_en_US_goadedes.misc.Ode1
 hoCA.Ode11.mode = miscellanea_en_US_goadedes.misc.Mode2
@@ -173,10 +173,10 @@ hoCA.Ode9T.melody = he.h.m2_en_US_goadedes.heHE.AnarchouGennitoros.name
 hoCA.Ode9T.incipit = "…"
 hoCA.Ode9T.text = ""
 
-R02 = ""
+R02.rubric = ""
 
 hoPrayer.Key000.title = ""
-R03 = ""
+R03.rubric = ""
 hoPrayer.Key001.title = ""
 hoPrayer.Key001.incipit = oc.m2.d2_en_US_goadedes.ocMA.Aposticha2.incipit
 hoPrayer.Key001.text = oc.m2.d2_en_US_goadedes.ocMA.Aposticha2.text
@@ -424,7 +424,7 @@ hoPrayer.Key201_3.text = "immediately offer up praise and thanksgiving,"
 hoPrayer.Key201_4.text = "and soulfully utter the what follows with fervor:"
 hoPrayer.Key201_5.text = "Glory to You, O God! Glory to You, O God! Glory to You, O God!"
 
-R04 = ""
+R04.rubric = ""
 
 hoPrayer.Key202.title = ""
 hoPrayer.Key202.text = ""

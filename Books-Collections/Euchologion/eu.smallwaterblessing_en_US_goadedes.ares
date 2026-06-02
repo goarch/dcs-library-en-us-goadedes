@@ -4,10 +4,10 @@ euSWB.Key0100.title = ""
 euSWB.translator1 = ""
 euSWB.translator2 = ""
 
-euSWB.R101 = ""
-euSWB.R102 = ""
+euSWB.R101.rubric = ""
+euSWB.R102.rubric = ""
 
-euSWB.R201 = ""
+euSWB.R201.rubric = ""
 
 euSWB.Key0201.mode = miscellanea_en_US_goadedes.misc.Mode6
 euSWB.Key0201.melody = he.h.m6_en_US_goadedes.heHE.IToChaireDiAngelou.melody
@@ -207,7 +207,7 @@ euSWB.Key0239.text = ""
 euSWB.Key0240.incipit = oc.m6.d5_en_US_goadedes.ocMA.Kathisma13.incipit
 euSWB.Key0240.text = oc.m6.d5_en_US_goadedes.ocMA.Kathisma13.text
 
-euSWB.R301 = ""
+euSWB.R301.rubric = ""
 
 euSWB.Key0301.mode = miscellanea_en_US_goadedes.misc.Mode8
 euSWB.Key0301.incipit = "…"
@@ -226,7 +226,7 @@ euSWB.Key0304.mode = miscellanea_en_US_goadedes.misc.Mode8
 euSWB.Key0304.incipit = "…"
 euSWB.Key0304.text = ""
 
-euSWB.R401 = "The celebrant says the following prayer:"
+euSWB.R401.rubric = "The celebrant says the following prayer:"
 euSWB.Key0401a.text = "Lord our God, great in counsel and marvelous in works, maker of all creation, visible and invisible, You keep Your covenant and mercy with those who love You and keep Your commandments, and You consider the pitiable tears of everyone in distress, since this is why You came in the form of a servant, not to frighten us with apparitions, but rather to grant real physical health, saying, “See, you are well! Sin no more.” Indeed, You revitalized eyes with clay, and giving the word that they be washed, You enabled them to dwell in light. You dislodge the heavy rocks of adverse passions. You calm the briny sea of this life. You suppress the violent waves of pleasures. And so we pray, benevolent King, who gave us to wear a snow-white garment by water and the Spirit, send down Your blessing to us as we drink and are sprinkled with this water, and wipe away the filth caused by illnesses and passions."
 euSWB.Key0401b.text = "Yes, good Master, we are praying that You consider our infirmity, and that in Your mercy You cure the ailments of our souls and bodies,"
 euSWB.Key0402.text = "(the saint of the day), whose memory we are observing; and all Your saints."
@@ -234,7 +234,7 @@ euSWB.Key0403.text = "Lord, we also pray that You guard Your servants our govern
 euSWB.Key0404.text = "Remember, O Lord, every Orthodox bishop who rightly teaches the word of Your truth, and all the clergy, and keep them safe and sound. Remember, O Lord, those who hate us and those who love us, our brethren who serve us, the people here in attendance and those who are absent with good cause, and everyone who has asked us the unworthy to pray for them. Remember, O Lord, our brethren who are hostages or refugees and in affliction, and have mercy on them and on us, according to Your great mercy, and deliver us from all distress."
 euSWB.Key0405.text = "For You are the source of cures and healings, O Christ our God, and we offer up glory to You and Your Father, who is without beginning, and Your all-holy, good, and life-creating Spirit, now and ever and to the ages of ages."
 
-euSWB.R501 = "Alternative Prayer said instead of the usual long one for the sake of time."
+euSWB.R501.rubric = "Alternative Prayer said instead of the usual long one for the sake of time."
 euSWB.Key0501.incipit = "O God, renowned for doing wonders…"
 euSWB.Key0501.text = "O God, renowned for doing wonders without number, we Your servants call upon You to come to us now. Send out Your Holy Spirit and bless this water. And as we drink it and are sprinkled with it, release us from every evil, strengthen and cleanse our houses, and expel every demonic activity."
 euSWB.Key0501a.text = "O God, renowned for doing wonders without number, we Your servants call upon You to come to us now. "
@@ -252,17 +252,17 @@ euSWB.Key0503b.text = "(As he says this, he blesses the water crosswise with his
 euSWB.Key0503c.text = "Give it the power to repel any hostile actions. Make it be a source of blessings for all who take it and drink it. May it cure ailments, bless houses, and protect against any assault, seen or unseen. Also bless and sanctify this edifice that is dedicated now by being sprinkled, and preserve it unshaken forever."
 euSWB.Key0504.text = "For You are the illumination, the Savior, and the guardian of our souls and bodies, and we offer up glory to You, the Father and the Son and the Holy Spirit, now and ever and to the ages of ages."
 
-euSWB.R601 = "The celebrant bows his head and quietly says the following prayer:"
+euSWB.R601.rubric = "The celebrant bows his head and quietly says the following prayer:"
 euSWB.Key0601.text = eu.greatblessingofwater_en_US_goadedes.euGW.Prayer41.text
 
-euSWB.R602 = "The celebrant takes the precious Cross and blesses the water by immersing the Cross upright and lifting it three times, as he sings the following hymn:"
+euSWB.R602.rubric = "The celebrant takes the precious Cross and blesses the water by immersing the Cross upright and lifting it three times, as he sings the following hymn:"
 
-euSWB.R603 = "Then the celebrant sprinkles crosswise and sings the following hymn:"
+euSWB.R603.rubric = "Then the celebrant sprinkles crosswise and sings the following hymn:"
 
 euSWB.Key0602.mode = miscellanea_en_US_goadedes.misc.Mode2
 euSWB.Key0602.incipit = "…"
 euSWB.Key0602.text = ""
 
-euSWB.R604 = "Then the celebrant kisses the precious Cross, and so do the rest of those in attendance. Then the celebrant sprinkles each individual on the forehead; and then he proceeds to sprinkle the church (or the house) with holy water."
+euSWB.R604.rubric = "Then the celebrant kisses the precious Cross, and so do the rest of those in attendance. Then the celebrant sprinkles each individual on the forehead; and then he proceeds to sprinkle the church (or the house) with holy water."
 
-euSWB.R605 = "The Priest [or the Choir] sings the following hymn, repeating it as many times as needed until the sprinkling is finished."
+euSWB.R605.rubric = "The Priest [or the Choir] sings the following hymn, repeating it as many times as needed until the sprinkling is finished."

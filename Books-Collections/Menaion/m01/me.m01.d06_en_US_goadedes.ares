@@ -1050,7 +1050,7 @@ meLI.TheotokosHymn.text = me.m01.d06_en_US_goadedes.meMA.Ode9C1H.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 
-meLI.R01 = "In most churches, today’s Great Blessing of Water is performed at the end of the Divine Liturgy."
+meLI.R01.rubric = "In most churches, today’s Great Blessing of Water is performed at the end of the Divine Liturgy."
 
 meLI.Megalynarion.text = ""
 

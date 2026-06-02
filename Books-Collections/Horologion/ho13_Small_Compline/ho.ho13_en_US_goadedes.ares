@@ -3,8 +3,8 @@ A_Resource_Whose_Name = ho.ho13_en_US_goadedes
 hoSC.title = ""
 hoSC.title1 = ""
 
-hoSC.R101 = ""
-hoSC.R201 = ""
+hoSC.R101.rubric = ""
+hoSC.R201.rubric = ""
 
 hoSC.VerseBeforePrayerToTheotokos.text = ""
 
