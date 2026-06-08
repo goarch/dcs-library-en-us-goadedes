@@ -42,44 +42,44 @@ meVE.Stichera03.text = "Now the metaphorical all-blameless heifer, who in her wo
 meVE.Stichera04.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera04.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
 meVE.Stichera04.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
-meVE.Stichera04.incipit = "…"
-meVE.Stichera04.text = ""
+meVE.Stichera04.incipit = "O all-lauded one…"
+meVE.Stichera04.text = "O all-lauded one, having dyed * for yourself a magnificent * garment of salvation in your own crimson blood, * and as you glowed in the Spirit’s grace, * to Christ the immortal King * you were mystically betrothed. * He preserved you immaculate and impeccable * in the heavenly chambers as beautiful and undefiled virgin, * O Juliana, forevermore."
 
 meVE.Stichera05.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera05.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
-meVE.Stichera05.incipit = "…"
-meVE.Stichera05.text = ""
+meVE.Stichera05.incipit = "Blessed Saint…"
+meVE.Stichera05.text = "Blessed Saint, you experienced * violent torture and scorching fire * and the mutilation of your most supple flesh. * You bravely bore being thrown into * a cauldron. With your resolve * undefeated, you did not * to the idols make sacrifice, but you bowed your neck * to the true God, for which being beheaded, you were taken up to heaven, * wearing the halo of victory."
 
 meVE.Stichera06.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera06.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
-meVE.Stichera06.incipit = "…"
-meVE.Stichera06.text = ""
+meVE.Stichera06.incipit = "To your Bridegroom…"
+meVE.Stichera06.text = "To your Bridegroom, O glorious * virgin Martyr, you brough with you * as a precious dowry the holy company * who came to faith after witnessing * the marvelous miracles * you performed by faith in Christ. * By His power He showed you to be superior * to the tortures, the burning wheel, and also mutilation, and from heaven * to you He granted the victory."
 
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.SticGlory.melody = ""
-meVE.SticGlory.incipit = "…"
-meVE.SticGlory.text = ""
+meVE.SticGlory.incipit = "O Zion, celebrate…"
+meVE.SticGlory.text = "O Zion, celebrate! O Jerusalem, be merry! O City of Christ our God, receive the Creator, contained in a manger in a cave! Open your gates to me, and I will enter and see Him, wrapped in swaddling clothes as an infant, who holds the whole world in His hand. He it is whom Angels extol with unceasing song, the Lord and Giver of life, who saves the human race. "
 
 meVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.Aposticha1.greekmelody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.greekname
 meVE.Aposticha1.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
-meVE.Aposticha1.incipit = "…"
-meVE.Aposticha1.text = ""
+meVE.Aposticha1.incipit = "The prophecies…"
+meVE.Aposticha1.text = "The prophecies of all * the Prophets are fulfilled now. * For in the holy city * of Bethlehem is Christ born from the virgin Mother of God."
 
 meVE.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.Aposticha2.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
-meVE.Aposticha2.incipit = "…"
-meVE.Aposticha2.text = ""
+meVE.Aposticha2.incipit = "Bethlehem, the divine…"
+meVE.Aposticha2.text = "Bethlehem, the divine * and holy mother city, * the pride and joy and glory * of all of us the earthborn, receive your Lord and Maker Christ."
 
 meVE.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.Aposticha3.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
-meVE.Aposticha3.incipit = "…"
-meVE.Aposticha3.text = ""
+meVE.Aposticha3.incipit = "Christ, God…"
+meVE.Aposticha3.text = "Christ, God the Father’s Word, * through whom all was created, * without passion or changing, * is seen to be one person in two distinguished essences."
 
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.AposGlory.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
 meVE.AposGlory.incipit = "City of Bethlehem…"
-meVE.AposGlory.text = "City of Bethlehem, * prepare for your Creator, * the grotto and the manger, * and swaddling clothes, for He is now coming to be born in you.*"
+meVE.AposGlory.text = "City of Bethlehem, * prepare for your Creator, * the grotto and the manger, * and swaddling clothes, for He is arriving to be born in you."
 
 meVE.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Apolytikion1.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
