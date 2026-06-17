@@ -150,15 +150,15 @@ meCO.Ode9C13.text = ""
 
 meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Kathisma11.greekmelody = "Ὁ εὐσχήμων Ἰωσήφ."
-meMA.Kathisma11.melody = ""
-meMA.Kathisma11.incipit = "…"
-meMA.Kathisma11.text = ""
+meMA.Kathisma11.melody = "When he took down."
+meMA.Kathisma11.incipit = "My unapproachable God…"
+meMA.Kathisma11.text = "My unapproachable God becomes approachable to me * willingly in His mercy. * He is coming in the flesh, to be born as a human babe, * from a virgin Maiden pure, in the city of Bethlehem. * So let us eagerly make ready to welcome Him, * as we sing with devotion, “Glory to You, O Lord!”"
 
 meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode3
 meMA.Kathisma21.greekmelody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.greekname
 meMA.Kathisma21.melody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.name
-meMA.Kathisma21.incipit = "…"
-meMA.Kathisma21.text = ""
+meMA.Kathisma21.incipit = "A paradoxical wonder…"
+meMA.Kathisma21.text = "A paradoxical wonder is seen today. * For our salvation now our Savior urgently * comes to the grotto to be born from His Virgin Mother physically. * Magi shall arrive with gifts * and shall worship the infant King. * Shepherds and angelic hosts * will glorify and honor Him. * We join them and also cry out, * “Glory to You, who became incarnate for us!”"
 
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
@@ -655,55 +655,55 @@ meMA.Exaposteilarion2.text = "O Bethlehem, land of Judah, * prepare your portals
 meMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Lauds1.greekmelody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.greekname
 meMA.Lauds1.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.name
-meMA.Lauds1.incipit = "…"
-meMA.Lauds1.text = ""
+meMA.Lauds1.incipit = "He who will be born…"
+meMA.Lauds1.text = "He who will be born is divine creative Wisdom, * and the clouds shall open, according to the Prophets. * The grace of God is clearing, and the truth has brightly shone forth. * Finished are the riddles and the shadows. * The gate of Eden is reopened. * O Adam, exult! * Our God who fashioned us has been fashioned voluntarily!"
 
 meMA.Lauds2.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Lauds2.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.name
-meMA.Lauds2.incipit = "…"
-meMA.Lauds2.text = ""
+meMA.Lauds2.incipit = "Fulfilling the predictions…"
+meMA.Lauds2.text = "Fulfilling the predictions and visions of the Prophets, * the Logos is born in the flesh now with a body. * When He was born, He lay in a manger of irrationals. * This is the ultimate condescension * and His awesome plan for our salvation! * And therefore we sing, * “Jesus Christ, who is the King of Israel, has come to earth.”"
 
 meMA.Lauds3.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Lauds3.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.name
-meMA.Lauds3.incipit = "…"
-meMA.Lauds3.text = ""
+meMA.Lauds3.incipit = "You who make…"
+meMA.Lauds3.text = "You who make the world turn by Your command, O Logos, * are wrapped in swaddling clothes and are nursing as an infant, * for You became incarnate, to restore Your image in me * and purge from me the poison of corruption. * O wonder-worker, I extol You, * the Angel of * the Father’s counsel, for thereby I gain immortality."
 
 meMA.Lauds4.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Lauds4.greekmelody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.greekname
 meMA.Lauds4.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.name
-meMA.Lauds4.incipit = "…"
-meMA.Lauds4.text = ""
+meMA.Lauds4.incipit = "You were seen…"
+meMA.Lauds4.text = "You were seen as man, never absent from the Father’s * bosom; and you rode in the belly of the Virgin. * And through a star You summoned out of Persia the magi kings, * who as King and God indeed adored You, * who destroy the rulers of the nations, * as ungodly men, * by the spirit of Your lips, and shepherd Your chosen flock."
 
 meMA.LaudsGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.LaudsGlory.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.name
-meMA.LaudsGlory.incipit = "…"
-meMA.LaudsGlory.text = ""
+meMA.LaudsGlory.incipit = "He who is the Word…"
+meMA.LaudsGlory.text = "He who is the Word, consubstantial with the Father, * and the progeny of the pure and holy Virgin, * is fashioned and develops in her womb; in the course of time * He is born, an infant, in the Grotto. * What on earth is this! Both men and Angels * extol Him and sing, * “Jesus Christ, who is the King of Israel, has come to earth.”"
 
 meMA.LaudsBoth.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.LaudsBoth.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.name
-meMA.LaudsBoth.incipit = "…"
-meMA.LaudsBoth.text = ""
+meMA.LaudsBoth.incipit = "Fulfilled are the sayings…"
+meMA.LaudsBoth.text = "Fulfilled are the sayings of Balaam the diviner. * For they who believed the Persian fables were enlightened * by the illumination of the extraordinary star * and followed it to Christ, the never-setting * Sun, in Bethlehem incarnate, * and by their gifts * declared Him God and King and man who would die voluntarily."
 
 meMA.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Aposticha1.greekmelody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.greekname
 meMA.Aposticha1.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
-meMA.Aposticha1.incipit = "…"
-meMA.Aposticha1.text = ""
+meMA.Aposticha1.incipit = "Already is the star…"
+meMA.Aposticha1.text = "Already is the star * shining above the Grotto. * With precious gifts, O Magi, * and Shepherds with the Angels, prepare to go to Bethlehem."
 
 meMA.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Aposticha2.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
-meMA.Aposticha2.incipit = "…"
-meMA.Aposticha2.text = ""
+meMA.Aposticha2.incipit = "The Lord comes…"
+meMA.Aposticha2.text = "The Lord comes to be born * in Bethlehem to open * Eden to the descendants * of Adam. And the Prophets’ predictions are at last fulfilled."
 
 meMA.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Aposticha3.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
-meMA.Aposticha3.incipit = "…"
-meMA.Aposticha3.text = ""
+meMA.Aposticha3.incipit = "Bethlehem, deck…"
+meMA.Aposticha3.text = "Bethlehem, deck the cave * and cense the holy Grotto. * In you indeed the Master * will radiantly shine forth the rays of His divinity."
 
 meMA.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.AposGlory.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
-meMA.AposGlory.incipit = "…"
-meMA.AposGlory.text = ""
+meMA.AposGlory.incipit = "Come, all you born…"
+meMA.AposGlory.text = "Come, all you born earth, * and let us join in chorus, * ceaselessly praising Mary, * the Virgin Theotokos, from whom our Savior Christ is born."
 
 meLI.Kontakion1.mode = me.m12.d21_en_US_goadedes.meMA.Kontakion1.mode
 meLI.Kontakion1.greekmelody = me.m12.d21_en_US_goadedes.meMA.Kontakion1.greekmelody
