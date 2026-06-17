@@ -969,13 +969,13 @@ meMA.Lauds2.text = "My King, You were wrapped in swaddling bands. I extol You, *
 meMA.Lauds3.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Lauds3.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.name
 meMA.Lauds3.incipit = "The Magi, those wise…"
-meMA.Lauds3.text = "The Magi, those wise astrologers, were by a star led * to see You, the Light from Light begotten, who was shining * on earth, born of the Virgin; * and rejecting the darkness of * Persia and astrology's deception, * they all rejoiced and sang their praises * to God who was born, * and cried aloud, “Glory to You, our God who was born on earth!”"
+meMA.Lauds3.text = "The Magi, those wise astrologers, were by a star led * to see You, the Light from Light begotten, who was shining * on earth, born of the Virgin; * and rejecting the darkness of * Persia and astrology's deception, * they all rejoiced and sang their praises * to God who was born, * “Blessed are You who have been born! Glory to You, our God!”"
 
 meMA.Lauds4.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Lauds4.greekmelody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.greekname
 meMA.Lauds4.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.name
 meMA.Lauds4.incipit = "When Herod perceived…"
-meMA.Lauds4.text = "When Herod perceived that he was mocked by the Magi, * in a rage he ordered the Innocents be slaughtered, * daring to raise against You * his bloodthirsty murderous hand. * Therefore You went down to the Egyptians * and dispelled from them the heavy darkness. * We join them to sing * and cry aloud, “Glory to You, our God who was born on earth!”"
+meMA.Lauds4.text = "When Herod perceived that he was mocked by the Magi, * in a rage he ordered the Innocents be slaughtered, * daring to raise against You * his bloodthirsty murderous hand. * Therefore You went down to the Egyptians * and dispelled from them the heavy darkness. * We join them to sing, * “Blessed are You who have been born! Glory to You, our God!”"
 
 meMA.LaudsGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.LaudsGlory.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.name

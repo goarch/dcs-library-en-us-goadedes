@@ -600,28 +600,28 @@ meMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Lauds1.greekmelody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.greekname
 meMA.Lauds1.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.name
 meMA.Lauds1.incipit = "Great are these mysteries…"
-meMA.Lauds1.text = "Great are these mysteries, transcending understanding! * The untouchable as an infant in a manger * of irrational creatures * has been laid wrapped in swaddling clothes. * From irrationality He frees us, * and He leads us up into the heavens, * as we sing to Him * and cry aloud, “Glory to You, our God who was born on earth!”"
+meMA.Lauds1.text = "Great are these mysteries, transcending understanding! * The untouchable as an infant in a manger * of irrational creatures * has been laid wrapped in swaddling clothes. * From irrationality He frees us, * and He leads us up into the heavens, * as we sing to Him, * “Blessed are You who have been born! Glory to You, our God!”"
 
 meMA.Lauds2.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Lauds2.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.name
 meMA.Lauds2.incipit = "From on high…"
-meMA.Lauds2.text = "From on high a star indicated to the Magi * that the Sun of Righteousness, who is beyond containment, * had come to earth, assuming * our material human flesh, * born inside a Grotto, and reclining * in a manger that contains Him, * Emmanuel; * to whom we sing, “Glory to You, our God who was born on earth!”"
+meMA.Lauds2.text = "From on high a star indicated to the Magi * that the Sun of Righteousness, who is beyond containment, * had come to earth, assuming * our material human flesh, * born inside a Grotto, and reclining * in a manger that contains Him, * Emmanuel. * “Blessed are You who have been born! Glory to You, our God!”"
 
 meMA.Lauds3.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Lauds3.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.name
 meMA.Lauds3.incipit = "Begotten from the Father…"
-meMA.Lauds3.text = "Begotten from the Father before all time, the Logos * has come down to earth and now appears as an infant. * Rejoice in exultation * all the heavens and all the earth, * seeing those who once had been beguiled * reconciled with God and reunited, * as they sing to Him * and cry aloud, “Glory to You, our God who was born on earth!”"
+meMA.Lauds3.text = "Begotten from the Father before all time, the Logos * has come down to earth and now appears as an infant. * Rejoice in exultation * all the heavens and all the earth, * seeing those who once had been beguiled * reconciled with God and reunited, * as they sing to Him, * “Blessed are You who have been born! Glory to You, our God!”"
 
 meMA.Lauds4.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Lauds4.greekmelody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.greekname
 meMA.Lauds4.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.name
 meMA.Lauds4.incipit = "Lord, as You willed…"
-meMA.Lauds4.text = "Lord, as You willed, You bowed the heavens and descended, * wondrously residing in the womb of the Virgin. * We see You born an infant * in the Grotto in Bethlehem. * You were seen on earth and lived among men; * you showed the perfect way of knowledge * to us who sing * and cry aloud, “Glory to You, our God who was born on earth!”"
+meMA.Lauds4.text = "Lord, as You willed, You bowed the heavens and descended, * wondrously residing in the womb of the Virgin. * We see You born an infant * in the Grotto in Bethlehem. * You were seen on earth and lived among men; * you showed the perfect way of knowledge * to us who sing, * “Blessed are You who have been born! Glory to You, our God!”"
 
 meMA.LaudsGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.LaudsGlory.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.name
 meMA.LaudsGlory.incipit = "Seeing that her body…"
-meMA.LaudsGlory.text = "Seeing that her body was intact and unaltered * after undergoing the ineffable childbirth, * the Virgin Mary cried out, * “Lord, whom no one can comprehend, * I swaddle You and hold You as an infant, * and I glorify You with the Shepherds, * and faithfully * I cry aloud, ‘Glory to You, our God who was born on earth!’”"
+meMA.LaudsGlory.text = "Seeing that her body was intact and unaltered * after undergoing the ineffable childbirth, * the Virgin Mary cried out, * “Lord, whom no one can comprehend, * I swaddle You and hold You as an infant, * and I glorify You with the Shepherds * and faithfully sing, * “Blessed are You who have been born! Glory to You, our God!”"
 
 meMA.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Aposticha1.greekmelody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.greekname
@@ -632,12 +632,12 @@ meMA.Aposticha1.text = me.m12.d22_en_US_goadedes.meMA.LaudsGlory.text
 meMA.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Aposticha2.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.name
 meMA.Aposticha2.incipit = "Cry out, O ancestor…"
-meMA.Aposticha2.text = "Cry out, O ancestor of God and Prophet David, * “Before the morning star, a great Star has brightly shone forth.” * And who is this, you ask us. * The One conceived without seed of man * and born of the Virgin. Come, all people, * let us celebrate joy and gladness * of the Mother of God, * and cry aloud, ‘Glory to You, our God who was born on earth!’”"
+meMA.Aposticha2.text = "Cry out, O ancestor of God and Prophet David, * “Before the morning star, a great Star has brightly shone forth.” * Whom do you mean, do tell us. * “The One conceived without seed of man * and born of the Virgin Theotokos.” * Let us rejoice with her, O people, * and cry aloud, * “Blessed are You who have been born! Glory to You, our God!”"
 
 meMA.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Aposticha3.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.name
 meMA.Aposticha3.incipit = "Openly announce…"
-meMA.Aposticha3.text = "Openly announce to us, O Prophet Isaiah, * “A Virgin shall conceive in the womb and bear the Maker * and Master of the ages.” * She gives birth to Him seedlessly * without knowing man. And now, all people, * let us celebrate the joy and gladness * of the Mother of God, * and cry aloud, “Glory to You, our God who was born on earth!”"
+meMA.Aposticha3.text = "Openly announce to us, O Prophet Isaiah, * “A Virgin shall conceive in the womb and bear the Maker * and Master of the ages.” * She gives birth to Him seedlessly * without knowing man. Let us rejoice now * for the joy of the Theotokos * and cry aloud, * “Blessed are You who have been born! Glory to You, our God!”"
 
 meMA.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode5
 meMA.AposGlory.melody = ""

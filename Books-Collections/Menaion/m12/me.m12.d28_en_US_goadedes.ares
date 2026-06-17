@@ -91,8 +91,8 @@ meVE.Apolytikion1.text = oc.m2.d4_en_US_goadedes.ocMA.Kathisma32.text
 meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Kathisma11.greekmelody = he.a.m8_en_US_goadedes.heAU.AnestisEkNekron.greekname
 meMA.Kathisma11.melody = he.a.m8_en_US_goadedes.heAU.AnestisEkNekron.name
-meMA.Kathisma11.incipit = "…"
-meMA.Kathisma11.text = ""
+meMA.Kathisma11.incipit = "A paradox indeed…"
+meMA.Kathisma11.text = "A paradox indeed is this mystery, O faithful! * For God, as He knows how, has been born of a woman. * Seeing His condescension, the hosts of Angels are filled with wonderment, * singing in exultation. * For Christ the Lord has been born to us this day. * As God He came to save the human race * in His divine good pleasure."
 
 meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Kathisma21.greekmelody = he.a.m8_en_US_goadedes.heAU.AvlonPoimenikon.greekname
@@ -388,28 +388,28 @@ meMA.LaudsGlory.text = me.m12.d27_en_US_goadedes.meMA.LaudsBoth.text
 meMA.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Aposticha1.greekmelody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.greekname
 meMA.Aposticha1.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.name
-meMA.Aposticha1.incipit = "…"
-meMA.Aposticha1.text = ""
+meMA.Aposticha1.incipit = "All the world…"
+meMA.Aposticha1.text = "All the world is holding a feast with joy and gladness. * Joining us, the heavens are also celebrating. * Our Maker has been born now from the Virgin in Bethlehem; * and we paradoxically see Him * lying in a manger as an infant. * To Him let us sing, * “Blessed are You who have been born! Glory to You, our God!”"
 
 meMA.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Aposticha2.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.name
-meMA.Aposticha2.incipit = "…"
-meMA.Aposticha2.text = ""
+meMA.Aposticha2.incipit = "You appeared…"
+meMA.Aposticha2.text = "You appeared for us as newborn babe, O Jesus, * who before the ages shone forth from God Your Father, * wishing to make all humans new again, for humanity * became old for having disobeyed You * so long ago. And now forever * we gratefully sing, * “Blessed are You who have been born! Glory to You, our God!”"
 
 meMA.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Aposticha3.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.name
-meMA.Aposticha3.incipit = "…"
-meMA.Aposticha3.text = ""
+meMA.Aposticha3.incipit = "Mountains, hills…"
+meMA.Aposticha3.text = "Mountains, hills and plains and the valleys were extolling * Christ when He was born of the holy Virgin Mary. * A star from heaven guided Persian Magi to worship Him, * lying in a manger as an infant, * who assumed the body of a servant. * To Him let us sing, * “Blessed are You who have been born! Glory to You, our God!”"
 
 meMA.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.AposGlory.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.name
-meMA.AposGlory.incipit = "…"
-meMA.AposGlory.text = ""
+meMA.AposGlory.incipit = "So great is the poverty…"
+meMA.AposGlory.text = "“So great is the poverty that You have adopted, * and by which has Adam become rich in divine gifts!” * So said the Virgin Mary, as she held You in her embrace, * Emmanuel and God the Creator, * who from her became truly incarnate. * To You we all sing, * “Blessed are You who have been born! Glory to You, our God!”"
 
 meMA.AposBoth.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.AposBoth.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.name
-meMA.AposBoth.incipit = "…"
-meMA.AposBoth.text = ""
+meMA.AposBoth.incipit = "The preexisting King…"
+meMA.AposBoth.text = "The preexisting King of the ages, of His own will, * was born as Child; and to us a Son was given. * Gentile nations, hear this, and give ear also, Israel. * Know, and be defeated. He is with us, * and He will crush and break in pieces * every kingdom and rule * from all the earth, who refuse to obey and submit to Him."
 
 meLI.Megalynarion.text = ""
 
