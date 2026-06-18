@@ -26,18 +26,18 @@ meHO.note2 = ""
 meVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera01.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname
 meVE.Stichera01.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
-meVE.Stichera01.incipit = "…"
-meVE.Stichera01.text = ""
+meVE.Stichera01.incipit = "Brighter than the sun…"
+meVE.Stichera01.text = "Brighter than the sun, today, the solemn feast of your memory * has most brilliantly dawned on us, * signaling to all the world that our God is with us. * It drives out demonic darkness and illnesses like mist, * O blessed Basil, from us all who believe. * And that is why each year we celebrate your holy repose, O Saint, * and we joyfully honor you, * glorifying our Savior Christ."
 
 meVE.Stichera02.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera02.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
-meVE.Stichera02.incipit = "…"
-meVE.Stichera02.text = ""
+meVE.Stichera02.incipit = "Your words were…"
+meVE.Stichera02.text = "Your words were like arrows, O all-blessed Saint, and with them you pierced * the assembly of lawless men. * And clouds uttered thunderously on high, as the Psalm says. * The bodiless powers of heaven jubilantly cheered, * as you endured persecution for the Faith. * With joy we also celebrate you and extol you, the world-renowned * luminary who intercedes * for the faithful who honor you."
 
 meVE.Stichera03.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera03.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = ""
+meVE.Stichera03.incipit = "Wisely you exchanged…"
+meVE.Stichera03.text = "Wisely you exchanged the things of earth for things that are heavenly, * what is fleeting for what endures, * perishable glory for everlasting glory; * in place of the exile and all trials you endured, * you have ineffable palaces of God. * As you are now residing there and celebrate with angelic hosts, * father Basil, entreat for all * who with faith praise and honor you."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.SticTheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname
