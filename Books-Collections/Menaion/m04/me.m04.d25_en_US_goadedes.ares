@@ -42,18 +42,25 @@ meVE.Stichera03.text = ""
 meVE.Stichera04.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.Stichera04.greekmelody = he.a.m1_en_US_goadedes.heAU.PaneffimoiMartyres.greekname
 meVE.Stichera04.melody = he.a.m1_en_US_goadedes.heAU.PaneffimoiMartyres.name
-meVE.Stichera04.incipit = "…"
-meVE.Stichera04.text = ""
+meVE.Stichera04.incipit = "You drank from…"
+meVE.Stichera04.text = "You drank from the river of delight, 
+holy and all-blessed Mark, 
+and you are likened to one of the famous rivers of peace, 
+flowing out of Eden, surging over all the earth;
+your preaching of the Gospel is likened to those waters gushing forth, 
+irrigating the entire Church 
+with your teachings and doctrines inspired by God.
+"
 
 meVE.Stichera05.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.Stichera05.melody = he.a.m1_en_US_goadedes.heAU.PaneffimoiMartyres.name
-meVE.Stichera05.incipit = "…"
-meVE.Stichera05.text = ""
+meVE.Stichera05.incipit = "Prophet Moses…"
+meVE.Stichera05.text = "Prophet Moses long ago submerged * the Egyptians in the sea. * And now, all-wise, ever-blessed Mark, you came and rescued them * from the sea of falsehood and pagan idolatry, * empowered by the Lord who, when He was a newborn, took refuge there, * and with His uplifted arm as God * made the idols, the works of their hands, fall down."
 
 meVE.Stichera06.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.Stichera06.melody = he.a.m1_en_US_goadedes.heAU.PaneffimoiMartyres.name
-meVE.Stichera06.incipit = "…"
-meVE.Stichera06.text = ""
+meVE.Stichera06.incipit = "O all-sacred Mark…"
+meVE.Stichera06.text = "O all-sacred Mark, as you partook * of the Holy Spirit’s light, * you thus became wholly spiritual. And now, all-blessed Saint, * by participation in His grace, you have become * divine, as you inclined towards Him ceaselessly and He illumined you, * who are blest now to experience * the summation of salvation’s mystery."
 
 meVE.MM.Stichera1234as78910.text = properties_en_US_goadedes.media.key
 

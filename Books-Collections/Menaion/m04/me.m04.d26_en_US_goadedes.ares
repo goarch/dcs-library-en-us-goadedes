@@ -26,18 +26,18 @@ meHO.note2 = ""
 meVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera01.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
 meVE.Stichera01.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
-meVE.Stichera01.incipit = "…"
-meVE.Stichera01.text = ""
+meVE.Stichera01.incipit = "Great and blessed Basileus…"
+meVE.Stichera01.text = "Great and blessed Basileus, as your name denotes kingly rule, * ruled by the divine law, you reined in passions all. * When you had ordered your intellect to rule all your faculties, * thus becoming one of God’s * worthy ministers, you were anointed by His grace * and ordained as the shepherd of His human flock, O father, thus becoming * the jewel of Martyrs and Hierarchs."
 
 meVE.Stichera02.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera02.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
-meVE.Stichera02.incipit = "…"
-meVE.Stichera02.text = ""
+meVE.Stichera02.incipit = "O all-blessed Basileus…"
+meVE.Stichera02.text = "O all-blessed Basileus, the iniquitous emperor * saw how you were preaching that Christ our God is King, * who like a lamb had been sacrificed to save all humanity, * and that godless worldly king * separated you from your flock like ram, O Saint, * and he unjustly slaughtered you, and you received the kingdom of the heavens, * eternal glory, and majesty."
 
 meVE.Stichera03.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera03.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = ""
+meVE.Stichera03.incipit = "Famous father Basileus…"
+meVE.Stichera03.text = "Famous father Basileus, as the Psalmist said long ago, * wondrously your paths in the waters were, O Saint. * As you foretold, when you died they threw your body into the sea. * Quickly you returned as most * precious cargo and gave yourself to Amaseia, * who has you as her mighty intercessor, and a veritable river * of cures and healings of every kind."
 
 meVE.Apolytikion1ger.poet = poets_en_US_goadedes.po.Gerasimou
 meVE.Apolytikion1ger.mode = miscellanea_en_US_goadedes.misc.Mode1
