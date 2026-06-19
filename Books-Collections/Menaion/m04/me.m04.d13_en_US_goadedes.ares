@@ -26,18 +26,18 @@ meHO.note2 = ""
 meVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.Stichera01.greekmelody = he.a.m8_en_US_goadedes.heAU.TiYmasKalesomen.greekname
 meVE.Stichera01.melody = he.a.m8_en_US_goadedes.heAU.TiYmasKalesomen.name
-meVE.Stichera01.incipit = "…"
-meVE.Stichera01.text = ""
+meVE.Stichera01.incipit = "Martin, how should we…"
+meVE.Stichera01.text = "Martin, how should we be saluting you? * The illustrious instructor of all Orthodox beliefs. * Sacred expert on theology and genuine divine. * The honest judge and critic of dishonesty. * The brave and mighty advocate of God the Word. * Most sacred cleric and hierarch. * Venerable worker of miracles. * Pray earnestly to the Master that He save our souls."
 
 meVE.Stichera02.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.Stichera02.melody = he.a.m8_en_US_goadedes.heAU.TiYmasKalesomen.name
-meVE.Stichera02.incipit = "…"
-meVE.Stichera02.text = ""
+meVE.Stichera02.incipit = "Martin, now to what…"
+meVE.Stichera02.text = "Martin, now to what shall we liken you? * To a river ever flowing with its spiritual streams, * that are irrigating souls so they produce the Spirit’s fruit; * a lantern brightly shining with the light of truth; * a mountain that is dripping with the joy of God. * You explicated the words of God, * and you reproached every heresy. * Pray earnestly to the Master that He save our souls."
 
 meVE.Stichera03.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.Stichera03.melody = he.a.m8_en_US_goadedes.heAU.TiYmasKalesomen.name
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = ""
+meVE.Stichera03.incipit = "Martin, how shall…"
+meVE.Stichera03.text = "Martin, how shall we be addressing you? * Pious priest of the true tent and tabernacle of the Lord, * mediating on behalf of us the creatures and our God. * A wine bowl overflowing with a godly drink. * Possessing words of life, you were a shining star * that started out in the West and went * into the East, where you shone and set. * Pray earnestly to the Master that He save our souls."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.SticTheotokion.greekmelody = he.a.m8_en_US_goadedes.heAU.TiYmasKalesomen.greekname
