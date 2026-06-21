@@ -43,14 +43,7 @@ meVE.Stichera04.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.Stichera04.greekmelody = he.a.m1_en_US_goadedes.heAU.PaneffimoiMartyres.greekname
 meVE.Stichera04.melody = he.a.m1_en_US_goadedes.heAU.PaneffimoiMartyres.name
 meVE.Stichera04.incipit = "You drank from…"
-meVE.Stichera04.text = "You drank from the river of delight, 
-holy and all-blessed Mark, 
-and you are likened to one of the famous rivers of peace, 
-flowing out of Eden, surging over all the earth;
-your preaching of the Gospel is likened to those waters gushing forth, 
-irrigating the entire Church 
-with your teachings and doctrines inspired by God.
-"
+meVE.Stichera04.text = "You drank from the river of delight, * holy and all-blessed Mark, * and you are likened to one of the famous rivers of peace, * flowing out of Eden, surging over all the earth; * your preaching of the Gospel is likened to those waters gushing forth, * irrigating the entire Church * with your teachings and doctrines inspired by God."
 
 meVE.Stichera05.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.Stichera05.melody = he.a.m1_en_US_goadedes.heAU.PaneffimoiMartyres.name
