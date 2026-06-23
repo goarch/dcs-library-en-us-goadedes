@@ -342,12 +342,12 @@ meMA.Ode6C2T.melody = he.h.m1_en_US_goadedes.heHE.SplanchnonIonan.name
 meMA.Ode6C2T.incipit = "…"
 meMA.Ode6C2T.text = ""
 
-meMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Kontakion1.melody = miscellanea_en_US_goadedes.misc.Automelon
-meMA.Kontakion1.incipit = "…"
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.mode = me.m12.d17_en_US_goadedes.meMA.Kontakion2.mode
+meMA.Kontakion1.melody = me.m12.d17_en_US_goadedes.meMA.Kontakion2.melody
+meMA.Kontakion1.incipit = me.m12.d17_en_US_goadedes.meMA.Kontakion2.incipit
+meMA.Kontakion1.text = me.m12.d17_en_US_goadedes.meMA.Kontakion2.text
 
-meMA.Oikos1.text = ""
+meMA.Oikos1.text = me.m12.d17_en_US_goadedes.meMA.Oikos2.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_goadedes.misc.Mode8
@@ -537,15 +537,15 @@ meMA.Lauds1.text = ""
 meMA.MM.Lauds1123as5678.text = properties_en_US_goadedes.media.key
 meMA.MM.Lauds123as345.text = properties_en_US_goadedes.media.key
 
-meMA.Lauds2.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Lauds2.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
-meMA.Lauds2.incipit = "…"
-meMA.Lauds2.text = ""
+meMA.Lauds2.mode = me.m12.d17_en_US_goadedes.meMA.Aposticha3.mode
+meMA.Lauds2.melody = me.m12.d17_en_US_goadedes.meMA.Aposticha3.melody
+meMA.Lauds2.incipit = me.m12.d17_en_US_goadedes.meMA.Aposticha3.incipit
+meMA.Lauds2.text = me.m12.d17_en_US_goadedes.meMA.Aposticha3.text 
 
-meMA.Lauds3.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Lauds3.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
-meMA.Lauds3.incipit = "…"
-meMA.Lauds3.text = ""
+meMA.Lauds3.mode = me.m12.d17_en_US_goadedes.meMA.Aposticha2.mode
+meMA.Lauds3.melody = me.m12.d17_en_US_goadedes.meMA.Aposticha2.melody
+meMA.Lauds3.incipit = me.m12.d17_en_US_goadedes.meMA.Aposticha2.incipit
+meMA.Lauds3.text = me.m12.d17_en_US_goadedes.meMA.Aposticha2.text 
 
 meMA.LaudsGlory.poet = poets_en_US_goadedes.po.Germanou
 meMA.LaudsGlory.mode = miscellanea_en_US_goadedes.misc.Mode7

@@ -357,8 +357,8 @@ meMA.Exaposteilarion1.text = ""
 
 meMA.ExapStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode3
 meMA.ExapStavrotheotokion.melody = he.a.m3_en_US_goadedes.heAU.EnPnevmatiToIero.name
-meMA.ExapStavrotheotokion.incipit = "…"
-meMA.ExapStavrotheotokion.text = ""
+meMA.ExapStavrotheotokion.incipit = "We place in you…"
+meMA.ExapStavrotheotokion.text = "We place in you our every hope, * all-holy Theotokos, * and we attain the victory * over our adversaries * of both the flesh and the spirit, * for we have the precious Cross * of your Son, our Lord and Savior, * as a weapon and a shield, * as a gun and bayonet * and bullets against the devil."
 
 meMA.Lauds1.poet = poets_en_US_goadedes.po.AndreouPyrou
 meMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode4

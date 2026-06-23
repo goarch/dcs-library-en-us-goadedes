@@ -553,8 +553,8 @@ meMA.ExapTheotokion.text = ""
 meMA.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Aposticha1.greekmelody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.greekname
 meMA.Aposticha1.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
-meMA.Aposticha1.incipit = "…"
-meMA.Aposticha1.text = ""
+meMA.Aposticha1.incipit = "Come, let us celebrate…"
+meMA.Aposticha1.text = "Come, let us celebrate * the memory of Daniel * and the holy three Servants, * extolling their achievements, * for which the have been magnified."
 
 meMA.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Aposticha2.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
@@ -566,10 +566,10 @@ meMA.Aposticha3.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
 meMA.Aposticha3.incipit = "…"
 meMA.Aposticha3.text = ""
 
-meMA.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.AposGlory.melody = ""
-meMA.AposGlory.incipit = "…"
-meMA.AposGlory.text = ""
+meMA.AposGlory.mode = me.m12.d17_en_US_goadedes.meVE.SticGlory.mode
+meMA.AposGlory.melody = me.m12.d17_en_US_goadedes.meVE.SticGlory.melody
+meMA.AposGlory.incipit = me.m12.d17_en_US_goadedes.meVE.SticGlory.incipit
+meMA.AposGlory.text = me.m12.d17_en_US_goadedes.meVE.SticGlory.text
 
 meMA.AposBoth.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.AposBoth.melody = ""
@@ -731,14 +731,14 @@ alt1.meMA.Kathisma23.text = "Our God and Father, in Your love and compassion, * 
 alt1.meMA.Kathisma31.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt1.meMA.Kathisma31.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
 alt1.meMA.Kathisma31.melody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.name
-alt1.meMA.Kathisma31.incipit = "…"
-alt1.meMA.Kathisma31.text = ""
+alt1.meMA.Kathisma31.incipit = "From an unforgiven ban…"
+alt1.meMA.Kathisma31.text = "From an unforgiven ban you once released a woman’s corpse, * and at once it was returned into the ground from which it came. * When you had done this, as a faithful servant of Christ, * as humble and averse to any fame and renown, * you swore all those who saw the frightful miracle * never to speak of it to anyone as long as you were still alive, O Saint. * But grace divine made you a well of miracles * for all, O blessed Dionysius."
 
 alt1.meMA.Kathisma32.mode = miscellanea_en_US_goadedes.misc.Mode8
 alt1.meMA.Kathisma32.greekmelody = he.a.m8_en_US_goadedes.heAU.ToProstachthen.greekname
 alt1.meMA.Kathisma32.melody = he.a.m8_en_US_goadedes.heAU.ToProstachthen.name
-alt1.meMA.Kathisma32.incipit = "…"
-alt1.meMA.Kathisma32.text = ""
+alt1.meMA.Kathisma32.incipit = "Come, O believers…"
+alt1.meMA.Kathisma32.text = "Come, O believers, let us all begin to celebrate * in preparation of the feast of Christ’s Nativity, * and anticipate it worthily by presenting * the virtues, as did the Magi their precious gifts, * and joining the Angels singing a new song * to our God, whom the virgin Theotokos without seed * has borne for us in Bethlehem, * And the universe glorifies Him."
 
 alt1.meMA.PostGospelGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 alt1.meMA.PostGospelGlory.melody = ""

@@ -393,8 +393,8 @@ meMA.Ode6C2T.melody = he.h.m1_en_US_goadedes.heHE.SplanchnonIonan.name
 meMA.Ode6C2T.incipit = "…"
 meMA.Ode6C2T.text = ""
 
-meMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Kontakion1.melody = ""
+meMA.Kontakion1.mode = me.m12.d17_en_US_goadedes.meMA.Kontakion2.mode
+meMA.Kontakion1.melody = me.m12.d17_en_US_goadedes.meMA.Kontakion2.melody
 meMA.Kontakion1.incipit = me.m12.d17_en_US_goadedes.meMA.Kontakion2.incipit
 meMA.Kontakion1.text = me.m12.d17_en_US_goadedes.meMA.Kontakion2.text
 
