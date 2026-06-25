@@ -763,7 +763,7 @@ meMA.Ode3KathismaSt.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
 meMA.Ode3KathismaSt.incipit = me.m01.d24_en_US_goadedes.meMA.Ode3KathismaSt.incipit
 meMA.Ode3KathismaSt.text = me.m01.d24_en_US_goadedes.meMA.Ode3KathismaSt.text
 
-alt1.meDA.insert1 = "and our devout father Parthenios, bishop of Lampsacus," //for use in petitions and dismissal
+alt1.meDA.insert1 = "of our devout father Parthenios, bishop of Lampsacus," //for use in petitions and dismissal
 alt1.meDA.insert2 = "whose memory we are celebrating," //for use in petitions and dismissal
 alt1.meDA.poet = ""
 
