@@ -41,8 +41,8 @@ meVE.Stichera03.text = "Blessed Lady full of grace, you once bestowed your most 
 
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.SticGlory.melody = ""
-meVE.SticGlory.incipit = "…"
-meVE.SticGlory.text = ""
+meVE.SticGlory.incipit = "Cleansed in heart…"
+meVE.SticGlory.text = "Cleansed in heart and mind, let us join the Angels and festively celebrate, leading off by singing the words of David, to the virgin Bride of the King, Christ our God: “Arise, O Lord, into Your rest, You and the ark of Your holiness. You have adorned her as splendid palace, and You have bequeathed her to Your city, O Master, to care for it and protect it from foreign invasion, by Your mighty power, at her entreaties.”"
 
 meVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.Aposticha1.greekmelody = he.a.m1_en_US_goadedes.heAU.PaneffimoiMartyres.greekname
