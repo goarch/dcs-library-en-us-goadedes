@@ -51,8 +51,12 @@ trVE.AposTheotokion.melody = ""
 trVE.AposTheotokion.incipit = oc.m2.d1_en_US_goadedes.ocVE.AposTheotokion.incipit
 trVE.AposTheotokion.text = oc.m2.d1_en_US_goadedes.ocVE.AposTheotokion.text
 
-trVE.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode8
-trVE.Apolytikion1.melody = he.ga_en_US_goadedes.heGA.EnSoiMiterAkrivos.name
+trVE.Apolytikion1.mode = me.m04.d01_en_US_goadedes.meVE.Apolytikion1.mode
+trVE.Apolytikion1.common = me.m04.d01_en_US_goadedes.meVE.Apolytikion1.common
+trVE.Apolytikion1.melody = ""
+trVE.Apolytikion1.incipit = me.m04.d01_en_US_goadedes.meVE.Apolytikion1.incipit
+trVE.Apolytikion1.text = me.m04.d01_en_US_goadedes.meVE.Apolytikion1.text
+
 trVE.GeneralApolytikion1.name = ""
 trVE.Apolytikion1.text = properties_en_US_goadedes.media.key
 

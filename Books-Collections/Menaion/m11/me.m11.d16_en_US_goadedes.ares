@@ -78,6 +78,11 @@ meVE.AposTheotokion.melody = he.o_en_US_goadedes.heOT.TheotokeSyEi.name
 meVE.AposTheotokion.incipit = he.o_en_US_goadedes.heOT.TheotokeSyEi.incipit
 meVE.AposTheotokion.text = he.o_en_US_goadedes.heOT.TheotokeSyEiApostolou.text
 
+meVE.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode3
+meVE.Apolytikion1.common = he.ga_en_US_goadedes.heGA.ApostoleAgie.name
+meVE.Apolytikion1.incipit = "O holy Apostle…"
+meVE.Apolytikion1.text = "O holy Apostle and Evangelist Matthew, make intercession to our merciful God, that He grant our souls forgiveness of offenses."
+
 meVE.GeneralApolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode3
 meVE.GeneralApolytikion1.melody = he.ga_en_US_goadedes.heGA.ApostoleAgie.name
 meVE.GeneralApolytikion1.name = "Matthew,"

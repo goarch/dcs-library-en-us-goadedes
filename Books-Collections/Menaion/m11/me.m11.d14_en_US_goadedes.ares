@@ -77,6 +77,11 @@ meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.incipit = ho.ho23_en_US_goadedes.hoCA.Troparion7.incipit
 meVE.AposTheotokion.text = ho.ho23_en_US_goadedes.hoCA.Troparion7.text
 
+meVE.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode3
+meVE.Apolytikion1.common = he.ga_en_US_goadedes.heGA.ApostoleAgie.name
+meVE.Apolytikion1.incipit = "O holy Apostle…"
+meVE.Apolytikion1.text = "O holy Apostle Philip, make intercession to our merciful God, that He grant our souls forgiveness of offenses."
+
 meVE.GeneralApolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode3
 meVE.GeneralApolytikion1.melody = he.ga_en_US_goadedes.heGA.ApostoleAgie.name
 meVE.GeneralApolytikion1.name = "" // name of saint for General Apolytikia

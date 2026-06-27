@@ -69,6 +69,13 @@ meVE.SticStavrotheotokion2.incipit = "When it saw You…"
 meVE.SticStavrotheotokion2.text = "When it saw You hanging on the Cross, * the sun was appalled, and it put on darkness, O Savior Christ. * Hades and the netherworld shuddered in terror and fear. * Rocks were split, and the dead were raised, with tombs being opened. * All of the angelic orders in the heights were amazed. * And Your all-immaculate Mother, * standing by the Cross, was lamenting, * even as she lauded Your benevolence."
 
 meVE.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode8
+meVE.Apolytikion1.common = he.ga_en_US_goadedes.heGA.EnSoiMiterAkrivos.name
+meVE.Apolytikion1.greekmelody = ""
+meVE.Apolytikion1.melody = ""
+meVE.Apolytikion1.incipit = "In you, O Mother…"
+meVE.Apolytikion1.text = "In you, O Mother, is preserved undistorted what was made in the image of God; for taking up the cross, you followed Christ and by example taught, that we should overlook the flesh, since it passes away, and instead look after the soul, since it is immortal. And therefore, O devout Mary, your spirit rejoices with the angels."
+
+meVE.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.Apolytikion1.melody = he.ga_en_US_goadedes.heGA.EnSoiMiterAkrivos.name
 meVE.GeneralApolytikion1.name = ""
 

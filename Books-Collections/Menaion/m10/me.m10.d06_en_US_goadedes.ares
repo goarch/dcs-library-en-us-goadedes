@@ -79,6 +79,11 @@ meVE.AposTheotokion.melody = he.a.m6_en_US_goadedes.heAU.OlinApothemenoi.name
 meVE.AposTheotokion.incipit = "All-pure Virgin…"
 meVE.AposTheotokion.text = "All-pure Virgin, as I think about the frightful tribunal * and the judgment of the world * by your Son, our Lord and God, when He comes again, * at a loss and afraid, trembling, I am dreading * the examination of my deeds, * all reprehensible, * shameful and despicable, all of them, * indeed deserving odium, * and worthy of darkness and punishment. * See my consternation, see also the contrition of my soul, * and in your pity deliver me * from that painful punishment."
 
+meVE.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode3
+meVE.Apolytikion1.common = he.ga_en_US_goadedes.heGA.ApostoleAgie.name
+meVE.Apolytikion1.incipit = "O holy Apostle…"
+meVE.Apolytikion1.text = "O holy Apostle Thomas, make intercession to our merciful God, that He grant our souls forgiveness of offenses."
+
 meVE.GeneralApolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode3
 meVE.GeneralApolytikion1.melody = he.ga_en_US_goadedes.heGA.ApostoleAgie.name
 meVE.MM.GeneralApolytikion1.text = properties_en_US_goadedes.media.key

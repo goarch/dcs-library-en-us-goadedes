@@ -107,8 +107,8 @@ heGA.EnSoiMiterAkrivos.text1 = "In you, O Mother, is preserved undistorted what 
 heGA.EnSoiMiterAkrivos.text2 = "your spirit rejoices with the angels."
 
 // For one named Hierarch with comma. Insert "O Father and Hierarch St. [name],"
-heGA.KanonaPisteos.name = "The actual facts."
-heGA.KanonaPisteos.incipit = "The actual facts…"
+heGA.KanonaPisteos.name = "A rule of faith."
+heGA.KanonaPisteos.incipit = "A rule of faith…"
 heGA.KanonaPisteos.mode = miscellanea_en_US_goadedes.misc.Mode4
 heGA.KanonaPisteos.melody = ""
 heGA.KanonaPisteos.text1 = "A rule of faith are you, and an icon of gentleness, and a teacher of self-control. And to your flock this was evident, by the truth of your life and deeds. You were humble and therefore you acquired exalted gifts, treasure in heaven for being poor."

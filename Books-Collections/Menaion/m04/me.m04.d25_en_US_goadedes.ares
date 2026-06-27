@@ -83,12 +83,19 @@ meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "…"
 meVE.AposGlory.text = ""
 
-meVE.Apolytikion1ger.poet = poets_en_US_goadedes.po.Gerasimou
-meVE.Apolytikion1ger.mode = miscellanea_en_US_goadedes.misc.Mode4
-meVE.Apolytikion1ger.greekmelody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.greekname
-meVE.Apolytikion1ger.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
-meVE.Apolytikion1ger.incipit = "…"
-meVE.Apolytikion1ger.text = ""
+meVE.Apolytikion2ger.poet = poets_en_US_goadedes.po.Gerasimou
+meVE.Apolytikion2ger.mode = miscellanea_en_US_goadedes.misc.Mode4
+meVE.Apolytikion2ger.greekmelody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.greekname
+meVE.Apolytikion2ger.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
+meVE.Apolytikion2ger.incipit = "…"
+meVE.Apolytikion2ger.text = ""
+
+meVE.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode3
+meVE.Apolytikion1.common = he.ga_en_US_goadedes.heGA.ApostoleAgie.name
+meVE.Apolytikion1.greekmelody = ""
+meVE.Apolytikion1.melody = ""
+meVE.Apolytikion1.incipit = "O holy Apostle…"
+meVE.Apolytikion1.text = "O holy Apostle and Evangelist Mark, make intercession to our merciful God, that He grant our souls forgiveness of offenses."
 
 meVE.GeneralApolytikion1.name = ""
 meVE.MM.GeneralApolytikion1.text = properties_en_US_goadedes.media.key

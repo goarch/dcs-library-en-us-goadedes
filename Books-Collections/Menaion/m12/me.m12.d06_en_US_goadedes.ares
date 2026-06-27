@@ -191,6 +191,13 @@ meVE.AposBoth.melody = ""
 meVE.AposBoth.incipit = "…"
 meVE.AposBoth.text = ""
 
+meVE.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode4
+meVE.Apolytikion1.greekmelody = ""
+meVE.Apolytikion1.melody = ""
+meVE.Apolytikion1.common = he.ga_en_US_goadedes.heGA.KanonaPisteos.name
+meVE.Apolytikion1.incipit = "A rule of faith…"
+meVE.Apolytikion1.text = "A rule of faith are you, and an icon of gentleness, and a teacher of self-control. And to your flock this was evident, by the truth of your life and deeds. You were humble and therefore you acquired exalted gifts, treasure in heaven for being poor. O Father and Hierarch St. Nicholas, intercede with Christ our God, and entreat Him to save our souls."
+
 meVE.GeneralApolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.GeneralApolytikion1.melody = he.ga_en_US_goadedes.heGA.KanonaPisteos.name
 meVE.GeneralApolytikion1.name = ""

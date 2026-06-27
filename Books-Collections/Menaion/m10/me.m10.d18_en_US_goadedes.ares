@@ -101,6 +101,13 @@ meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.incipit = oc.m6.d1_en_US_goadedes.ocVE.AposTheotokion.incipit
 meVE.AposTheotokion.text = oc.m6.d1_en_US_goadedes.ocVE.AposTheotokion.text
 
+meVE.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode3
+meVE.Apolytikion1.common = he.ga_en_US_goadedes.heGA.ApostoleAgie.name
+meVE.Apolytikion1.greekmelody = ""
+meVE.Apolytikion1.melody = ""
+meVE.Apolytikion1.incipit = "O holy Apostle…"
+meVE.Apolytikion1.text = "O holy Apostle and Evangelist Luke, make intercession to our merciful God, that He grant our souls forgiveness of offenses."
+
 meVE.GeneralApolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode3
 meVE.GeneralApolytikion1.melody = he.ga_en_US_goadedes.heGA.ApostoleAgie.name
 meVE.GeneralApolytikion1.name = ""
