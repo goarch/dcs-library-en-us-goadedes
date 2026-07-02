@@ -60,8 +60,8 @@ meVE.Stichera06.text = "Holy Eleazar and the wise * seven youths together with t
 meVE.SticGlory.poet = poets_en_US_goadedes.po.IoannouMonachou
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.SticGlory.melody = ""
-meVE.SticGlory.incipit = "…"
-meVE.SticGlory.text = ""
+meVE.SticGlory.incipit = "The holy Maccabees…"
+meVE.SticGlory.text = "The holy Maccabees said to the tyrant, “O Antiochus, for us there is only one King, God, from whom we came to be, and to whom we shall return. Another world awaits us, more exalted and more permanent. Our homeland is the Jerusalem that is strong and indestructible. Our feast is to live with the Angels.” O Lord, at their intercessions, have mercy on us and save us."
 
 meVE.SticBoth.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.SticBoth.melody = ""
@@ -85,10 +85,10 @@ meVE.Aposticha3.incipit = "When venerating…"
 meVE.Aposticha3.text = "When venerating the precious and holy Cross with a kiss, * we worship Christ the Master who was crucified on it. * And He rewards our faith and devotion with grace, * purifying our lips and souls. * And when we praise and extol Him, He gives us joy * and His spiritual rays of light."
 
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
-meVE.AposGlory.Poet = poets_en_US_goadedes.po.KosmaMonachou
+meVE.AposGlory.poet = poets_en_US_goadedes.po.KosmaMonachou
 meVE.AposGlory.melody = ""
-meVE.AposGlory.incipit = "…"
-meVE.AposGlory.text = ""
+meVE.AposGlory.incipit = "In the hand of God …"
+meVE.AposGlory.text = "In the hand of God are the souls of the righteous, like Abraham, Isaac and Jacob, the forefathers who lived before the law, and forebears of the Maccabees, whom we now extol. These brave men, as descendants of Abraham, strove to emulate their forefather’s faithfulness, and they fought to the death for the faith in God. Together raised with a religious upbringing, and together competing according to the rules, they refuted the ungodliness Antiochus. They did not prefer anything of this present life, but for the sake eternal life, they dedicated everything to God, soul, valor, feeling, young body, and the advantages of being reared in chastity. So admirable is that holy mother, who gave birth to those seven sons! Now we entreat you, O Maccabees, your mother Solomone, and the wise priest Elearzar: When you are in the presence of Christ our God, for whom you strove, to receive from Him the fruits of your labors, earnestly pray for humanity; for He does whatever He wills, and He fulfills your requests, for He does the will of those who fear Him."
 
 meVE.AposBoth.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.AposBoth.melody = ""

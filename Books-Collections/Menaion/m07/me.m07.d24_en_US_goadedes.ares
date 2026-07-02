@@ -44,8 +44,8 @@ meVE.MM.Stichera1123as78910.text = properties_en_US_goadedes.media.key
 meVE.SticGlory.poet = poets_en_US_goadedes.po.Anatoliou
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.SticGlory.melody = ""
-meVE.SticGlory.incipit = "…"
-meVE.SticGlory.text = ""
+meVE.SticGlory.incipit = "You brought your blood…"
+meVE.SticGlory.text = "You brought your blood, like an alabaster flask of ointment, to Christ, your Bridegroom, O undefeated athlete, Martyr Christina; and from Him you received an imperishable crown, O praiseworthy Saint. When a man was bitten by a venomous snaked and died, you revived him when you prayed, invoking the all-holy Spirit. Then you were granted entry to the heavenly chambers, by Jesus, the benevolent Savior of our souls."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.SticTheotokion.melody = ""
@@ -61,8 +61,8 @@ meVE.SticStavrotheotokion.text = me.m06.d01_en_US_goadedes.meVE.SticStavrotheoto
 meVE.AposGlory.poet = poets_en_US_goadedes.po.Georgiou
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.AposGlory.melody = ""
-meVE.AposGlory.incipit = "…"
-meVE.AposGlory.text = ""
+meVE.AposGlory.incipit = "Your deeds corresponded…"
+meVE.AposGlory.text = "Your deeds corresponded indeed to your Christian name, for in your virgin purity you were betrothed to Christ, by the good pleasure of the Father and the cooperation of the Spirit. In the mighty feats of your martyrdom, you shone brighter than sunbeams. And thus you were presented as a pure and unblemished offering on the heavenly table, and forevermore you celebrate in the chorus of the Virgins and Martyrs. Join them in praying for us, O aptly-named Christina, that we who honor you may be granted peace and the great mercy."
 
 meVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.AposTheotokion.greekmelody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.greekname
@@ -392,8 +392,8 @@ meMA.LaudsTheotokion.text = oc.m5.d3_en_US_goadedes.ocVE.AposTheotokion.text
 meMA.LaudsStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode5
 meMA.LaudsStavrotheotokion.greekmelody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.greekname
 meMA.LaudsStavrotheotokion.melody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.name
-meMA.LaudsStavrotheotokion.incipit = "…"
-meMA.LaudsStavrotheotokion.text = ""
+meMA.LaudsStavrotheotokion.incipit = "Your will is that all…"
+meMA.LaudsStavrotheotokion.text = "Your will is that all people obtain * salvation, therefore, O my Christ, as the sinless One, * You willingly gave Your precious and all-immaculate blood * as a price and ransom to deliver us. * And when You were crucified, as Your Mother was watching You, * and she lamented, she was clutching her face in grief, * and she said to You, “O my Son, the unsetting Sun, * how can You set before my eyes? O Savior, the spotless lamb, *You wish to rescue the world by spilling Your holy and precious blood, * and granting great mercy, * Your divine illumination, and peace of God to all.”"
 
 meMA.AposGlory.poet = poets_en_US_goadedes.po.Kyprianou
 meMA.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode1

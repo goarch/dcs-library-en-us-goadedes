@@ -41,8 +41,8 @@ meVE.Stichera03.text = "Martyr Marina, all-lauded Saint, nothing could separate 
 
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.SticGlory.melody = ""
-meVE.SticGlory.incipit = "…"
-meVE.SticGlory.text = ""
+meVE.SticGlory.incipit = "With a songs of elation…"
+meVE.SticGlory.text = "With a songs of elation and psalms of celebration, let us extol the Martyr Marina. While she was on earth, she toppled the delusion of idolatry, and with courage like a man, she trampled the antagonist enemy. And therefore when she finished, she flew up to heaven, with a halo on her head, and she cried aloud, “I long for You, my Bridegroom, and moved by my love, I have delivered my body to the fire. And I will reside in Your eternal mansions, where glad are all who have their dwelling in You.”"
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.SticTheotokion.melody = ""

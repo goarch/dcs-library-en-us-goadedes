@@ -42,8 +42,8 @@ meVE.Stichera03.text = "O glorious Mary, you were filled * with true knowledge a
 meVE.SticGlory.poet = poets_en_US_goadedes.po.Anatoliou
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.SticGlory.melody = ""
-meVE.SticGlory.incipit = "…"
-meVE.SticGlory.text = ""
+meVE.SticGlory.incipit = "As you were the first…"
+meVE.SticGlory.text = "As you were the first to see the divine Resurrection, O Mary Magdalene, you became the first evangelist of the First Cause of all things good, who compassionately deified our nature; and to the Apostles you exclaimed, “Cast aside your dejection, and be filled with exultation! Come and see the risen Christ, who grants the world the great mercy!”"
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.SticTheotokion.melody = ""
@@ -75,8 +75,8 @@ meVE.Aposticha3.text = ""
 meVE.AposGlory.poet = poets_en_US_goadedes.po.Vyzantos
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.AposGlory.melody = ""
-meVE.AposGlory.incipit = "…"
-meVE.AposGlory.text = ""
+meVE.AposGlory.incipit = "Mary Magdalene…"
+meVE.AposGlory.text = "Mary Magdalene was a disciple who loyally ministered to Christ our God, who in His surpassing compassion voluntarily became poor, assuming my poverty. Seeing Him nailed to a cross and enclosed in a tomb, she tearfully said to Him, “What a strange spectacle! You who revived people who died are now regarded as dead! What fragrant ointments should I bring to You, who freed me from the stench of the demons? What tears should I shed for You, who took away the tears of my foremother Eve?” Then the King of all appeared to her as a guard of the Garden, and with His cooling words He wiped away her burning tears, and He said to her, “Go to my brothers, and exclaim the joyful good news, that I am ascending to my Father and your Father, to my God and your God, so that I may grant to the world the great mercy.”"
 
 meVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.AposTheotokion.melody = ""
