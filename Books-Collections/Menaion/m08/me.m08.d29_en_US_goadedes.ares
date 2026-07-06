@@ -31,13 +31,13 @@ meVE.Stichera01.text = ""
 
 meVE.Stichera02.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.Stichera02.melody = ""
-meVE.Stichera02.incipit = "…"
-meVE.Stichera02.text = ""
+meVE.Stichera02.incipit = "The acolyte…"
+meVE.Stichera02.text = "The acolyte of the malevolent devil danced, and she received your head as her reward, O Forerunner. A bloody birthday party! O lawless Herod, you son of dishonesty, would that you had not sworn at all, or after swearing, that you had not kept your promise. Better to break your promise and live, than to keep it and cut off the Forerunner’s head. But we, for our part, honor the Baptist as is right, and we call him blessed, for among those born of women none is greater than John."
 
 meVE.Stichera03.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.Stichera03.melody = ""
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = ""
+meVE.Stichera03.incipit = "O Herod, you should not…"
+meVE.Stichera03.text = "O Herod, you should not have yielded to satanic lust and the sting of lechery and sentenced to death the castigator of adultery. You should not have given his precious head to that lawless woman, for the sake of your oath after the dance. It was wrong! How dare you commit such a murder! How was that promiscuous dancer not consumed by fire, when she carried it on a platter into the party. But we, for our part, honor the Baptist as is right, and we call him blessed, for among those born of women none is greater than John."
 
 meVE.Stichera04.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.Stichera04.melody = ""
@@ -57,24 +57,24 @@ meVE.SticTheotokion.text = oc.m6.d1_en_US_goadedes.ocVE.SticTheotokion.text
 meVE.Lity1.poet = poets_en_US_goadedes.po.GermanouPatriarchou
 meVE.Lity1.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.Lity1.melody = ""
-meVE.Lity1.incipit = "…"
-meVE.Lity1.text = ""
+meVE.Lity1.incipit = "What should we call you…"
+meVE.Lity1.text = "What should we call you, O Prophet? Angel, Apostle, or Martyr? Angel, for you lived one bodiless. Apostle, for you made disciples of the nations. Martyr, for you were beheaded for the sake of Christ. Entreat Him to have mercy on our souls."
 
 meVE.Lity2.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.Lity2.melody = ""
-meVE.Lity2.incipit = "…"
-meVE.Lity2.text = ""
+meVE.Lity2.incipit = "Let us celebrate…"
+meVE.Lity2.text = "Let us celebrate the memory of the cutting off of the Forerunner’s head, which then on the platter was bleeding, but now is pouring out healing, to the ends of the earth."
 
 meVE.Lity3.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.Lity3.melody = ""
-meVE.Lity3.incipit = "…"
-meVE.Lity3.text = ""
+meVE.Lity3.incipit = "Today the unholy mother…"
+meVE.Lity3.text = "Today the unholy mother of murder, with her promiscuous daughter from an unlawful marriage, with murderous intent conspired against the Prophet, whom God promoted above all other Prophets. While abhorrent Herod held a drunken party for his birthday, she coached her to request with an oath the precious and miraculous head of the herald of God. And because of his promise, he gave it to her, as a reward for her provocative dance. Yet even after death, the Prophet of the coming of Christ continued to excoriate them for their sacrilegious marriage, echoing the reproach he had shouted, “You are not permitted to commit adultery with the wife of your brother Philip!” Oh, prophet-killing birthday and bloody banquet! As for us, wearing white in honor of the beheading of the Forerunner, let us solemnly celebrate the feast day. And let us entreat him to implore the Trinity, to free us from the shameful passions and to save our souls."
 
 meVE.LityGlory.poet = poets_en_US_goadedes.po.IoannouMonachou
 meVE.LityGlory.mode = miscellanea_en_US_goadedes.misc.Mode5
 meVE.LityGlory.melody = ""
-meVE.LityGlory.incipit = "…"
-meVE.LityGlory.text = ""
+meVE.LityGlory.incipit = "Eager to escape…"
+meVE.LityGlory.text = "Eager to escape your reproaches for his unlawful marriage, Herod precariously delivered your head to that iniquitous woman, O Forerunner. But the pathetic man did not realize that by parading it on a platter he was rebuking himself. Now we entreat you, O Baptist, the teacher of purity by example and the guide to redeeming repentance, intercede with Christ for us, that He free us from the shameful passions."
 
 meVE.LityBoth.mode = miscellanea_en_US_goadedes.misc.Mode5
 meVE.LityBoth.melody = ""
@@ -88,13 +88,13 @@ meVE.Aposticha1.text = ""
 
 meVE.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.Aposticha2.melody = ""
-meVE.Aposticha2.incipit = "…"
-meVE.Aposticha2.text = ""
+meVE.Aposticha2.incipit = "O all-holy John…"
+meVE.Aposticha2.text = "O all-holy John, you were decapitated for the sake of the Law of the Lord, for with blameless candor you castigated the ungodly king when he broke the Law. Hosts of Angels admire you. Choirs of Apostles and Martyrs glorify you. And we honor your annual memory, all-glorious and blessed Forerunner, as we glorify the Holy Trinity that crowned you."
 
 meVE.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.Aposticha3.melody = ""
-meVE.Aposticha3.incipit = "…"
-meVE.Aposticha3.text = ""
+meVE.Aposticha3.incipit = "The Prophet and son…"
+meVE.Aposticha3.text = "The Prophet and son of a Prophet became greater than all the Prophets. He was sanctified from his mother’s womb, for the service of the Lord. Today, he was beheaded by the lawless king, when the daughter indecently danced. Publicly reproaching before being beheaded, and after beheading as well, he humiliated that house of sin. And we now say to him, “O John the Baptist, with the confidence that you have, earnestly pray on behalf of our souls.”"
 
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.AposGlory.melody = ""

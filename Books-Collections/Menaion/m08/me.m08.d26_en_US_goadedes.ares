@@ -42,8 +42,8 @@ meVE.Stichera03.text = "Adam’s wife back in Paradise * was the cause of his ba
 meVE.SticGlory.poet = poets_en_US_goadedes.po.EfraimKarias
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.SticGlory.melody = ""
-meVE.SticGlory.incipit = "…"
-meVE.SticGlory.text = ""
+meVE.SticGlory.incipit = "The zeal of the pious…"
+meVE.SticGlory.text = "The zeal of the pious husband drew his godly wife to encourage him cheerfully. And Adrian, the most excellent man, accepted Natalie’s words, and finished the race of martyrdom. What a godly wife! She was not like Eve who brought death upon Adam, but for her husband she induced eternal life. As we extol her and her husband, let us sing to Christ, “We pray You, give us Your help, at the intercessions of Your Saints.”"
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.SticTheotokion.greekmelody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.greekname
@@ -75,8 +75,8 @@ meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.AposGlory.melody = ""
-meVE.AposGlory.incipit = "…"
-meVE.AposGlory.text = ""
+meVE.AposGlory.incipit = "Oh blameless team…"
+meVE.AposGlory.text = "Oh blameless team, chosen by the Lord! Oh loving couple, beloved of Christ! Oh excellent marriage, blest by God! Who cannot but marvel, when they hear about their super-human deeds? How did that woman withstand the brutal tyrant with such courage? She bolstered her husband, lest he succumb to torture, and she encouraged him to prefer to die for the faith, rather than to live. How godly were the words that wise Natalie wove! Her divine exhortations parted the heavens and made glorious Adrian known before the throne of the great King. “O holy couple, pray to God for us who observe your memory with love, that we be delivered from all trials and tribulations.”"
 
 meVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.AposTheotokion.melody = he.o_en_US_goadedes.heOT.TheotokeSyEi.name

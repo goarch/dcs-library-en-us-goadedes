@@ -62,8 +62,8 @@ meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.AposGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-meVE.AposGlory.incipit = "…"
-meVE.AposGlory.text = "" //similar to me.m07.d02.meVE.SticGlory.text
+meVE.AposGlory.incipit = me.m07.d02_en_US_goadedes.meVE.SticGlory.incipit
+meVE.AposGlory.text = me.m07.d02_en_US_goadedes.meVE.SticGlory.text
 
 meVE.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.Apolytikion1.melody = ""
