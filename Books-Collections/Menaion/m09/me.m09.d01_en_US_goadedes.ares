@@ -67,8 +67,8 @@ meVE.Stichera07.text = ""
 
 meVE.Stichera08.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.Stichera08.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-meVE.Stichera08.incipit = "…"
-meVE.Stichera08.text = ""
+meVE.Stichera08.incipit = "You will be remembered…"
+meVE.Stichera08.text = "You will be remembered forever, O devout father Symeon, as will your gentle heart, O blessed servant of the Lord. Although you were taken from us, O good shepherd, you have not departed from us in spirit, as you stand in love near God, and as you celebrate in heaven with the Angels. Join them to pray for the salvation of our souls."
 
 meVE.Stichera09.poet = poets_en_US_goadedes.po.Kyprianou
 meVE.Stichera09.mode = miscellanea_en_US_goadedes.misc.Mode2
@@ -91,8 +91,8 @@ meVE.SticGlory.text = "Divine grace hovered over your reliquary, O sanctified Sy
 meVE.SticBoth.poet = poets_en_US_goadedes.po.Vyzantiou
 meVE.SticBoth.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.SticBoth.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-meVE.SticBoth.incipit = "…"
-meVE.SticBoth.text = ""
+meVE.SticBoth.incipit = "O unoriginate Logos…"
+meVE.SticBoth.text = "O unoriginate Logos and Son, united to the Holy Spirit, omnific co-creator of all things visible and invisible, we pray that You bless the crown of this year, preserving all Orthodox Christians in peace, at the intercessions of the Theotokos and of all Your Saints."
 
 meVE.Aposticha1.poet = poets_en_US_goadedes.po.IoannouMonachou
 meVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode1
@@ -103,14 +103,14 @@ meVE.Aposticha1.text = ""
 meVE.Aposticha2.poet = poets_en_US_goadedes.po.IoannouMonachou
 meVE.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.Aposticha2.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-meVE.Aposticha2.incipit = "…"
-meVE.Aposticha2.text = ""
+meVE.Aposticha2.incipit = "O Christ our God…"
+meVE.Aposticha2.text = "O Christ our God, who created all things in wisdom and brought them from nonexistence into being, we pray that You bless the crown of this year, and that You preserve our country uninvaded. In Your power, make our faithful leaders glad; give them victories over our enemies; and at the intercessions of the Theotokos, grant to the world the great mercy."
 
 meVE.Aposticha3.poet = poets_en_US_goadedes.po.Kyprianou
 meVE.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.Aposticha3.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-meVE.Aposticha3.incipit = "…"
-meVE.Aposticha3.text = ""
+meVE.Aposticha3.incipit = "Wondrous are You…"
+meVE.Aposticha3.text = "Wondrous are You, O God, and wondrous are Your works, and inscrutable are Your ways. For You are the Wisdom of God, perfect hypostasis and power, co-unoriginate and co-eternal co-operation. As such, in Your omnipotent authority, You came to the world, ineffably born from Your virgin Mother, without being altered in Your divinity, seeking Your creature, whom You made beautiful. And You who do not change have set terms and times for our salvation. And therefore we sing to You: O good Lord, glory to You!"
 
 meVE.Aposticha4.poet = poets_en_US_goadedes.po.IoannouMonachou
 meVE.Aposticha4.mode = miscellanea_en_US_goadedes.misc.Mode2
