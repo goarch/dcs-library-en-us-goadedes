@@ -579,8 +579,8 @@ meMA.ExapTheotokion.text = ""
 meMA.AposGlory.poet = poets_en_US_goadedes.po.EfraimKarias
 meMA.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.AposGlory.melody = ""
-meMA.AposGlory.incipit = "…"
-meMA.AposGlory.text = ""
+meMA.AposGlory.incipit = "Every city and land…"
+meMA.AposGlory.text = "Every city and land today celebrates the memory of the honorable patron saint of that great city of Nicomedia. Indeed, believers throughout the world are hearing joyful hymns, as they observe the feast of the Hieromartyr. Weaving garlands for him, using songs instead of flowers, let us salute him and sing, “Rejoice! You are a good shepherd, for you laid down your life for the sake of the sheep. You were sacrifice and sacrificer, priest and offering. We now pray to you and your fellow martyr Saints, O Anthimos; entreat Christ on our behalf, to rescue this flock of yours from foreign enemies as from wolves, and to grant us entry into the heavenly sheepfold.”"
 
 meMA.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.AposTheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname

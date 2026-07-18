@@ -58,8 +58,8 @@ meVE.Stichera06.text = ""
 meVE.SticGlory.poet = poets_en_US_goadedes.po.Vyzantiou
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.SticGlory.melody = ""
-meVE.SticGlory.incipit = "…"
-meVE.SticGlory.text = ""
+meVE.SticGlory.incipit = "As a child…"
+meVE.SticGlory.text = "As a child of parents who walked in the way of the Lord, you were like a newly planted olive tree around the table of God. The Lord blessed you through martyrdom, and you see the good things of celestial Zion, where you enjoy divine delight with your parents forever, O praiseworthy St. Mamas. Pray for us that we may join them in this experience."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.SticTheotokion.greekmelody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.greekname
@@ -75,8 +75,8 @@ meVE.SticStavrotheotokion.text = ""
 
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.AposGlory.melody = ""
-meVE.AposGlory.incipit = "…"
-meVE.AposGlory.text = ""
+meVE.AposGlory.incipit = "Come, O believers…"
+meVE.AposGlory.text = "Come, O believers, let us join our voices and celebrate the memory of the Martyr Mamas. We can liken him to Abel of old, who was a shepherd of sheep, the first to offer up a lamb as a sacrifice, and the first to receive a martyr’s crown. For the glorious Martyr was renowned as a shepherd of sheep, and he offered himself to Christ, as an acceptable sacrificial victim through martyrdom. He now has confidence before the Lord, and he prays for world peace, and that great mercy be given to our souls."
 
 meVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.AposTheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
