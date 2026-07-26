@@ -20,6 +20,10 @@ hoMO.StBasilPrayer2.rubric = ""
 hoMO.StBasilPrayer2.title = ""
 hoMO.StBasilPrayer2.text = ""
 
+hoMO.TroparionForDeceased.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoMO.TroparionForDeceased.incipit = "Remember Your servants…"
+hoMO.TroparionForDeceased.text = "Remember Your servants, O Lord, since You are good; and forgive their every sin committed in life. For no one is sinless except for You, who are able to give repose to the departed."
+
 hoMO.PrayerForDeceased.rubric = ""
 hoMO.PrayerForDeceased.title = ""
 hoMO.PrayerForDeceased.text = ""
