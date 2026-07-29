@@ -166,14 +166,14 @@ meVE.Apolytikion1.text = ""
 meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Kathisma11.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
 meMA.Kathisma11.melody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.name
-meMA.Kathisma11.incipit = "…"
-meMA.Kathisma11.text = ""
+meMA.Kathisma11.incipit = "Prophet David, tell us…"
+meMA.Kathisma11.text = "Prophet David, tell us please, * what oath did God swear to you? * He replies, “That which He swore, behold, today He fulfilled, * for He has given the Virgin as the fruit of my loins. * From her has Christ the new Adam and Fashioner * been born, as it is written, to be King on my throne. * And He whose reign is unshakable is reigning today and forevermore. * The Theotokos, who is the nurturer * of our Life is born of the barren one.”"
 
 meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Kathisma21.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
 meMA.Kathisma21.melody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.name
-meMA.Kathisma21.incipit = me.m09.d07_en_US_goadedes.meVE.Apolytikion1.incipit
-meMA.Kathisma21.text = me.m09.d07_en_US_goadedes.meVE.Apolytikion1.text
+meMA.Kathisma21.incipit = "Unto us is born…"
+meMA.Kathisma21.text = "Unto us is born today Mary the Mother of God, * as the branch from Jesse’s root, and as the fruit of David’s loins; * and all creation is renovated and deified. * O heaven and the earth, rejoice in unison. * All nations and ethnicities, sing praises to her. * Joachim is rejoicing, and Anna is celebrating crying out, * “The Theotokos, who is the nurturer * of our Life is born of the barren one.”"
 
 meMA.Kathisma31.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Kathisma31.greekmelody = he.a.m8_en_US_goadedes.heAU.ToProstachthen.greekname
@@ -556,10 +556,10 @@ meMA.Ode6C2T.text = ""
 
 meMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Kontakion1.melody = ""
-meMA.Kontakion1.incipit = "…"
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.incipit = "Joachim and Anna…"
+meMA.Kontakion1.text = "Joachim and Anna were released from the reproach of childlessness, and Adam and Eve delivered from death and destruction, through your holy childbirth, O immaculate Virgin. We, your people, now redeemed from the guilt of transgressions, celebrate your holy birth as we sing to you: “The barren one bears the Theotokos, the nurturer of our Life.”"
 
-meMA.Oikos1.text = ""
+meMA.Oikos1.text = "Childless Joachim’s prayer, and infertile Anna’s sigh, reached the ears of the Lord, by whom they were well received. Then, that pair produced a fruit that would bring forth life to the world. For he, on the mountain, had prayed his request, while she, in the garden, had borne the reproach. Then, with joy, the barren one bears the Theotokos, the nurturer of our Life."
 
 meMA.Ode7C1H.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_goadedes.misc.Mode2

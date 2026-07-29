@@ -123,8 +123,8 @@ meMA.Kathisma21.text = ""
 meMA.Kathisma31.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Kathisma31.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
 meMA.Kathisma31.melody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.name
-meMA.Kathisma31.incipit = "…"
-meMA.Kathisma31.text = ""
+meMA.Kathisma31.incipit = me.m09.d08_en_US_goadedes.meMA.Kathisma11.incipit
+meMA.Kathisma31.text = me.m09.d08_en_US_goadedes.meMA.Kathisma11.text
 
 meMA.C1.poet = poets_en_US_goadedes.po.IoannouMonachou
 meMA.C1.title = titles_en_US_goadedes.ti.CanonConsecration
