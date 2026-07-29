@@ -81,8 +81,8 @@ meVE.Stichera02.text = ""
 
 meVE.Stichera03.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.Stichera03.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = ""
+meVE.Stichera03.incipit = "Famous are the barren…"
+meVE.Stichera03.text = "Famous are the barren women who gave birth by divine decree. Of all those born, Mary divinely shone most illustriously. For in addition to being born of a childless mother wondrously, she physically gave birth to the God of all supernaturally. Her virgin womb receiving not the seed of any man, she thus became the only gate of the only-begotten Son of God, who after He went through, preserved it sealed and shut. Wisely arranging everything, as He alone knows best, He has accomplished the salvation of all humanity."
 
 meVE.Stichera04.poet = poets_en_US_goadedes.po.StefanouAgiopolitou
 meVE.Stichera04.mode = miscellanea_en_US_goadedes.misc.Mode6
@@ -92,8 +92,8 @@ meVE.Stichera04.text = ""
 
 meVE.Stichera05.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.Stichera05.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-meVE.Stichera05.incipit = "…"
-meVE.Stichera05.text = ""
+meVE.Stichera05.incipit = "Today, preluding universal…"
+meVE.Stichera05.text = "Today, preluding universal joy and elation, the breezes are blowing as heralds of our salvation. The barrenness of our human nature is dissolved. For the barren woman has become the mother of her who is a virgin after bearing the Creator. From her, He who is God by nature assumed what He was not, and accomplished through His flesh the salvation of the lost. He is Christ, the benevolent Redeemer of our souls."
 
 meVE.Stichera06.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.Stichera06.melody = miscellanea_en_US_goadedes.misc.Idiomelon
@@ -133,8 +133,8 @@ meVE.Lity4.text = me.m09.d07_en_US_goadedes.meMA.AposGlory.text
 meVE.LityGlory.poet = poets_en_US_goadedes.po.SergiouAgiopolitou
 meVE.LityGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.LityGlory.melody = ""
-meVE.LityGlory.incipit = "…"
-meVE.LityGlory.text = ""
+meVE.LityGlory.incipit = "On this solemn day…"
+meVE.LityGlory.text = "On this solemn day of our feast, let us play our spiritual instruments and sing! For today the Mother of Life is born from the seed of David, dispelling the darkness as the renewal of Adam and the restoration of Eve, the source of incorruption and release from decay. Through her we are deified and delivered from death. O believers, joining Gabriel, let us say to her: “Rejoice, Mary full of grace, the Lord is with you, and through you He grants us great mercy!”"
 
 meVE.Aposticha1.poet = poets_en_US_goadedes.po.GermanouPatriarchou
 meVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode4
@@ -149,8 +149,8 @@ meVE.Aposticha2.text = ""
 
 meVE.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Aposticha3.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-meVE.Aposticha3.incipit = "…"
-meVE.Aposticha3.text = ""
+meVE.Aposticha3.incipit = "Childless and barren…"
+meVE.Aposticha3.text = "Childless and barren Anna, joyfully clap your hands today! Everyone on earth, put on your finest garments! Leap for joy, all you who govern! Priests, be jubilant in your blessings! Let the whole world celebrate! Behold, the Queen and blameless bride of the Father blossomed from the root of Jesse. No longer will women bear children in sorrow, for joy has arisen, and human life is established in the world. No longer are Joachim’s sacrifices rejected, now that Anna’s lamentation has been turned to joy. She says, “Rejoice with me, all chosen people of Israel! For behold, the Lord has given me the living palace of His divine glory, that together we may rejoice in the salvation of our souls.”"
 
 meVE.AposGlory.poet = poets_en_US_goadedes.po.SergiouAgiopolitou
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
