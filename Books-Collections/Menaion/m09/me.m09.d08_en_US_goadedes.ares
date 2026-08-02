@@ -45,8 +45,8 @@ meSV.Stichera4.text = "The barren field, namely Anna, has borne the fruitful gro
 
 meSV.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 meSV.SticGlory.melody = ""
-meSV.SticGlory.incipit = "…"
-meSV.SticGlory.text = ""
+meSV.SticGlory.incipit = "Come now, all who prize…"
+meSV.SticGlory.text = "Come now, all who prize purity and cherish chastity! Eagerly greet that glory of virginity — the spring of Life, gushing from the solid rock, from the childless woman, the bush of immaterial fire, which cleanses and illumines our souls."
 
 meSV.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode2
 meSV.Aposticha1.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
@@ -122,8 +122,8 @@ meVE.Lity2.text = meSV.SticGlory.text
 meVE.Lity3.poet = poets_en_US_goadedes.po.Anatoliou
 meVE.Lity3.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.Lity3.melody = ""
-meVE.Lity3.incipit = "…"
-meVE.Lity3.text = ""
+meVE.Lity3.incipit = "As we sing…"
+meVE.Lity3.text = "As we sing the hymns of this sacred feast, Joachim and Anna celebrate mystically. They say to Adam and Eve, whose transgression shut Paradise long ago: “Today, rejoice with us! For a glorious fruit has been given to us, Mary the Theotokos, who will open entry to all.”"
 
 meVE.Lity4.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.Lity4.melody = ""
