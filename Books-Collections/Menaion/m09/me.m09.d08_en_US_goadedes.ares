@@ -116,8 +116,8 @@ meVE.Lity1.text = "An initial step for our salvation took place on this day, O p
 
 meVE.Lity2.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.Lity2.melody = ""
-meVE.Lity2.incipit = meSV.SticGlory.incipit
-meVE.Lity2.text = meSV.SticGlory.text
+meVE.Lity2.incipit = me.m09.d08_en_US_goadedes.meSV.SticGlory.incipit
+meVE.Lity2.text = me.m09.d08_en_US_goadedes.meSV.SticGlory.text
 
 meVE.Lity3.poet = poets_en_US_goadedes.po.Anatoliou
 meVE.Lity3.mode = miscellanea_en_US_goadedes.misc.Mode2
