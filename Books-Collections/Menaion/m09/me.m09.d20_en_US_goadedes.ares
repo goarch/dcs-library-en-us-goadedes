@@ -405,8 +405,8 @@ meMA.Aposticha3.text = me.m09.d17_en_US_goadedes.meMA.Aposticha2.text
 
 meMA.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.AposGlory.melody = ""
-meMA.AposGlory.incipit = "…"
-meMA.AposGlory.text = ""
+meMA.AposGlory.incipit = "O Martyr Eustathius…"
+meMA.AposGlory.text = "O Martyr Eustathius, like Paul you received your calling not from men. As you grew in God through your confidence in the Cross, you bravely put to shame the impiety of the tyrants and the severity of the torments. And you struggled against invisible enemies and resisted sin, to the point of shedding your own blood. You now intercede with our King and God, unceasingly praying that He grant peace across the land and the great mercy to our souls."
 
 meMA.AposBoth.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.AposBoth.melody = ""

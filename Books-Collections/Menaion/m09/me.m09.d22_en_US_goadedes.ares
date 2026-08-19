@@ -60,8 +60,8 @@ meVE.Stichera06.text = "You have been given divine grace from Christ the Lord, O
 meVE.SticGlory.poet = poets_en_US_goadedes.po.Kyprianou
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.SticGlory.melody = ""
-meVE.SticGlory.incipit = "…"
-meVE.SticGlory.text = ""
+meVE.SticGlory.incipit = "From a young age…"
+meVE.SticGlory.text = "From a young age you were in love with the Lord, O all-blessed Phocas, hieromartyr of Christ. You took up the armor of the Cross upon your shoulders, and you did not stray as you walked the way of salvation, through which you became a companion of the Angels, an enemy of demons, and a fervent intercessor for the world."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.SticTheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname

@@ -96,13 +96,13 @@ meVE.Lity1.text = ""
 
 meVE.Lity2.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.Lity2.melody = ""
-meVE.Lity2.incipit = "…"
-meVE.Lity2.text = ""
+meVE.Lity2.incipit = "The tree of what is truly life…"
+meVE.Lity2.text = "The tree of what is truly life, on Calvary planted, and on which the King of the ages wrought salvation, in the middle of the earth today exalted, to the ends of the world extends sanctification; and the Church of the Resurrection is dedicated. In heaven Angels are exultant, on earth the people are jubilant, as they sing the words of David, “Exalt the Lord our God, and worship at the footstool of His feet; for He is holy,” He who grants to the world the great mercy."
 
 meVE.Lity3.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.Lity3.melody = ""
-meVE.Lity3.incipit = "…"
-meVE.Lity3.text = ""
+meVE.Lity3.incipit = "O Christ, the Patriarch…"
+meVE.Lity3.text = "O Christ, the Patriarch Jacob prefigured Your Cross, when blessing the sons of Joseph, for crossing his hands he laid one on each of their heads. Today, as we exalt the Cross, we pray to You, O Savior: Grant success to our leaders who love us Christians, as You gave victory long ago to Constantine."
 
 meVE.Lity4.poet = poets_en_US_goadedes.po.Theofanous
 meVE.Lity4.mode = miscellanea_en_US_goadedes.misc.Mode2
@@ -113,8 +113,8 @@ meVE.Lity4.text = me.m09.d13_en_US_goadedes.meVE.AposBoth.text
 meVE.Lity5.poet = poets_en_US_goadedes.po.Kyprianou
 meVE.Lity5.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.Lity5.melody = ""
-meVE.Lity5.incipit = "…"
-meVE.Lity5.text = ""
+meVE.Lity5.incipit = "When Patriarch Jacob…"
+meVE.Lity5.text = "When Patriarch Jacob crossed his hands in blessing Joseph’s sons, he prefigured the mighty sign of Your Cross. Now we possess it as an unbreakable shield, and we mightily drive away demonic hordes. By it we humble the devil’s conceit, and neutralize the lethal forces of implacable Amalek. We the faithful now reverently exalt the Cross, and to receive forgiveness of sins we display it, appealing to Your goodness, as we sing with uplifted voices: O Lord, who became incarnate from the Virgin, have mercy on us! O good One, take pity on us, whom Your hands so wisely fashioned!"
 
 meVE.Lity6.poet = poets_en_US_goadedes.po.LeontosDespotou
 meVE.Lity6.mode = miscellanea_en_US_goadedes.misc.Mode2
@@ -124,14 +124,14 @@ meVE.Lity6.text = me.m09.d14_en_US_goadedes.meSV.SticGlory.text
 
 meVE.Lity7.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Lity7.melody = ""
-meVE.Lity7.incipit = "…"
-meVE.Lity7.text = ""
+meVE.Lity7.incipit = "Let us strike up…"
+meVE.Lity7.text = "Let us strike up our songful festivities today, and with faces aglow and voices aloud resoundingly say: “O Christ, You consented to be condemned; You were spit on and whipped, You wore the purple robe, and You were lifted on the Cross. When the sun and the moon had witnessed this, they hid their light; the earth quaked in fear, and the curtain of the Temple was torn in two. We pray You now to grant us Your precious Cross to guard and protect us, and to drive away demons.” And all of us shall venerate it with a kiss and cry aloud: ‘O Cross, save us by your power; sanctify us by your splendor, and empower us by your exaltation, O holy Cross, for you have been given to us as light and the salvation of our souls.’”"
 
 meVE.Lity8.poet = poets_en_US_goadedes.po.Anatoliou
 meVE.Lity8.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Lity8.melody = ""
-meVE.Lity8.incipit = "…"
-meVE.Lity8.text = ""
+meVE.Lity8.incipit = "O Cross, your radiant…"
+meVE.Lity8.text = "O Cross, your radiant form in the sky foretold victory to the pious emperor, Constantine the Great. When Helen, his mother, discovered you, she displayed you to the world. And even today, we the congregations of believers exalt you and cry aloud: “Illumine us by your radiance, O life-bearing Cross; sanctify us by your strength, O all-venerable Cross; and fortify us by your exaltation, as you are raised against all hostile forces!”"
 
 meVE.LityGlory.poet = poets_en_US_goadedes.po.Anatoliou
 meVE.LityGlory.mode = miscellanea_en_US_goadedes.misc.Mode4
