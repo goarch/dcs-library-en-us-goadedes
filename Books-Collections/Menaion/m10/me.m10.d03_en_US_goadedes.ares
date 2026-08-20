@@ -42,8 +42,8 @@ meVE.Stichera03.text = ""
 meVE.SticGlory.poet = poets_en_US_goadedes.po.AndreouIerosolymitou // οἱ δέ, Βυζαντίου
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.SticGlory.melody = ""
-meVE.SticGlory.incipit = "…"
-meVE.SticGlory.text = ""
+meVE.SticGlory.incipit = "Come, O believers…"
+meVE.SticGlory.text = "Come, O believers, let us all together celebrate the annual commemoration of the hierarchs, Dionysius and Cyprian! The former, spurning the Stoic philosophers and becoming a disciple of that chosen vessel Paul, acquired knowledge of ineffable mysteries. The latter, his mind illumined by the noble maiden Justina, escaped demonic deception. He committed to flames his books of spells and became a preacher of the Gospel. And now let us who are sinners glorify our Savior who glorified them, and cry aloud: “O Christ our God, who crowned Your victorious athletes with glory, accede to their entreaties and save our souls.”"
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.SticTheotokion.greekmelody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.greekname
@@ -59,8 +59,8 @@ meVE.SticStavrotheotokion.text = ""
 
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.AposGlory.melody = ""
-meVE.AposGlory.incipit = "…"
-meVE.AposGlory.text = ""
+meVE.AposGlory.incipit = "We hail you…"
+meVE.AposGlory.text = "We hail you as an unfathomable depth of heavenly knowledge, O wise and brilliant Martyr of Christ, and we extol you as a soldier and mighty champion of the Church. Illumined as you were by the purest fire, you were counted worthy, together with the armies on high, to wear the resplendent panoply, which is Christ, and to have your mind enlightened by the Spirit’s radiance, O Dionysius. And so, as we celebrate your memory throughout the world, we faithfully glorify the Lord who glorified you."
 
 meVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.AposTheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
@@ -361,8 +361,8 @@ meMA.MM.Ve1123as5678.text = properties_en_US_goadedes.media.key
 meMA.AposGlory.poet = poets_en_US_goadedes.po.Germanou
 meMA.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.AposGlory.melody = ""
-meMA.AposGlory.incipit = "…"
-meMA.AposGlory.text = ""
+meMA.AposGlory.incipit = "Illustrious are you…"
+meMA.AposGlory.text = "Illustrious are you among priests and Martyrs, O devout Saint. You proved to be a faithful shepherd by drinking the cup of Christ. As in both of these roles you were pleasing to Him, and living now in the light together with the ministers on high, intercede on behalf of us all."
 
 meMA.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.AposTheotokion.greekmelody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.greekname
