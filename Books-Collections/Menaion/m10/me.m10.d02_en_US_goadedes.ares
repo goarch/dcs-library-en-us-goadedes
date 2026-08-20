@@ -43,8 +43,8 @@ meVE.MM.Stichera1123as78910.text = properties_en_US_goadedes.media.key
 
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.SticGlory.melody = ""
-meVE.SticGlory.incipit = "…"
-meVE.SticGlory.text = ""
+meVE.SticGlory.incipit = "You sincerely cast off…"
+meVE.SticGlory.text = "You sincerely cast off deceitful doctrines and pagan lore, and for salvation you put on the armor of the Cross, O Cyprian all-blessed Saint. You threw away your books of spells, and you put off the old man, and through knowledge of God, the consubstantial Trinity dwelt in you. O Hierarch, join the Angels in imploring the Trinity for our salvation."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.SticTheotokion.greekmelody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.greekname
@@ -60,8 +60,8 @@ meVE.SticStavrotheotokion.text = ""
 
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.AposGlory.melody = ""
-meVE.AposGlory.incipit = "…"
-meVE.AposGlory.text = ""
+meVE.AposGlory.incipit = "Let us extol Cyprian…"
+meVE.AposGlory.text = "Let us extol Cyprian, that beacon of divine light and kindred spirit to Paul in his labors! For he received the crown of incorruption from the only God, and now exults with the Angels, and prays for the salvation of our souls."
 
 meVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.AposTheotokion.greekmelody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.greekname
@@ -360,8 +360,8 @@ meMA.MM.Ve1123as5678.text = properties_en_US_goadedes.media.key
 
 meMA.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.AposGlory.melody = ""
-meMA.AposGlory.incipit = "…"
-meMA.AposGlory.text = ""
+meMA.AposGlory.incipit = "That meticulous master…"
+meMA.AposGlory.text = "That meticulous master of wickedness and minister of pagan rites emerged as a trusted teacher of the Faith and bishop of the Church. Formerly licentious, he acquired self-control through a holy maiden. At the prayers of them both, save us, O Lord."
 
 meMA.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.AposTheotokion.greekmelody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.greekname
