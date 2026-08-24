@@ -58,8 +58,8 @@ meVE.Stichera06.text = "You were suddenly deprived of both of your precious chil
 meVE.SticGlory.poet = poets_en_US_goadedes.po.Theofanous
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.SticGlory.melody = ""
-meVE.SticGlory.incipit = "…"
-meVE.SticGlory.text = ""
+meVE.SticGlory.incipit = "Clearly you, O James…"
+meVE.SticGlory.text = "Clearly you, O James, received the Holy Spirit’s grace, and you were numbered in the sacred fellowship of the Apostles. And once you were imbued with a fiery tongue, when that rush of mighty wind came from heaven, you burned up the thorny godlessness of the pagan nations. O herald of God, implore Christ our God to save our souls."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.SticTheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
@@ -75,8 +75,8 @@ meVE.SticStavrotheotokion.text = me.m10.d05_en_US_goadedes.meVE.SticStavrotheoto
 
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode5
 meVE.AposGlory.melody = ""
-meVE.AposGlory.incipit = "…"
-meVE.AposGlory.text = ""
+meVE.AposGlory.incipit = "We faithfully celebrate…"
+meVE.AposGlory.text = "We faithfully celebrate the all-holy day of your memory, O glorious St. James, and we extol you, not as the son of Alphaeus, but as the Apostle of Christ and a preacher of His ineffable incarnation. Therefore, as you are always near the Master’s throne,  together with bodiless hosts, and the choirs of the Apostles and Martyrs, earnestly entreat our Savior and God to save us."
 
 meVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode5
 meVE.AposTheotokion.greekmelody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.greekname
@@ -611,8 +611,8 @@ meMA.MM.Lauds1123as5678.text = properties_en_US_goadedes.media.key
 
 meMA.LaudsGlory.mode = miscellanea_en_US_goadedes.misc.Mode5
 meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.incipit = "…"
-meMA.LaudsGlory.text = ""
+meMA.LaudsGlory.incipit = me.m10.d09_en_US_goadedes.meVE.AposGlory.incipit
+meMA.LaudsGlory.text = me.m10.d09_en_US_goadedes.meVE.AposGlory.text
 
 meMA.LaudsTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode5
 meMA.LaudsTheotokion.melody = ""

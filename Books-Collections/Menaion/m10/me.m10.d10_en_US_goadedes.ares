@@ -42,8 +42,8 @@ meVE.Stichera03.text = "Wounded by the love of Christ the King of all, O Eulampi
 meVE.SticGlory.poet = poets_en_US_goadedes.po.IoannouMonachou
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.SticGlory.melody = ""
-meVE.SticGlory.incipit = "…"
-meVE.SticGlory.text = ""
+meVE.SticGlory.incipit = "Homonymity fused…"
+meVE.SticGlory.text = "Homonymity fused with sibling affection, and celibacy coupled with dispassion, combined to preserve intact the vigor of the resolve. Indeed, where God is the object of longing, the entire world is counted as nothing. This is truly marvelous! The serpent has been slain, and the devil who set his mouth against heaven is cast down to the netherworld by the sibling Martyrs, Eulampius the wise and his sister Eulampia. Let us sing thoughtful hymns to them and say: “Since you have successfully finished the race in Christ, ask from Him for world peace and to grant the great mercy to our souls.”"
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.SticTheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname
@@ -59,8 +59,8 @@ meVE.SticStavrotheotokion.text = "Savior, when Your side was pierced, the bond t
 
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.AposGlory.melody = ""
-meVE.AposGlory.incipit = "…"
-meVE.AposGlory.text = ""
+meVE.AposGlory.incipit = "The sibling pair…"
+meVE.AposGlory.text = "The sibling pair, illumined by the Trinity’s light, overcame the tyrant’s brutality. As they trampled the flames, they danced and sang: “Behold now, what is so good or so pleasant as for siblings to dwell together?” Since they longed for divine glory, they were granted heavenly glory. And now they intercede with Christ God on our behalf, for the salvation of our souls."
 
 meVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.AposTheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname
