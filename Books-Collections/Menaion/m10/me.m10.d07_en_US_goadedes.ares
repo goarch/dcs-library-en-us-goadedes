@@ -41,8 +41,8 @@ meVE.Stichera03.text = "Bacchus and Sergius, we know * that you both courageousl
 
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.SticGlory.melody = ""
-meVE.SticGlory.incipit = "…"
-meVE.SticGlory.text = ""
+meVE.SticGlory.incipit = "Sergius and Bacchus…"
+meVE.SticGlory.text = "Sergius and Bacchus, that beaming and pleasant beacon of the Martyrs, deflated the arrogance of tyrants and defeated the error of idols. With resonant voices they expounded and declared the consummate mystery of the knowledge of God. At their intercessions, O Christ, as their Lawgiver, Judge of the contest, and Bestower of awards, count us worthy to be granted victory over visible and invisible enemy forces."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.SticTheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname
@@ -58,8 +58,8 @@ meVE.SticStavrotheotokion.text = me.m02.d03_en_US_goadedes.meVE.SticStavrotheoto
 
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.AposGlory.melody = ""
-meVE.AposGlory.incipit = "…"
-meVE.AposGlory.text = ""
+meVE.AposGlory.incipit = "The host of Christian Martyrs…"
+meVE.AposGlory.text = "The host of Christian Martyrs prevailed against the enemy; and among them Sergius and Baccus shine as worldwide luminaries, for they were strong and valorous victors. Before them the evil army of demons turned tail and fled, tyrants were dumbfounded, and Angels were amazed, as they watched the invisible foe trampled by human flesh. On earth, the Church of believers observes a grand celebration and joyous feast, crying out: “O Lord, who bound the strong man by the weakness of the flesh, save our souls, at the intercessions of Your Saints.”"
 
 meVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.AposTheotokion.greekmelody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.greekname
@@ -419,8 +419,8 @@ meMA.MM.Lauds1123as5678.text = properties_en_US_goadedes.media.key
 meMA.AposGlory.poet = poets_en_US_goadedes.po.Anatoliou
 meMA.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.AposGlory.melody = ""
-meMA.AposGlory.incipit = "…"
-meMA.AposGlory.text = ""
+meMA.AposGlory.incipit = "Long ago, the Church…"
+meMA.AposGlory.text = "Long ago, the Church of God witnessed your contests, O world-renowned Martyrs. Today, she is splendidly decorated, as she faithfully celebrates your memory. In your icons she displays the chains that were mockingly placed around your necks, and regards them as imperial jewels. For although they were meant to shame you, they ultimately earned you heavenly glory and endless blessedness."
 
 meMA.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.AposTheotokion.greekmelody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.greekname
