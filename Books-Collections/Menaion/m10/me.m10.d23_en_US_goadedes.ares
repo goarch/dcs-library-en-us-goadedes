@@ -43,8 +43,8 @@ meVE.MM.Stichera1123as78910.text = "" // for media
 
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.SticGlory.melody = ""
-meVE.SticGlory.incipit = "…"
-meVE.SticGlory.text = ""
+meVE.SticGlory.incipit = "You decorated the priesthood…"
+meVE.SticGlory.text = "You decorated the priesthood with the blood of martyrdom, O Hieromartyr and Apostle. You stood on the pinnacle of the Temple and proclaimed that God the Logos is the Creator of the universe. For this, you were thrown down by the Jews, but you were granted entry into the heavenly chambers. O James, the Brother of God, implore Christ God to save our souls."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.SticTheotokion.greekmelody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.greekname
@@ -85,8 +85,8 @@ meVE.Aposticha3.text = "Lord, when James, Your holy Apostle, confessed You * to 
 
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.AposGlory.melody = ""
-meVE.AposGlory.incipit = "…"
-meVE.AposGlory.text = ""
+meVE.AposGlory.incipit = "Bearing the title…"
+meVE.AposGlory.text = "Bearing the title of Brother of Christ, the chief Shepherd, you were also designated His successor. Prominent among His Apostles, and embracing imminent death for His sake, you were not ashamed to bear witness to Him, O glorious St. James. Unceasingly entreat Him to save our souls."
 
 meVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.AposTheotokion.greekmelody = he.a.m8_en_US_goadedes.heAU.KyrieEiKaiKritirio.greekname

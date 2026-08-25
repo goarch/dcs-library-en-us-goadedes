@@ -42,8 +42,8 @@ meVE.Stichera03.text = "O holy Father, when you subordinated * passions of the b
 meVE.SticGlory.poet = poets_en_US_goadedes.po.Anatoliou
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.SticGlory.melody = ""
-meVE.SticGlory.incipit = "…"
-meVE.SticGlory.text = ""
+meVE.SticGlory.incipit = "From an early age…"
+meVE.SticGlory.text = "From an early age you had a mature frame of mind, O Hilarion, and you submitted to the yoke of Christ. In your admiration for the life of St. Anthony, you aspired to emulate the same degree of virtue: You wore down the body, that leaps like an untamed colt, and made it subordinate to the soul, as is right. And thus you successfully finished the race of asceticism. O blessed father and God-bearing wonderworker, pray that forgiveness and great mercy be given to us who lovingly observe your memory."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.SticTheotokion.greekmelody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.greekname
@@ -59,8 +59,8 @@ meVE.SticStavrotheotokion.text = ""
 
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.AposGlory.melody = ""
-meVE.AposGlory.incipit = "…"
-meVE.AposGlory.text = ""
+meVE.AposGlory.incipit = "When devout St. Hilarion…"
+meVE.AposGlory.text = "When devout St. Hilarion became filled with the Holy Spirit, he thwarted the schemes of demons. Being armed with the Cross, and trusting in it, by a word alone he cured all kinds of diseases: the passions of the soul and every physical infirmity. At his supplications, O benevolent Christ, send down Your peace to us."
 
 meVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.AposTheotokion.greekmelody = he.a.m8_en_US_goadedes.heAU.OiMartyresSouKyrie.greekname
@@ -379,8 +379,8 @@ meMA.Lauds3.text = ""
 
 meMA.LaudsGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.incipit = "…"
-meMA.LaudsGlory.text = ""
+meMA.LaudsGlory.incipit = "O Father, when Christ…"
+meMA.LaudsGlory.text = "O Father, when Christ beheld the purity of your life, and your cheerful, gentle, and quiet demeanor, He made His abode in you, and you became a dwelling place for God. And that is why you now live with Angels in heaven, O blessed Saint."
 
 meMA.LaudsTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.LaudsTheotokion.greekmelody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.greekname

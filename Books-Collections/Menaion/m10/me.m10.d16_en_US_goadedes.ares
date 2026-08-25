@@ -42,8 +42,8 @@ meVE.Stichera03.text = "Mortifying the governor * with the spear of your daring 
 meVE.SticGlory.poet = poets_en_US_goadedes.po.IoannouMonachou
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.SticGlory.melody = ""
-meVE.SticGlory.incipit = "…"
-meVE.SticGlory.text = ""
+meVE.SticGlory.incipit = "At Your Passion…"
+meVE.SticGlory.text = "At Your Passion, O Christ, the Centurion Longinus was watching when the curtain of the temple was torn in two, and he declared to the Jews that You are the Son of God. For this reason, the ruthless authorities ordered him beheaded, and his holy head was thrown into a dung heap. But it was found by a blind woman, and it restored her eyesight. With her, we also cry out to You: O Lord, who awarded Your Martyr who competed for You, at his entreaties enlighten the eyes of our hearts, and we shall glorify You, our God, who were physically crucified to save us."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.SticTheotokion.greekmelody = he.a.m6_en_US_goadedes.heAU.OlinApothemenoi.greekname
@@ -60,8 +60,8 @@ meVE.SticStavrotheotokion.text = me.m01.d15_en_US_goadedes.meVE.AposStavrotheoto
 meVE.AposGlory.poet = poets_en_US_goadedes.po.IoannouMonachou
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.AposGlory.melody = ""
-meVE.AposGlory.incipit = "…"
-meVE.AposGlory.text = ""
+meVE.AposGlory.incipit = "Standing near the Cross…"
+meVE.AposGlory.text = "Standing near the Cross and observing all that occurred, you saw Him who was crucified as God and man, and cried out to Him: “Remember me in Your kingdom, O Lord!” And the Savior said to you: “Blessed are you, Longinus. You shall be remembered from generation to generation.”"
 
 meVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.AposTheotokion.greekmelody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.greekname
