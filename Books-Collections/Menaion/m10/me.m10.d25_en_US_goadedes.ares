@@ -42,8 +42,8 @@ meVE.Stichera03.text = "As disciples and followers * of the preacher and patriar
 meVE.SticGlory.poet = poets_en_US_goadedes.po.Germanou
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.SticGlory.melody = ""
-meVE.SticGlory.incipit = "…"
-meVE.SticGlory.text = ""
+meVE.SticGlory.incipit = "O blessed Saints…"
+meVE.SticGlory.text = "O blessed Saints, you were disciples and followers of St. Paul the Confessor, who preached the consubstantial Trinity. With him you were persecuted for the Trinity’s sake, and you preferred death by the sword over heretical rhetoric. And you were decorated with martyric halos by God. Since you were granted access to Him, intercede for us who honor your memory that we be rescued from danger."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.SticTheotokion.greekmelody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.greekname
@@ -59,8 +59,8 @@ meVE.SticStavrotheotokion.text = ""
 
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode3
 meVE.AposGlory.melody = ""
-meVE.AposGlory.incipit = "…"
-meVE.AposGlory.text = ""
+meVE.AposGlory.incipit = "Those champions of the Trinity…"
+meVE.AposGlory.text = "Those champions of the Trinity, Marcian and Martyrius, put on the breastplate of faith and repulsed every heresy. As spiritual luminaries of the Church, they enlightened the world with the light of Orthodoxy. Obedient to Paul, the Patriarch and teacher of correct doctrine, and peer of the Apostles, they destroyed the Arian and Nestorian teaching about division, and refuted the doctrine of mingling espoused by Sabellius and Severus. Instead, these famous Saints defended the dogma of one God in three persons, and they preached that everyone ought to correctly worship God incarnate of the Virgin, one Son in two natures. These holy men received crowns of victory from heaven, and now they pray for us to receive the great mercy."
 
 meVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode3
 meVE.AposTheotokion.melody = ""
