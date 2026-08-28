@@ -51,7 +51,7 @@ trVE.Stichera07.incipit = "…"
 trVE.Stichera07.text = ""
 
 trVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
-trVE.SticGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = tr.d070_en_US_goadedes.trMA.LaudsGlory.incipit
 trVE.SticGlory.text = tr.d070_en_US_goadedes.trMA.LaudsGlory.text
 

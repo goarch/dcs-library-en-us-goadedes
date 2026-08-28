@@ -88,7 +88,7 @@ trVE.Stichera04.incipit = "The Orthodox Church of Christ…"
 trVE.Stichera04.text = "The Orthodox Church of Christ regained her precious adornment * by the most illustrious * restoration of divine holy images * of the Savior Christ and His * ever-blessed Mother * and of all the saints. And thus the Church * is rendered radiant, shining with the splendor of grace divine; * she eliminates the hoard of heretics and drives them away from her. * Thus rejoicing greatly, she glorifies her God, who for her sake * endured the Passion of His own will, * as He is benevolent."
 
 trVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
-trVE.SticGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = "…"
 trVE.SticGlory.text = ""
 
@@ -103,7 +103,7 @@ trVE.LityBoth.incipit = ho.ho23_en_US_goadedes.hoCA.Troparion7.incipit
 trVE.LityBoth.text = ho.ho23_en_US_goadedes.hoCA.Troparion7.text
 
 trVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
-trVE.AposGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+trVE.AposGlory.melody = ""
 trVE.AposGlory.incipit = "…"
 trVE.AposGlory.text = ""
 

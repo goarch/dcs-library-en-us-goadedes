@@ -42,7 +42,7 @@ trVE.Stichera05.incipit = tr.d068_en_US_goadedes.trMA.LaudsGlory.incipit
 trVE.Stichera05.text = tr.d068_en_US_goadedes.trMA.LaudsGlory.text
 
 trVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
-trVE.SticGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = "…"
 trVE.SticGlory.text = ""
 
@@ -581,12 +581,12 @@ trMA.Aposticha4.incipit = "…"
 trMA.Aposticha4.text = ""
 
 trMA.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
-trMA.AposGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+trMA.AposGlory.melody = ""
 trMA.AposGlory.incipit = "…"
 trMA.AposGlory.text = ""
 
 trMA.AposBoth.mode = miscellanea_en_US_goadedes.misc.Mode8
-trMA.AposBoth.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+trMA.AposBoth.melody = ""
 trMA.AposBoth.incipit = "…"
 trMA.AposBoth.text = ""
 

@@ -52,7 +52,7 @@ alt1.meVE.Stichera04.text = ""
 
 meVE.SticGlory.poet = poets_en_US_goadedes.po.IoannouMonachou
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
-meVE.SticGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = me.m03.d09_en_US_goadedes.meVE.Stichera01.incipit
 meVE.SticGlory.text = me.m03.d09_en_US_goadedes.meVE.Stichera01.text
 
@@ -105,7 +105,7 @@ meVE.Aposticha3.incipit = me.m03.d09_en_US_goadedes.meMA.Lauds3.incipit
 meVE.Aposticha3.text = me.m03.d09_en_US_goadedes.meMA.Lauds3.text
 
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
-meVE.AposGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "O fellow believers…"
 meVE.AposGlory.text = "O fellow believers, let us extol with songs of praise those forty medaled Martyrs, and let us melodiously address them, “O medaled Martyrs of Christ, rejoice! We salute you: Hesychius, Meliton, Heraclius, Smaragdus, and Domnus; Euonicus, Valens, Vivianus, Claudius, and Priscus! We salute you: Theodulus, Euthychius, and John; Xantheas, Helianus, Sisinius, Cyrion, Angius, Aetius and Flavius! We salute you: Acacius, Ecditius, Lysimachus, Alexander, Elias, and Candidus; Theophilus, Dometian, godly Gaius, and Gorgonius! We salute you: Eutyches, Athanasius, Cyril, and Sacerdon; Nicholas, Valerius, Philoctimon, Severian, Chudion, and Aglaius! O Martyrs, you are celebrated in song by everyone, and you have confidence in praying to Christ our God. Earnestly intercede with Him, to save us who faithfully observe your most solemn memory.”"
 
@@ -553,7 +553,7 @@ meMA.MM.Lauds123as456.text = properties_en_US_goadedes.media.key
 meMA.MM.Lauds123as678.text = properties_en_US_goadedes.media.key
 
 meMA.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.AposGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+meMA.AposGlory.melody = ""
 meMA.AposGlory.incipit = "…"
 meMA.AposGlory.text = ""
 

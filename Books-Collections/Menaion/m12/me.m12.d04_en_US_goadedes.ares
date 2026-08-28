@@ -92,7 +92,7 @@ meVE.Aposticha3.incipit = "…"
 meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
-meVE.AposGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = me.m01.d15_en_US_goadedes.meVE.AposGlory.incipit
 meVE.AposGlory.text = me.m01.d15_en_US_goadedes.meVE.AposGlory.text
 

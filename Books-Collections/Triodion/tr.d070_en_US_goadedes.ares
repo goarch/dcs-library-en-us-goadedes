@@ -44,12 +44,12 @@ trVE.Stichera05.incipit = "…"
 trVE.Stichera05.text = ""
 
 trVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
-trVE.SticGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = "…"
 trVE.SticGlory.text = ""
 
 trVE.SticBoth.mode = miscellanea_en_US_goadedes.misc.Mode6
-trVE.SticBoth.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+trVE.SticBoth.melody = ""
 trVE.SticBoth.incipit = "…"
 trVE.SticBoth.text = ""
 

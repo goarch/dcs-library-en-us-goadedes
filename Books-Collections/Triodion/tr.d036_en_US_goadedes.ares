@@ -37,12 +37,12 @@ trVE.Stichera03.text = ""
 trVE.MM.Stichera1123as78910.text = properties_en_US_goadedes.media.key
 
 trVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
-trVE.SticGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = "…"
 trVE.SticGlory.text = ""
 
 trVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
-trVE.AposGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+trVE.AposGlory.melody = ""
 trVE.AposGlory.incipit = "…"
 trVE.AposGlory.text = ""
 

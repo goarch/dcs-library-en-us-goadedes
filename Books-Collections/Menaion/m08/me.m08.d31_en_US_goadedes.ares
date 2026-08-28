@@ -40,7 +40,7 @@ meVE.Stichera03.incipit = "Just imagine that glorious…"
 meVE.Stichera03.text = "Just imagine that glorious and magnificent church, wherein * the most precious Belt of our Lady had been kept * as sacred treasure, imbued with grace; and people would go to it * and would certainly receive * mercy, grace, and enlightenment; and with grateful hearts * they would sing, “O all-holy Virgin Mary, we extol you and we bless you, * for we were saved by your Son and God.”"
 
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
-meVE.SticGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = "…"
 meVE.SticGlory.text = "" //similar to me.m07.d02.meVE.AposGlory.text
 
@@ -61,7 +61,7 @@ meVE.Aposticha3.incipit = "…"
 meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
-meVE.AposGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = me.m07.d02_en_US_goadedes.meVE.SticGlory.incipit
 meVE.AposGlory.text = me.m07.d02_en_US_goadedes.meVE.SticGlory.text
 

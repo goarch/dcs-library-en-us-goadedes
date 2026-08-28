@@ -85,6 +85,6 @@ peMA.Aposticha3.incipit = "As You sent down…"
 peMA.Aposticha3.text = "As You sent down the grace of Your * Holy Spirit on Pentecost * unto Your Apostles, O Lord, we now implore * that You will grant that our hearts receive the endless enlightenment * of His coming onto us, * so that we all might glorify and unceasingly * send up thrice-holy hymns of praise and worship to the holy, consubstantial, * and indivisible Trinity."
 
 peMA.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
-peMA.AposGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+peMA.AposGlory.melody = ""
 peMA.AposGlory.incipit = pe.d120_en_US_goadedes.peVE.Stichera05.incipit
 peMA.AposGlory.text = pe.d120_en_US_goadedes.peVE.Stichera05.text

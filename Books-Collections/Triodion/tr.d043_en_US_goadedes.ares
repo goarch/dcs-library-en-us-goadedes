@@ -81,7 +81,7 @@ trVE.Stichera04.incipit = "…"
 trVE.Stichera04.text = ""
 
 trVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode3
-trVE.SticGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = "…"
 trVE.SticGlory.text = ""
 
@@ -91,7 +91,7 @@ trVE.LityGlory.incipit = "…"
 trVE.LityGlory.text = ""
 
 trVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode4
-trVE.AposGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+trVE.AposGlory.melody = ""
 trVE.AposGlory.incipit = me.m08.d01_en_US_goadedes.meMA.LaudsBoth.incipit
 trVE.AposGlory.text = me.m08.d01_en_US_goadedes.meMA.LaudsBoth.text
 

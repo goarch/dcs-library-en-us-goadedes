@@ -52,7 +52,7 @@ peVE.Aposticha3.incipit = "…"
 peVE.Aposticha3.text = ""
 
 peVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode7
-peVE.AposGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+peVE.AposGlory.melody = ""
 peVE.AposGlory.incipit = "…"
 peVE.AposGlory.text = ""
 
@@ -85,6 +85,6 @@ peMA.Aposticha3.incipit = "…"
 peMA.Aposticha3.text = ""
 
 peMA.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
-peMA.AposGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+peMA.AposGlory.melody = ""
 peMA.AposGlory.incipit = "…"
 peMA.AposGlory.text = ""

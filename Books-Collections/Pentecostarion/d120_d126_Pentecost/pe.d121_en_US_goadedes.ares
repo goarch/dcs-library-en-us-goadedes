@@ -34,7 +34,7 @@ peVE.MM.Stichera123as345.text = properties_en_US_goadedes.media.key
 peVE.MM.Stichera123as567.text = properties_en_US_goadedes.media.key
 
 peVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
-peVE.SticGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = pe.d120_en_US_goadedes.peVE.Aposticha3.incipit
 peVE.SticGlory.text = pe.d120_en_US_goadedes.peVE.Aposticha3.text
 

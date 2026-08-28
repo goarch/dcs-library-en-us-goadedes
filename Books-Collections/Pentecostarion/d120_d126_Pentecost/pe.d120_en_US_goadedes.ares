@@ -60,7 +60,7 @@ peVE.MM.Stichera1234as3456.text = properties_en_US_goadedes.media.key
 
 peVE.SticGlory.poet = poets_en_US_goadedes.po.LeontosDespotou
 peVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
-peVE.SticGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = "…"
 peVE.SticGlory.text = ""
 
@@ -100,7 +100,7 @@ peVE.Aposticha3.incipit = "…"
 peVE.Aposticha3.text = ""
 
 peVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
-peVE.AposGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+peVE.AposGlory.melody = ""
 peVE.AposGlory.incipit = "…"
 peVE.AposGlory.text = ""
 

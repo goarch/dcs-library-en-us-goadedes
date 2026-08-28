@@ -115,12 +115,12 @@ meVE.Stichera07.text = ""
 
 meVE.SticGlory.poet = poets_en_US_goadedes.po.Vyzantiou
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
-meVE.SticGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = "…"
 meVE.SticGlory.text = ""
 
 meVE.SticBoth.mode = miscellanea_en_US_goadedes.misc.Mode6
-meVE.SticBoth.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+meVE.SticBoth.melody = ""
 meVE.SticBoth.incipit = "…"
 meVE.SticBoth.text = ""
 
@@ -167,12 +167,12 @@ meVE.Aposticha3.text = ""
 
 meVE.AposGlory.poet = poets_en_US_goadedes.po.KassiasMonachis
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
-meVE.AposGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "…"
 meVE.AposGlory.text = ""
 
 meVE.AposBoth.mode = miscellanea_en_US_goadedes.misc.Mode8
-meVE.AposBoth.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+meVE.AposBoth.melody = ""
 meVE.AposBoth.incipit = "…"
 meVE.AposBoth.text = ""
 

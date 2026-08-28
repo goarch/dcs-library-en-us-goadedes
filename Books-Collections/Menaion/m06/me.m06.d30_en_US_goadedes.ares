@@ -59,7 +59,7 @@ meVE.Stichera06.text = "Logorrhea of orators and philosophers’ insolence * wer
 
 meVE.SticGlory.poet = poets_en_US_goadedes.po.KosmaMonachou
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
-meVE.SticGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = me.m06.d29_en_US_goadedes.meMA.LaudsGlory.incipit
 meVE.SticGlory.text = me.m06.d29_en_US_goadedes.meMA.LaudsGlory.text
 
@@ -86,7 +86,7 @@ meVE.Aposticha3.text = me.m06.d29_en_US_goadedes.meMA.Lauds3.text
 
 meVE.AposGlory.poet = poets_en_US_goadedes.po.EfraimKarias
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
-meVE.AposGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = me.m06.d29_en_US_goadedes.meVE.AposGlory.incipit
 meVE.AposGlory.text = me.m06.d29_en_US_goadedes.meVE.AposGlory.text
 

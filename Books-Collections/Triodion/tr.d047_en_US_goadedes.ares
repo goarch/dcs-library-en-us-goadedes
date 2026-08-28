@@ -49,7 +49,7 @@ trVE.Stichera03.incipit = "…"
 trVE.Stichera03.text = ""
 
 trVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
-trVE.SticGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = tr.d043_en_US_goadedes.trMA.AdditionalIdiomelonGlory.incipit
 trVE.SticGlory.text = tr.d043_en_US_goadedes.trMA.AdditionalIdiomelonGlory.text
 

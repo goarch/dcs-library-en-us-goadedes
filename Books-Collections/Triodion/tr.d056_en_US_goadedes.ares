@@ -47,7 +47,7 @@ trVE.Stichera03.text = me.m03.d25_en_US_goadedes.meVE.Stichera03.text
 
 trVE.SticGlory.poet = poets_en_US_goadedes.po.Theofanous
 trVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
-trVE.SticGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = me.m03.d25_en_US_goadedes.meMA.LaudsGlory.incipit
 trVE.SticGlory.text = me.m03.d25_en_US_goadedes.meMA.LaudsGlory.text
 

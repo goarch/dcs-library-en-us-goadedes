@@ -54,7 +54,7 @@ peVE.Stichera10.incipit = "Arius the fool introduced…"
 peVE.Stichera10.text = "Arius the fool introduced division * into the holy Trinity’s single kingship, * asserting three dissimilar and alien natures. * Therefore the God-bearing fathers convened in the holy Council * burning with zeal for God, like the Prophet Elijah the Tishbite, * and they wielded the sword of the Spirit, * and they cut off that shameful teacher of blasphemy, * according to what the Spirit decreed."
 
 peVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
-peVE.SticGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = me.m10.dHF_en_US_goadedes.meVE.SticGlory.incipit
 peVE.SticGlory.text = me.m10.dHF_en_US_goadedes.meVE.SticGlory.text
 
@@ -69,12 +69,12 @@ peVE.LityBoth.incipit = pe.d110_en_US_goadedes.peVE.Stichera05.incipit
 peVE.LityBoth.text = pe.d110_en_US_goadedes.peVE.Stichera05.text
 
 peVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode4
-peVE.AposGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+peVE.AposGlory.melody = ""
 peVE.AposGlory.incipit = me.m10.dHF_en_US_goadedes.meVE.AposGlory.incipit
 peVE.AposGlory.text = me.m10.dHF_en_US_goadedes.meVE.AposGlory.text
 
 peVE.AposBoth.mode = miscellanea_en_US_goadedes.misc.Mode4
-peVE.AposBoth.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+peVE.AposBoth.melody = ""
 peVE.AposBoth.incipit = pe.d110_en_US_goadedes.peVE.LityGlory.incipit
 peVE.AposBoth.text = pe.d110_en_US_goadedes.peVE.LityGlory.text
 

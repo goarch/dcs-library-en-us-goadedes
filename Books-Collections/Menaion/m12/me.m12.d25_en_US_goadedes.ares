@@ -52,7 +52,7 @@ meVE.Stichera04.text = ""
 
 meVE.SticGlory.poet = poets_en_US_goadedes.po.Kasias
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
-meVE.SticGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = "…"
 meVE.SticGlory.text = ""
 
@@ -129,13 +129,13 @@ meVE.Aposticha3.text = ""
 
 meVE.AposGlory.poet = poets_en_US_goadedes.po.IoannouMonachou
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode4
-meVE.AposGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "…"
 meVE.AposGlory.text = ""
 
 meVE.AposBoth.poet = poets_en_US_goadedes.po.Anatoliou
 meVE.AposBoth.mode = miscellanea_en_US_goadedes.misc.Mode4
-meVE.AposBoth.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+meVE.AposBoth.melody = ""
 meVE.AposBoth.incipit = "…"
 meVE.AposBoth.text = ""
 

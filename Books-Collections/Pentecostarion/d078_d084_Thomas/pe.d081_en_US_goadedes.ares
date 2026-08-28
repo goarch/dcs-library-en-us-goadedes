@@ -31,7 +31,7 @@ peVE.Stichera03.incipit = "…"
 peVE.Stichera03.text = ""
 
 peVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode4
-peVE.SticGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = pe.d078_en_US_goadedes.peVE.Lity1.incipit
 peVE.SticGlory.text = pe.d078_en_US_goadedes.peVE.Lity1.text
 
@@ -51,7 +51,7 @@ peVE.Aposticha3.incipit = oc.m1.d4_en_US_goadedes.ocVE.Aposticha3.incipit
 peVE.Aposticha3.text = oc.m1.d4_en_US_goadedes.ocVE.Aposticha3.text
 
 peVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
-peVE.AposGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+peVE.AposGlory.melody = ""
 peVE.AposGlory.incipit = pe.d078_en_US_goadedes.peVE.Lity2.incipit
 peVE.AposGlory.text = pe.d078_en_US_goadedes.peVE.Lity2.text
 

@@ -90,7 +90,7 @@ meVE.Stichera03.text = "How shall we honor Sts. Peter and Paul? * Singing spirit
 
 meVE.SticGlory.poet = poets_en_US_goadedes.po.IoannouMonachou
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode4
-meVE.SticGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = "…"
 meVE.SticGlory.text = ""
 
@@ -157,7 +157,7 @@ meVE.Aposticha3.text = "Let us extol Sts. Peter and Paul, those great luminaries
 
 meVE.AposGlory.poet = poets_en_US_goadedes.po.EfraimKarias
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
-meVE.AposGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "…"
 meVE.AposGlory.text = ""
 

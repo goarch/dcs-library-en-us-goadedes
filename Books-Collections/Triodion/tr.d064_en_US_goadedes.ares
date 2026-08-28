@@ -87,12 +87,12 @@ trVE.Stichera05.incipit = "…"
 trVE.Stichera05.text = ""
 
 trVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
-trVE.SticGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = tr.d064_en_US_goadedes.trVE.Stichera01.incipit
 trVE.SticGlory.text = tr.d064_en_US_goadedes.trVE.Stichera01.text
 
 trVE.SticBoth.mode = miscellanea_en_US_goadedes.misc.Mode6
-trVE.SticBoth.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+trVE.SticBoth.melody = ""
 trVE.SticBoth.incipit = tr.d064_en_US_goadedes.trVE.Stichera01.incipit
 trVE.SticBoth.text = tr.d064_en_US_goadedes.trVE.Stichera01.text
 
@@ -142,12 +142,12 @@ trVE.Aposticha3.incipit = "…"
 trVE.Aposticha3.text = ""
 
 trVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
-trVE.AposGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+trVE.AposGlory.melody = ""
 trVE.AposGlory.incipit = tr.d064_en_US_goadedes.trVE.Stichera01.incipit
 trVE.AposGlory.text = tr.d064_en_US_goadedes.trVE.Stichera01.text
 
 trVE.AposBoth.mode = miscellanea_en_US_goadedes.misc.Mode6
-trVE.AposBoth.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+trVE.AposBoth.melody = ""
 trVE.AposBoth.incipit = tr.d064_en_US_goadedes.trVE.Stichera01.incipit
 trVE.AposBoth.text = tr.d064_en_US_goadedes.trVE.Stichera01.text
 

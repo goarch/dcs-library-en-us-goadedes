@@ -31,12 +31,12 @@ peVE.Stichera03.incipit = "…"
 peVE.Stichera03.text = ""
 
 peVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode1
-peVE.SticGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = pe.d095_en_US_goadedes.peVE.Aposticha1.incipit
 peVE.SticGlory.text = pe.d095_en_US_goadedes.peVE.Aposticha1.text
 
 peVE.SticBoth.mode = miscellanea_en_US_goadedes.misc.Mode3
-peVE.SticBoth.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+peVE.SticBoth.melody = ""
 peVE.SticBoth.incipit = oc.m3.d1_en_US_goadedes.ocVE.SticTheotokion.incipit
 peVE.SticBoth.text = oc.m3.d1_en_US_goadedes.ocVE.SticTheotokion.text
 
@@ -61,7 +61,7 @@ peVE.Aposticha4.incipit = oc.m3.d1_en_US_goadedes.ocVE.Aposticha1.incipit
 peVE.Aposticha4.text = oc.m3.d1_en_US_goadedes.ocVE.Aposticha1.text
 
 peVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode1
-peVE.AposGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+peVE.AposGlory.melody = ""
 peVE.AposGlory.incipit = pe.d095_en_US_goadedes.peVE.Aposticha2.incipit
 peVE.AposGlory.text = pe.d095_en_US_goadedes.peVE.Aposticha2.text
 
@@ -128,6 +128,6 @@ peMA.Aposticha3.incipit = "…"
 peMA.Aposticha3.text = ""
 
 peMA.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode4
-peMA.AposGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+peMA.AposGlory.melody = ""
 peMA.AposGlory.incipit = pe.d096_en_US_goadedes.peMA.LaudsGlory.incipit
 peMA.AposGlory.text = pe.d096_en_US_goadedes.peMA.LaudsGlory.text

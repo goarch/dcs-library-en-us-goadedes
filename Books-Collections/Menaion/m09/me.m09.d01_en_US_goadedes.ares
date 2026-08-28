@@ -84,13 +84,13 @@ meVE.Stichera10.text = "O God-bearing Saint, you loved the ultimate philosophy, 
 
 meVE.SticGlory.poet = poets_en_US_goadedes.po.Germanou
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
-meVE.SticGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = "Divine grace hovered…"
 meVE.SticGlory.text = "Divine grace hovered over your reliquary, O sanctified Symeon. And so we run after your miracles, like the smell of ointments, and we draw cures of diseases. We pray you, devout father, entreat Christ God on behalf of our souls."
 
 meVE.SticBoth.poet = poets_en_US_goadedes.po.Vyzantiou
 meVE.SticBoth.mode = miscellanea_en_US_goadedes.misc.Mode6
-meVE.SticBoth.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+meVE.SticBoth.melody = ""
 meVE.SticBoth.incipit = "O unoriginate Logos…"
 meVE.SticBoth.text = "O unoriginate Logos and Son, united to the Holy Spirit, omnific co-creator of all things visible and invisible, we pray that You bless the crown of this year, preserving all Orthodox Christians in peace, at the intercessions of the Theotokos and of all Your Saints."
 

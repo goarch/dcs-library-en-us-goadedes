@@ -277,7 +277,7 @@ trMA.AposMartyric.incipit = "…"
 trMA.AposMartyric.text = ""
 
 trMA.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
-trMA.AposGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+trMA.AposGlory.melody = ""
 trMA.AposGlory.incipit = "…"
 trMA.AposGlory.text = ""
 

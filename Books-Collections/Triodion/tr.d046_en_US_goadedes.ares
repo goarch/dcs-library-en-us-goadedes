@@ -50,7 +50,7 @@ trVE.Stichera06.text = ""
 trVE.MM.Stichera456as8910.text = properties_en_US_goadedes.media.key
 
 trVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
-trVE.SticGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = tr.d043_en_US_goadedes.trMA.AdditionalIdiomelon2.incipit
 trVE.SticGlory.text = tr.d043_en_US_goadedes.trMA.AdditionalIdiomelon2.text
 
@@ -65,7 +65,7 @@ trVE.AposMartyric.incipit = "…"
 trVE.AposMartyric.text = ""
 
 trVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode5
-trVE.AposGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+trVE.AposGlory.melody = ""
 trVE.AposGlory.incipit = tr.d043_en_US_goadedes.trVE.LityGlory.incipit
 trVE.AposGlory.text = tr.d043_en_US_goadedes.trVE.LityGlory.text
 
@@ -597,7 +597,7 @@ trMA.AposMartyric.incipit = "…"
 trMA.AposMartyric.text = ""
 
 trMA.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
-trMA.AposGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+trMA.AposGlory.melody = ""
 trMA.AposGlory.incipit = "…"
 trMA.AposGlory.text = ""
 

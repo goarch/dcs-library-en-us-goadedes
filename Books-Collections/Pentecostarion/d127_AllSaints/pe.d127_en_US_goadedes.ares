@@ -40,7 +40,7 @@ peVE.Stichera10.incipit = "Let us honor as is right…"
 peVE.Stichera10.text = "Let us honor as is right with sacred hymns and extol them * who throughout the whole wide world * competed for God in faith, namely all the Saints: * Apostles, Martyr Saints, godly-minded Clergy, * holy Women who were virtuous. * Although from earth below, * they have been united with things on high. * By grace of Christ they have received * dispassion by suffering passively. * And they are in heaven as steady stars that shine their light on us. * And on behalf of our souls they now * intercede with confidence."
 
 peVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
-peVE.SticGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = "…"
 peVE.SticGlory.text = ""
 

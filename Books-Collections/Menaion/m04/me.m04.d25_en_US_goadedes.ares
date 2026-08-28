@@ -58,7 +58,7 @@ meVE.Stichera06.text = "O all-sacred Mark, as you partook * of the Holy Spiritâ€
 meVE.MM.Stichera1234as78910.text = properties_en_US_goadedes.media.key
 
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
-meVE.SticGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
+meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = "â€¦"
 meVE.SticGlory.text = ""
 
