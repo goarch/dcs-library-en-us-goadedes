@@ -69,14 +69,14 @@ meVE.SticBoth.text = ""
 meVE.Lity1.poet = poets_en_US_goadedes.po.GeorgiouSikeliotou
 meVE.Lity1.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.Lity1.melody = ""
-meVE.Lity1.incipit = "…"
-meVE.Lity1.text = ""
+meVE.Lity1.incipit = "Rejoice in the Lord…"
+meVE.Lity1.text = "Rejoice in the Lord, O city of Thessaloniki! Leap for joy and celebrate, as you faithfully and splendidly parade Demetrios, the all-glorious athlete and Martyr of the truth, since you hold him close as your treasure. See the healings and enjoy the miracles, and watch as he breaks the insolence of foreign enemies. And with gratitude shout to the Savior, “Glory to You, O Lord!”"
 
 meVE.Lity2.poet = poets_en_US_goadedes.po.Anatoliou
 meVE.Lity2.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.Lity2.melody = ""
-meVE.Lity2.incipit = "…"
-meVE.Lity2.text = ""
+meVE.Lity2.incipit = "Let us brighten…"
+meVE.Lity2.text = "Let us brighten this day with delightful songs, extolling the contests of the Martyr. Indeed, Demetrios the Great is the subject of our praise. He bravely resisted the assaults of the tyrants and eagerly accepted the contest. He received the glorious awards of victory, and now he implore the Savior to save our souls."
 
 meVE.LityGlory.poet = poets_en_US_goadedes.po.Germanou
 meVE.LityGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
@@ -151,8 +151,8 @@ meMA.Kathisma21.text = ""
 
 meMA.Kathisma2T.mode = miscellanea_en_US_goadedes.misc.Mode5
 meMA.Kathisma2T.melody = he.a.m5_en_US_goadedes.heAU.TonSynanarchonLogon.name
-meMA.Kathisma2T.incipit = "…"
-meMA.Kathisma2T.text = ""
+meMA.Kathisma2T.incipit = oc.m5.d1_en_US_goadedes.ocVE.ApolTheotokionVM.incipit
+meMA.Kathisma2T.text = oc.m5.d1_en_US_goadedes.ocVE.ApolTheotokionVM.text 
 
 meMA.Kathisma31.mode = miscellanea_en_US_goadedes.misc.Mode3
 meMA.Kathisma31.greekmelody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.greekname
@@ -177,8 +177,8 @@ meMA.PostGospelBoth.text = ho.ho03_en_US_goadedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.incipit = "…"
-meMA.PostGospelIdiomelon.text = ""
+meMA.PostGospelIdiomelon.incipit = me.m10.d26_en_US_goadedes.meVE.LityGlory.incipit
+meMA.PostGospelIdiomelon.text = me.m10.d26_en_US_goadedes.meVE.LityGlory.text
 
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
@@ -920,8 +920,8 @@ meMA.Lauds1.text = ""
 
 meMA.Lauds2.mode = miscellanea_en_US_goadedes.misc.Mode5
 meMA.Lauds2.melody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.name
-meMA.Lauds2.incipit = "…"
-meMA.Lauds2.text = ""
+meMA.Lauds2.incipit = "Martyr, you are…"
+meMA.Lauds2.text = "Martyr, you are for us like a wall * that is undaunted by the enemy’s batt’ring rams. * For you bring to naught the inroads of the barbarian hordes. * You suppress the symptoms of all sicknesses. * A footing immovable, a foundation unshakable, * founder and patron of your City have you become, * O Demetrios, and her champion and guardian. * Glorious Saint, she now is free, as God graciously so wills, * and may she ever remain so, by your protection and patronage * and your intercessions, * as you pray to Christ who grants His great mercy to the world."
 
 meMA.Lauds3.mode = miscellanea_en_US_goadedes.misc.Mode5
 meMA.Lauds3.melody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.name

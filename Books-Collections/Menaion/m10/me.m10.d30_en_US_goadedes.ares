@@ -42,8 +42,8 @@ meVE.Stichera03.text = "Holy Martyr Zenobia, * as your sister and kindred soul, 
 meVE.SticGlory.poet = poets_en_US_goadedes.po.IoannouMonachou //οἱ δὲ τοῦ Στουδίτου
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.SticGlory.melody = ""
-meVE.SticGlory.incipit = "…"
-meVE.SticGlory.text = ""
+meVE.SticGlory.incipit = "Let us strike up…"
+meVE.SticGlory.text = "Let us strike up a choir today, all you fans of the Martyrs, and let us sing in honor of the memory of those devout champions, Zenobius and Zenobia. They became defenders of the Trinity. In their courageous contest against the invisible enemy, they drowned him with their holy blood, and they received the glorious awards of victory. So let us pray to them, “O siblings sanctified in the Lord, blessed and enlightened pair, intercede with the Savior for the salvation of our souls.”"
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.SticTheotokion.greekmelody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.greekname
