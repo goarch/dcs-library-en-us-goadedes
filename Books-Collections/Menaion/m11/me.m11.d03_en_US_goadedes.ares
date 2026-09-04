@@ -80,8 +80,8 @@ meVE.Aposticha1.text = ""
 
 meVE.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Aposticha2.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
-meVE.Aposticha2.incipit = me.m04.d23_en_US_goadedes.meVE.Stichera06.incipit
-meVE.Aposticha2.text = me.m04.d23_en_US_goadedes.meVE.Stichera06.text
+meVE.Aposticha2.incipit = "…"
+meVE.Aposticha2.text = ""
 
 meVE.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Aposticha3.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
@@ -91,8 +91,8 @@ meVE.Aposticha3.text = me.m04.d23_en_US_goadedes.meVE.Stichera04.text
 meVE.AposGlory.poet = poets_en_US_goadedes.po.EfraimKarias
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.AposGlory.melody = ""
-meVE.AposGlory.incipit = "…"
-meVE.AposGlory.text = ""
+meVE.AposGlory.incipit = "O Athletes…"
+meVE.AposGlory.text = "O Athletes, the three Servants who remained unburnt in Persia stood as the archetype of your triply burnished unanimity and your witness in Christ to the immortal Trinity and superessential Unity. Those Servants bravely faced the flames, for refusing to insult their God, and you did not recoil from death, unflinching in your love for Christ. To them a fourth appeared, and He refreshed them in the fire, and Christ, One of the Trinity, received you in a place of refreshment. O Acepsimas, Joseph, and Aeithalas, God-inspired Saints, intercede for our souls."
 
 meVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.AposTheotokion.melody = ""
