@@ -475,13 +475,13 @@ meMA.LaudsGlory.text = "In Shapur the Second’s kingdom, and the homeland of th
 
 meMA.Aposticha4.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Aposticha4.melody = ""
-meMA.Aposticha4.incipit = "With your body dyed red…"
-meMA.Aposticha4.text = "With your body dyed red in the streams of your blood, you unhazardously proceeded down the path of martyrdom, O medaled martyr Acindynos. Girded as your were with divine strength, you broke the devices of the enemy. And now you intercede with Christ God on our behalf, entreating Him to save our souls."
+meMA.Aposticha4.incipit = "Your body drenched…"
+meMA.Aposticha4.text = "Your body drenched in the flood of your blood, you pursued the path of martyrdom, fearlessly, just as your name reveals, O champion Acindynus. And thus girded with strength divine, you slashed the schemes of the enemy. And now you intercede with Christ God, for the salvation of our souls."
 
 meMA.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.AposGlory.melody = ""
-meMA.AposGlory.incipit = "…"
-meMA.AposGlory.text = ""
+meMA.AposGlory.incipit = "The five-fold torch…"
+meMA.AposGlory.text = "The five-fold torch of athletes, like an axe in a thicket of trees, to use the words of David, cut down the foe’s deceit. In the presence of kings they bore witness to Christ. They now intercede with Him for our souls."
 
 meMA.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.AposTheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
