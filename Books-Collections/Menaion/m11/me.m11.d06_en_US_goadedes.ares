@@ -50,8 +50,8 @@ meVE.MM.Stichera1234as78910.text = properties_en_US_goadedes.media.key
 meVE.SticGlory.poet = poets_en_US_goadedes.po.Germanou
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.SticGlory.melody = ""
-meVE.SticGlory.incipit = "…"
-meVE.SticGlory.text = ""
+meVE.SticGlory.incipit = "Invested as a hierarch…"
+meVE.SticGlory.text = "Invested as a hierarch, O holy Father, and enduring persecutions and trials, you matched the zeal of your namesake Paul. By your own personal labors, you overruled the blasphemous doctrines of Arius. And after suffering for the unoriginate and consubstantial Trinity, you unseated the impious heretic Macedonius. Having proclaimed the Orthodox faith to all, you dwell now with the bodiless Angels; join them in praying for the salvation of our souls."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.SticTheotokion.greekmelody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.greekname
@@ -68,8 +68,8 @@ meVE.SticStavrotheotokion.text = ""
 meVE.AposGlory.poet = poets_en_US_goadedes.po.Vyzantiou
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.AposGlory.melody = ""
-meVE.AposGlory.incipit = "…"
-meVE.AposGlory.text = ""
+meVE.AposGlory.incipit = "Sailing across the ocean…"
+meVE.AposGlory.text = "Sailing across the ocean of ascetic discipline, driven by the breeze of temperance, you escaped the tempest of the passions, O devout Saint. Living up to the name of your namesake Paul, you endured persecution and distress, harassed by the malicious babble of heretics. You overruled the doctrines of Arius, you overturned the heresies of Nestorius, and you proved to be a zealous champion of the Church of Christ. Implore Him, O blessed Hierarch, to save our souls."
 
 meVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.AposTheotokion.greekmelody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.greekname
