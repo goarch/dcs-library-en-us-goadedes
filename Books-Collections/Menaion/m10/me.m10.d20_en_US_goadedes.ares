@@ -375,7 +375,7 @@ meLI.Kontakion1.text = me.m10.d20_en_US_goadedes.meMA.Kontakion1.text
 
 meLI.Megalynarion.text = ""
 
-alt1.meDA.date = "" // date
+alt1.meDA.date = ""
 alt1.meDA.commemoration.full = "" //full title of day
 alt1.meDA.commemoration.first_short = ""
 alt1.meDA.commemoration.first_title = "For St. Gerasimos."

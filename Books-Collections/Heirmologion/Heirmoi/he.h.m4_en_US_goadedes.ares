@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = he.h.m4_en_US_goadedes
 
 heHE.AfYpsousKatilthes.notmetered = "N/M ()"
-heHE.AfYpsousKatilthes.greekname = "Ἀφʼ ὕψους κατῆλθες."
+heHE.AfYpsousKatilthes.greekname = "Ἀφ’ ὕψους κατῆλθες."
 heHE.AfYpsousKatilthes.name = ""
 heHE.AfYpsousKatilthes.incipit = "…"
 heHE.AfYpsousKatilthes.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -220,7 +220,7 @@ heHE.ChristosOErchomenos.ode = miscellanea_en_US_goadedes.misc.Ode4
 heHE.ChristosOErchomenos.text = "Our visibly coming God, Christ, will come and not delay, * being the Son of a virgin Maiden, * who is likened to a mountain, overshadowed and densely wooded. * So said a Prophet of old. * Therefore let us all cry out, * Glory to Your strength, O Lord our God."
 
 heHE.DiAgapisinOiktirmon.notmetered = "N/M (You were crucified.)"
-heHE.DiAgapisinOiktirmon.greekname = "Διʼ ἀγάπησιν Οἰκτίρμον."
+heHE.DiAgapisinOiktirmon.greekname = "Δι’ ἀγάπησιν Οἰκτίρμον."
 heHE.DiAgapisinOiktirmon.name = "You were crucified."
 heHE.DiAgapisinOiktirmon.incipit = "You were crucified…"
 heHE.DiAgapisinOiktirmon.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -1066,7 +1066,7 @@ heHE.TinAnexichniaston.ode = miscellanea_en_US_goadedes.misc.Ode4
 heHE.TinAnexichniaston.text = "When the Prophet Habakkuk heard the divine * and incomprehensible counsel of Your Incarnation * from the Virgin, O Most High, * considering, he cried aloud: * Glory to Your strength, O Lord my God."
 
 heHE.TinSionEpOrous.notmetered = "N/M (Herald of good tidings.)"
-heHE.TinSionEpOrous.greekname = "Τὴν Σιὼν ἐπʼ ὄρους."
+heHE.TinSionEpOrous.greekname = "Τὴν Σιὼν ἐπ’ ὄρους."
 heHE.TinSionEpOrous.name = "Herald of good tidings."
 heHE.TinSionEpOrous.incipit = "Herald of good tidings…"
 heHE.TinSionEpOrous.melody = miscellanea_en_US_goadedes.misc.Heirmos

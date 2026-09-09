@@ -1211,7 +1211,7 @@ alt2.meMA.LaudsGlory.melody = ""
 alt2.meMA.LaudsGlory.incipit = "…"
 alt2.meMA.LaudsGlory.text = ""
 
-alt3.meDA.date = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+alt3.meDA.date = ""
 alt3.meDA.commemoration.full = "" //full title of day
 alt3.meDA.commemoration.second = "" //full title of day
 alt3.meDA.commemoration.first_short = ""

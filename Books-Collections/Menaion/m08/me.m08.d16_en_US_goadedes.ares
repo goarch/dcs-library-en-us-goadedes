@@ -576,7 +576,7 @@ meLI.Kontakion1.text = me.m08.d16_en_US_goadedes.meMA.Kontakion1ger.text
 
 meLI.Megalynarion.text = ""
 
-alt1.meDA.date = "" // date, e.g. Τῌ ΙϚʹ τοῦ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+alt1.meDA.date = ""
 alt1.meDA.commemoration.full = "" //full title of day
 alt1.meDA.commemoration.first_short = ""
 alt1.meDA.commemoration.first_title = ""

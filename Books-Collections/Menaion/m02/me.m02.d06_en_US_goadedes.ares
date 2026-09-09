@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m02.d06_en_US_goadedes
 
-meDA.date = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = ""
 meDA.commemoration.full = "" //full title of day
 meDA.commemoration.first = ""
 meDA.commemoration.first_short = ""
@@ -461,7 +461,7 @@ meMA.Ode3KathismaSt.melody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.na
 meMA.Ode3KathismaSt.incipit = "…"
 meMA.Ode3KathismaSt.text = ""
 
-alt1.meDA.date = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+alt1.meDA.date = ""
 alt1.meDA.commemoration.full = "" // full title of day
 alt1.meDA.commemoration.first_short = ""
 alt1.meDA.commemoration.first_title = titles_en_US_goadedes.ti.SaintM
@@ -996,7 +996,7 @@ alt1.meLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 
 alt1.meLI.Megalynarion.text = ""
 
-alt2.meDA.date = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+alt2.meDA.date = ""
 alt2.meDA.commemoration.full = "" // full title of day
 alt2.meDA.commemoration.first_short = ""
 alt2.meDA.commemoration.first_title = titles_en_US_goadedes.ti.Saints

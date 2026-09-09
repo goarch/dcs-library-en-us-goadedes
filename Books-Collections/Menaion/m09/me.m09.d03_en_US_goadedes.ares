@@ -604,7 +604,7 @@ meLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 
 meLI.Megalynarion.text = ""
 
-alt1.meDA.date = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+alt1.meDA.date = ""
 alt1.meDA.commemoration.full = "" //full title of day
 alt1.meDA.commemoration.first_short = ""
 alt1.meDA.commemoration.first_title = ""
@@ -713,7 +713,7 @@ alt1.meVE.Stichera05.text = ""
 alt1.meVE.Stichera06.mode = miscellanea_en_US_goadedes.misc.Mode2
 alt1.meVE.Stichera06.melody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.name
 alt1.meVE.Stichera06.incipit = "…"
-alt1.meVE.Stichera06.text = "" //Χαίρει Ἐνορία ἡ σεπτή, ὥσπερ θησαυρὀν κεκτημένη, θεῖά σου Λείψανα· Σιάρλωτ καὶ αἱ Καρολίναι πᾶσαι γάνυνται, τῇ θερμῇ προστασίᾳ σου, καὶ ὄψῃ Κυρίου, τὴν ἐν σοὶ ἐνέργιαν Ἀμερικῆς ὁ λαός· πάντας γὰρ ὀξέως προφθάνεις, καὶ πολλῶν κινδύνων ἐξαίρεις, τοὺς προσκαλουμένους σε Νεκτάριε.
+alt1.meVE.Stichera06.text = "" //Χαίρει Ἐνορία ἡ σεπτή, ὥσπερ θησαυρὀν κεκτημένη, θεῖά σου Λείψανα· Σιάρλωτ καὶ αἱ Καρολίναι πᾶσαι γάνυνται, τῇ θερμῇ προστασίᾳ σου, καὶ ὄψῃ Κυρίου, τὴν ἐν σοὶ ἐνέργιαν Ἀμερικῆς ὁ λαός· πάντας γὰρ ὀξέως προφθάνεις, καὶ πολλῶν κινδύνων ἐξαίρεις, τοὺς προσκαλουμένους σε Νεκτάριε.
 
 alt1.meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
 alt1.meVE.SticGlory.melody = ""

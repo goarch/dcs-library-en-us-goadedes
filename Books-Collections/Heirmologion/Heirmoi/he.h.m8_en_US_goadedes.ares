@@ -163,7 +163,7 @@ heHE.EnPedioDeeira.ode = miscellanea_en_US_goadedes.misc.Ode7
 heHE.EnPedioDeeira.text = ""
 
 heHE.EpevisEfIppous.notmetered = "N/M (You mounted Your horses.)"
-heHE.EpevisEfIppous.greekname = "Ἐπέβης ἐφʼ ἵππους."
+heHE.EpevisEfIppous.greekname = "Ἐπέβης ἐφ’ ἵππους."
 heHE.EpevisEfIppous.name = "You mounted Your horses."
 heHE.EpevisEfIppous.incipit = "You mounted Your horses…"
 heHE.EpevisEfIppous.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -388,7 +388,7 @@ heHE.NotiouThiros.ode = miscellanea_en_US_goadedes.misc.Ode6
 heHE.NotiouThiros.text = "In the belly of the sea beast * the prophet Jonah prayed with his arms extended crosswise; * thus he clearly prefigured the saving Passion of Christ. * When after three days he emerged, * he was depicting the supernal resurrection from the dead * of Christ God, who was physically nailed to the Cross * and by His third-day arising illumined the universe." //When Jonah was in the belly * of the sea beast, and his hands in a cruciform were stretched out, * he thus clearly prefigured the saving Passion of Christ. * Whence after three days he emerged, depicting thus the super-mundane Resurrection from the dead * of our God who was physically nailed to the Cross * and by His third-day arising illumined the universe.
 
 heHE.ODiAngelouPaidas.notmetered = "N/M (O Lord, You saved.)"
-heHE.ODiAngelouPaidas.greekname = "Ὁ διʼ Ἀγγέλου Παῖδας."
+heHE.ODiAngelouPaidas.greekname = "Ὁ δι’ Ἀγγέλου Παῖδας."
 heHE.ODiAngelouPaidas.name = "O Lord, You saved."
 heHE.ODiAngelouPaidas.incipit = "O Lord, You saved…"
 heHE.ODiAngelouPaidas.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -451,7 +451,7 @@ heHE.OStereosasEnTiCheiriSou.ode = miscellanea_en_US_goadedes.misc.Ode3
 heHE.OStereosasEnTiCheiriSou.text = "O Logos of God, in Your hand You established the heavens. We who trust in You pray that You establish our hearts in the illumination of the true knowledge of You."
 
 heHE.OStereosasKatArchas.notmetered = "N/M (In the beginning.)"
-heHE.OStereosasKatArchas.greekname = "Ὁ στερεώσας κατʼ ἀρχάς."
+heHE.OStereosasKatArchas.greekname = "Ὁ στερεώσας κατ’ ἀρχάς."
 heHE.OStereosasKatArchas.name = "In the beginning."
 heHE.OStereosasKatArchas.incipit = "In the beginning…"
 heHE.OStereosasKatArchas.melody = miscellanea_en_US_goadedes.misc.Heirmos

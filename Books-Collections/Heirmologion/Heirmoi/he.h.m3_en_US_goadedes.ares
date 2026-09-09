@@ -253,7 +253,7 @@ heHE.OrthrizontesAnymnoumen.ode = miscellanea_en_US_goadedes.misc.Ode5
 heHE.OrthrizontesAnymnoumen.text = ""
 
 heHE.OsEidenIsaias.notmetered = "N/M (Isaiah had a mystical vision.)"
-heHE.OsEidenIsaias.greekname = "Ὡς εἶδεν Ἠσαΐας."
+heHE.OsEidenIsaias.greekname = "Ὡς εἶδεν Ἠσαΐας."
 heHE.OsEidenIsaias.name = "Isaiah had a mystical vision."
 heHE.OsEidenIsaias.incipit = "Isaiah had a mystical vision…"
 heHE.OsEidenIsaias.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -262,7 +262,7 @@ heHE.OsEidenIsaias.ode = miscellanea_en_US_goadedes.misc.Ode5
 heHE.OsEidenIsaias.text = "Isaiah had a mystical vision of God * sitting on a throne lifted up, * and around Him stood the glorious Seraphim. * The Prophet cried out, “Woe is me! * With my eyes I have foreseen incarnate God; * and He is the Master of never-setting light and peace.”"
 
 heHE.OsOmvrosEpAgrostin.notmetered = "N/M ()"
-heHE.OsOmvrosEpAgrostin.greekname = "Ὡς ὄμβρος ἐπʼ ἄγρωστιν."
+heHE.OsOmvrosEpAgrostin.greekname = "Ὡς ὄμβρος ἐπ’ ἄγρωστιν."
 heHE.OsOmvrosEpAgrostin.name = "N/M ()"
 heHE.OsOmvrosEpAgrostin.incipit = "N/M ()…"
 heHE.OsOmvrosEpAgrostin.melody = miscellanea_en_US_goadedes.misc.HeirmosNotMetered
@@ -460,7 +460,7 @@ heHE.TonExAnarchou.ode = miscellanea_en_US_goadedes.misc.Ode8
 heHE.TonExAnarchou.text = "Extol Him who is God, who before the ages was begotten from the unoriginate Father, and who in latter times put on flesh from the Theotokos. He is perfect man, and God from God. Extol Him and bless Him, and supremely exalt Him, unto all the ages."
 
 heHE.TonYpAngelon.notmetered = "N/M (To Him whom Angels.)"
-heHE.TonYpAngelon.greekname = "Τὸν ὑπʼ Ἀγγέλων."
+heHE.TonYpAngelon.greekname = "Τὸν ὑπ’ Ἀγγέλων."
 heHE.TonYpAngelon.name = "To Him whom Angels."
 heHE.TonYpAngelon.incipit = "To Him whom Angels…"
 heHE.TonYpAngelon.melody = miscellanea_en_US_goadedes.misc.Heirmos

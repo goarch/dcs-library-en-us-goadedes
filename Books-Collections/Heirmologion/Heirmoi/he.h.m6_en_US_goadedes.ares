@@ -154,7 +154,7 @@ heHE.EvoisaEnOliKardiaMou.ode = miscellanea_en_US_goadedes.misc.Ode6
 heHE.EvoisaEnOliKardiaMou.text = "I cried aloud and shouted with all my heart * unto the tender-loving God, * and He heard my voice from the lowest depths of Hades, * and He raised my life from the pit of corruption."
 
 heHE.IToChaireDiAngelou.notmetered = "N/M (You received the joyful message.)"
-heHE.IToChaireDiAngelou.greekname = "Ἡ τὸ Χαῖρε διʼ Ἀγγέλου."
+heHE.IToChaireDiAngelou.greekname = "Ἡ τὸ Χαῖρε δι’ Ἀγγέλου."
 heHE.IToChaireDiAngelou.name = "You received the joyful message."
 heHE.IToChaireDiAngelou.incipit = "You received the joyful message…"
 heHE.IToChaireDiAngelou.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -406,7 +406,7 @@ heHE.StilinKakiasTouDeinou.ode = miscellanea_en_US_goadedes.misc.Ode8
 heHE.StilinKakiasTouDeinou.text = "O believers, having ridiculed the monument of Herod’s wickedness, let us proceed to the Jordan, to see Christ our Redeemer physically baptized by the Forerunner in the river. All creation blesses Him and glorifies Him unto the ages."
 
 heHE.SyneschethiAllOuKateschethi.notmetered = "N/M (Prophet Jonah was in.)"
-heHE.SyneschethiAllOuKateschethi.greekname = "Συνεσχέθη ἀλλʼ οὐ κατεσχέθη."
+heHE.SyneschethiAllOuKateschethi.greekname = "Συνεσχέθη ἀλλ’ οὐ κατεσχέθη."
 heHE.SyneschethiAllOuKateschethi.name = "Prophet Jonah was in."
 heHE.SyneschethiAllOuKateschethi.incipit = "Prophet Jonah was in…"
 heHE.SyneschethiAllOuKateschethi.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -415,7 +415,7 @@ heHE.SyneschethiAllOuKateschethi.ode = miscellanea_en_US_goadedes.misc.Ode6
 heHE.SyneschethiAllOuKateschethi.text = "Prophet Jonah was in the belly of the whale detained, but not retained. For, in that he prefigured You, the One who suffered and was buried, he sprang forth from the beast as from a bridal room, and he cried out to the guard of soldiers, “You, who are keeping watch and follow vanity and lies, have forsaken the mercy that was meant for you.”"
 
 heHE.SyneschethiAllOuKateschethiEpiphany.notmetered = "N/M (.)"
-heHE.SyneschethiAllOuKateschethiEpiphany.greekname = "Συνεσχέθη ἀλλʼ οὐ κατεσχέθη."
+heHE.SyneschethiAllOuKateschethiEpiphany.greekname = "Συνεσχέθη ἀλλ’ οὐ κατεσχέθη."
 heHE.SyneschethiAllOuKateschethiEpiphany.name = ""
 heHE.SyneschethiAllOuKateschethiEpiphany.incipit = "…"
 heHE.SyneschethiAllOuKateschethiEpiphany.melody = miscellanea_en_US_goadedes.misc.Heirmos

@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m12.d15_en_US_goadedes
 
-meDA.date = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = ""
 meDA.commemoration.full = "" // full title of day
 meDA.commemoration.first = ""
 meDA.commemoration.first_short = ""

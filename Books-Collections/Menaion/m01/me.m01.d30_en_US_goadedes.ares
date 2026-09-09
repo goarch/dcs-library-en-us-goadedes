@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m01.d30_en_US_goadedes
 
-meDA.date = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = ""
 meDA.commemoration.full = "" // full title of day
 meDA.commemoration.first = ""
 meDA.commemoration.first_short = ""
@@ -1010,7 +1010,7 @@ meLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 
 meLI.Megalynarion.text = "Holy father Basil, and most divine * John, and godly-minded father Gregory, in the world * you were godly speakers of wisdom and the teachers * of mysteries of heaven, and pillars of the Church."
 
-alt1.meDA.date = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+alt1.meDA.date = ""
 alt1.meDA.commemoration.full = "" //full title of day
 alt1.meDA.commemoration.first_short = ""
 alt1.meDA.commemoration.first_title = titles_en_US_goadedes.ti.SaintM
