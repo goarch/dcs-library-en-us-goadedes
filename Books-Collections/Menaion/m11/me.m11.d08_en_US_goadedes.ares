@@ -69,20 +69,20 @@ meVE.SticTheotokion.text = ""
 meVE.Lity1.poet = poets_en_US_goadedes.po.Kyprianou
 meVE.Lity1.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.Lity1.melody = ""
-meVE.Lity1.incipit = "…"
-meVE.Lity1.text = ""
+meVE.Lity1.incipit = "O Chief Commanders…"
+meVE.Lity1.text = "O Chief Commanders of the spiritual hosts, as you stand unceasingly at the Master’s throne, intercede with the Lord that He grant peace to the world and the great mercy to our souls."
 
 meVE.Lity2.poet = poets_en_US_goadedes.po.Arseniou
 meVE.Lity2.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.Lity2.melody = ""
-meVE.Lity2.incipit = "…"
-meVE.Lity2.text = ""
+meVE.Lity2.incipit = "That Commander…"
+meVE.Lity2.text = "That Commander of the heavenly hosts, Michael, foremost among the celestial hierarchies, who goes with us daily, guarding us all from every demonic assault, has brought us together to celebrate today. So let us who love Christ and the feasts of the Church bring virtues like flowers and attend this service in honor of the Archangel, with pure thoughts and conscience clear. For he unceasingly ministers to God, singing the thrice-holy hymn, and he intercedes for the salvation of our souls."
 
 meVE.Lity3.poet = poets_en_US_goadedes.po.Stouditou
 meVE.Lity3.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.Lity3.melody = ""
-meVE.Lity3.incipit = "…"
-meVE.Lity3.text = ""
+meVE.Lity3.incipit = "Commanding the spiritual…"
+meVE.Lity3.text = "Commanding the spiritual hosts that serve the immaterial nature, and illumining the world with beams of thrice-resplendent glory, O Chief Commanders, with never silent voice you sing the hymn: “Holy, Holy, Holy!” Therefore intercede for the salvation of our souls."
 
 meVE.Lity4.poet = poets_en_US_goadedes.po.Arseniou
 meVE.Lity4.mode = miscellanea_en_US_goadedes.misc.Mode2
@@ -93,8 +93,8 @@ meVE.Lity4.text = ""
 meVE.Lity5.poet = poets_en_US_goadedes.po.Anatoliou
 meVE.Lity5.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.Lity5.melody = ""
-meVE.Lity5.incipit = "…"
-meVE.Lity5.text = ""
+meVE.Lity5.incipit = "With bodiless lips…"
+meVE.Lity5.text = "With bodiless lips and spiritual mouths, the ranks of angels offer an unceasing hymn to Your unapproachable divinity, O Lord; and pure intellects, ministers of Your glory, sing their praises to You, O God. First among them, Michael the bodiless chief commander of the angels, leader of the heavenly hosts, serves as our host today, exhorting us to sing the songs of the bodiless to Your unapproachable glory, O benevolent Master, as he intercedes unceasingly for the salvation of our souls."
 
 meVE.Lity6.poet = poets_en_US_goadedes.po.EfraimKarias
 meVE.Lity6.mode = miscellanea_en_US_goadedes.misc.Mode4
@@ -109,8 +109,8 @@ meVE.Lity7.text = "O Christ, Your Angels stand near the throne of Your majesty w
 
 meVE.LityGlory.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.LityGlory.melody = ""
-meVE.LityGlory.incipit = "…"
-meVE.LityGlory.text = ""
+meVE.LityGlory.incipit = "The Cherubim extol…"
+meVE.LityGlory.text = "The Cherubim extol You with fiery lips, O Christ our God. The never-silent choir of Archangels glorifies You with bodiless mouths. And Michael, Chief Commander of celestial hosts, unceasingly offers the triumphal hymn to Your glory. He has shined on us today to brighten our celebration, so that we, too, with earthen lips may worthily sing thrice-holy praise, for all things are filled with Your praise, as scripture says. And through him You grant to the world the great mercy."
 
 meVE.LityBoth.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.LityBoth.melody = ""
