@@ -82,10 +82,9 @@ meVE.AposGlory.incipit = me.m07.d01_en_US_goadedes.meVE.AposGlory.incipit
 meVE.AposGlory.text = me.m07.d01_en_US_goadedes.meVE.AposGlory.text
 
 meVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
-meVE.AposTheotokion.greekmelody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.greekname
-meVE.AposTheotokion.melody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.name
-meVE.AposTheotokion.incipit = oc.m6.d5_en_US_goadedes.ocMA.AposTheotokion.incipit
-meVE.AposTheotokion.text = oc.m6.d5_en_US_goadedes.ocMA.AposTheotokion.text
+meVE.AposTheotokion.melody = he.o_en_US_goadedes.heOT.TheotokeSyEi.name
+meVE.AposTheotokion.incipit = he.o_en_US_goadedes.heOT.TheotokeSyEi.incipit
+meVE.AposTheotokion.text = he.o_en_US_goadedes.heOT.TheotokeSyEiAnargyron.text
 
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.AposStavrotheotokion.greekmelody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.greekname

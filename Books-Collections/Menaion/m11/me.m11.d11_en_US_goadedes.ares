@@ -64,8 +64,8 @@ meVE.SticGlory.text = ""
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.SticTheotokion.greekmelody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.greekname
 meVE.SticTheotokion.melody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.name
-meVE.SticTheotokion.incipit = oc.m6.d5_en_US_goadedes.ocMA.AposTheotokion.incipit
-meVE.SticTheotokion.text = oc.m6.d5_en_US_goadedes.ocMA.AposTheotokion.text
+meVE.SticTheotokion.incipit = "Pure Virgin, only Mother…"
+meVE.SticTheotokion.text = "Pure Virgin, only Mother of God, * from Him you have received great gifts * of divine grace, * for you physically gave birth * unto Christ the life-giver, * who is one of the persons * of the Trinity, to save our souls."
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.SticStavrotheotokion.greekmelody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.greekname
@@ -638,8 +638,8 @@ meMA.ExapTheotokion.text = ""
 
 meMA.Aposticha4.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Aposticha4.melody = ""
-meMA.Aposticha4.incipit = "…"
-meMA.Aposticha4.text = ""
+meMA.Aposticha4.incipit = "Come, all you fans…"
+meMA.Aposticha4.text = "Come, all you fans of sacred contests, let us honor the luminous trio of Martyrs, Menas and Victor and Vincent. For they paid with their blood and profited eternal life. With endurance they defied the deviser of evils: “We do not prefer things perishable to the imperishable. We will not serve in the army of an earthly, mortal king, but we are soldiers of the living King, who continually says to the faithful, ‘He who believes in me, though he die, will live.’”"
 
 meMA.AposGlory.poet = poets_en_US_goadedes.po.Anatoliou
 meMA.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode1
