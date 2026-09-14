@@ -45,8 +45,8 @@ meSV.SticGlory.text = ""
 
 meSV.SticBoth.mode = miscellanea_en_US_goadedes.misc.Mode4
 meSV.SticBoth.melody = ""
-meSV.SticBoth.incipit = oc.m4.d3_en_US_goadedes.ocVE.AposTheotokion.incipit
-meSV.SticBoth.text = oc.m4.d3_en_US_goadedes.ocVE.AposTheotokion.text
+meSV.SticBoth.incipit = oc.m4.d5_en_US_goadedes.ocVE.AposTheotokion.incipit
+meSV.SticBoth.text = oc.m4.d5_en_US_goadedes.ocVE.AposTheotokion.text
 
 meSV.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode2
 meSV.Aposticha1.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
@@ -102,46 +102,46 @@ meVE.SticTheotokion.text = oc.m6.d1_en_US_goadedes.ocVE.SticTheotokion.text
 meVE.Lity1.poet = poets_en_US_goadedes.po.Anatoliou
 meVE.Lity1.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.Lity1.melody = ""
-meVE.Lity1.incipit = "…"
-meVE.Lity1.text = ""
+meVE.Lity1.incipit = "O beacon John…"
+meVE.Lity1.text = "O beacon John, the golden mouth, ornament of the deifying virtues, savant of sacramental Writ, inviolable treasury of the immaculate Holy Spirit: you gladdened the entire Church, by your truly saving words. Now as you enjoy the heavenly inheritance, and you speak to God with confidence, intercede for us, most holy Father."
 
 meVE.Lity2.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.Lity2.melody = ""
-meVE.Lity2.incipit = "…"
-meVE.Lity2.text = ""
+meVE.Lity2.incipit = "Grace was poured…"
+meVE.Lity2.text = "Grace was poured upon your lips, O devout father John Chrysostom; therefore God anointed you as High Priest of His people, to shepherd His flock in holiness and righteousness. So you girded yourself with the sword of the Mighty One, and cut through the ruinous chatter of heresies. And now, never cease interceding, that He make the world peaceful and that He save our souls."
 
 meVE.Lity3.poet = poets_en_US_goadedes.po.Stouditou
 meVE.Lity3.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.Lity3.melody = ""
-meVE.Lity3.incipit = "…"
-meVE.Lity3.text = ""
+meVE.Lity3.incipit = "We earnestly extol…"
+meVE.Lity3.text = "We earnestly extol you, the great High Priest and Shepherd, the holy and blameless, the herald of repentance, the gold-producing mouth of grace, and we pray to you, O Father: Include us in your intercessions, for the sake of our souls."
 
 meVE.Lity4.poet = poets_en_US_goadedes.po.GeorgiouNikomideias
 meVE.Lity4.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.Lity4.melody = ""
-meVE.Lity4.incipit = "…"
-meVE.Lity4.text = ""
+meVE.Lity4.incipit = "Adorned with your golden…"
+meVE.Lity4.text = "Adorned with your golden words, as with gold jewelry, O John Chrysostom, the Church as a bride rejoices and cries to you: “I am satiated by your golden waters, glowing from imbibing your gold-colored, honey-sweet drinks. And I am lifted from active virtue to divine contemplation through your gentle exhortations, and I am united to Christ, the spiritual Bridegroom, and I reign together with Him.” As for us, we have come to church to celebrate your memory, and we say: “Do not relent in praying to the Lord for us, to save our souls.”"
 
 meVE.Lity5.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.Lity5.melody = ""
-meVE.Lity5.incipit = "…"
-meVE.Lity5.text = ""
+meVE.Lity5.incipit = "You acquired…"
+meVE.Lity5.text = "You acquired the highest philosophy, O Hierarch, and lived outside of the world, soaring above all things visible. And you clearly became a spotless mirror of God; and ever united with the Light, you continually received more light, and you attained and even brighter, blessed end. O Chrysostom, intercede for the salvation of our souls."
 
 meVE.Lity6.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Lity6.melody = ""
-meVE.Lity6.incipit = "…"
-meVE.Lity6.text = ""
+meVE.Lity6.incipit = "With golden, glowing…"
+meVE.Lity6.text = "With golden, glowing words, you irrigated the ends of the earth, your soul and body suffused in gold, O blessed Saint. When you had covered all things with gold by your teachings, and written books inscribed in gold, as the goldsmith of your dogmas, you soared into heaven. Therefore we cry to you: O Chrysostom, the golden mouth of golden eloquence, entreat Christ our God to save our souls."
 
 meVE.LityGlory.poet = poets_en_US_goadedes.po.Germanou
 meVE.LityGlory.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.LityGlory.melody = ""
-meVE.LityGlory.incipit = "…"
-meVE.LityGlory.text = ""
+meVE.LityGlory.incipit = "It was fitting…"
+meVE.LityGlory.text = "It was fitting for the queen of cities to boast that John was her Archbishop, as a royal jewel, and a golden trumpet, echoing the dogmas of salvation to the ends of the earth, inviting all to join in singing godly songs. So let us sing to him, “O Chrysostom, the golden mouth of golden speech, entreat Christ our God to save our souls.”"
 
 meVE.LityBoth.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.LityBoth.melody = ""
-meVE.LityBoth.incipit = "…"
-meVE.LityBoth.text = ""
+meVE.LityBoth.incipit = "We have you…"
+meVE.LityBoth.text = "We have you as a wall, O immaculate Theotokos, and as a fair-haven and an impregnable fortress. Therefore we who are in the storms of this life pray to you: Be our pilot and rescue us."
 
 meVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode5
 meVE.Aposticha1.greekmelody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.greekname
