@@ -41,8 +41,8 @@ meVE.Stichera03.text = ""
 
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.SticGlory.melody = ""
-meVE.SticGlory.incipit = "…"
-meVE.SticGlory.text = ""
+meVE.SticGlory.incipit = "When you expertly…"
+meVE.SticGlory.text = "When you expertly delved into the depths of contemplation, O hierarch of Christ, the mystery of the Trinity was revealed to you. And focusing your spiritual vision on Christ our God, you unleash a sea of miracles for us: you drained a disputed lake, you freed a pagan from dark delusion, and you persuaded persecutors to embrace the truth. Appearing to them as a pillar of piety and virtue, you were called the Wonderworker. Therefore we pray to you: Never cease imploring the Savior on our behalf, for the salvation of our souls."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.SticTheotokion.greekmelody = he.a.m6_en_US_goadedes.heAU.OlinApothemenoi.greekname
@@ -58,8 +58,8 @@ meVE.SticStavrotheotokion.text = ""
 
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.AposGlory.melody = ""
-meVE.AposGlory.incipit = "…"
-meVE.AposGlory.text = ""
+meVE.AposGlory.incipit = "Vigilance from God…"
+meVE.AposGlory.text = "Vigilance from God was given to you, O wise one, like to Daniel: as the dream was revealed to him, so to you was revealed the mystery of the Faith. Intercede, O holy Father, for the salvation of our souls."
 
 meVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.AposTheotokion.melody = ""
@@ -389,8 +389,8 @@ meMA.Lauds3.text = ""
 
 meMA.LaudsGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.incipit = "…"
-meMA.LaudsGlory.text = ""
+meMA.LaudsGlory.incipit = "Even things inanimate…"
+meMA.LaudsGlory.text = "Even things inanimate revered the hierarch renowned for miracles, and they were marvelously changed. A lake was rendered dry, admonishing brothers; a staff became a tree, impeding a river; and a boulder was displaced, obeying his dictate, bringing unbelievers to the knowledge of God; by which grant our souls the great mercy, O God."
 
 meMA.LaudsTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.LaudsTheotokion.melody = ""
@@ -404,8 +404,8 @@ meMA.LaudsStavrotheotokion.text = ""
 
 meMA.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.AposGlory.melody = ""
-meMA.AposGlory.incipit = "…"
-meMA.AposGlory.text = ""
+meMA.AposGlory.incipit = "When you were elected…"
+meMA.AposGlory.text = "When you were elected to the priesthood by God, and you were clothed in sacred vestments from on high, and as the grace of wisdom poured from your lips, you turned those who were once the sons of unbelief into children of light and heirs of God, O all-blessed Gregory the Wonderworker. And now, as we observe your memory, pray to Christ our God for our souls."
 
 meMA.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.AposTheotokion.melody = ""
