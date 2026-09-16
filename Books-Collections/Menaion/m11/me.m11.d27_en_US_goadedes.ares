@@ -50,8 +50,8 @@ meVE.SticGlory.text = ""
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.SticTheotokion.greekmelody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.greekname
 meVE.SticTheotokion.melody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.name
-meVE.SticTheotokion.incipit = me.m01.d22_en_US_goadedes.meVE.AposTheotokion.incipit
-meVE.SticTheotokion.text = me.m01.d22_en_US_goadedes.meVE.AposTheotokion.text
+meVE.SticTheotokion.incipit = me.m11.d15_en_US_goadedes.meVE.AposTheotokion.incipit
+meVE.SticTheotokion.text = me.m11.d15_en_US_goadedes.meVE.AposTheotokion.text
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.SticStavrotheotokion.greekmelody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.greekname
