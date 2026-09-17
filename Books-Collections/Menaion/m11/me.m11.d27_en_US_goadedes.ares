@@ -44,8 +44,8 @@ meVE.MM.Stichera1123as78910.text = properties_en_US_goadedes.media.key
 meVE.SticGlory.poet = poets_en_US_goadedes.po.Stouditou
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.SticGlory.melody = ""
-meVE.SticGlory.incipit = "…"
-meVE.SticGlory.text = ""
+meVE.SticGlory.incipit = "Persevering in the contest…"
+meVE.SticGlory.text = "Persevering in the contest, O Martyr James, for the sake of Christ God you surrendered your body. One by one, your fingers and toes were cut off, your hands and feet, your arms and legs, and finally your head. Then you flew up into the heavens, to reign with the King of all. And now, O mighty champion, never cease imploring for the salvation of our souls from every harm of the adversary."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.SticTheotokion.greekmelody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.greekname
@@ -61,8 +61,8 @@ meVE.SticStavrotheotokion.text = me.m01.d15_en_US_goadedes.meVE.SticStavrotheoto
 
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode5
 meVE.AposGlory.melody = ""
-meVE.AposGlory.incipit = "…"
-meVE.AposGlory.text = ""
+meVE.AposGlory.incipit = "You proved to be…"
+meVE.AposGlory.text = "You proved to be wondrous, O James, as you suffered long through every torture: for you persevered as they severed your fingers, your hands, and your arms, and likewise your feet, your shins, and your thighs. Ultimately, as you prayed, they cut off your venerable head. O herculean Martyr, never cease entreating Christ on our behalf, that He have mercy on our souls."
 
 meVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode5
 meVE.AposTheotokion.greekmelody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.greekname
@@ -382,7 +382,7 @@ meMA.AposGlory.poet = poets_en_US_goadedes.po.GeorgiouSikeliotou
 meMA.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.AposGlory.melody = ""
 meMA.AposGlory.incipit = "…"
-meMA.AposGlory.text = ""
+meMA.AposGlory.text = "O faithful fans of sacred spectacles, having come to church today, consider the strange and extraordinary contest of James of Persia, who shone like the star that appeared to the Magi and guided them to the knowledge of truth. This noble man defeated the enemy, when he fell into their hands. He unnerved the tyrants, when his own limbs were severed joint by joint, for he was strengthened by divine providence from on high. He cried out: “Although you cut off my physical limbs, yet I have Christ, who spiritually is everything to me.” As he foresaw the next life, that is entered through death which awaits us all, he hastened to cross over to it. Now dwelling therein, he prays for us to God who awards the crowns, to grant forgiveness, illumination, and the great mercy to us who observe his memory."
 
 meMA.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.AposTheotokion.greekmelody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.greekname
