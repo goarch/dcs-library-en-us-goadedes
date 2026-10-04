@@ -6,6 +6,7 @@ peDA.commemoration.name = ""
 peDA.insert1 = "" //for use in petitions and dismissal
 peDA.insert2 = "" //for use in petitions and dismissal
 peDA.note = ""
+peDA.note1 = ""
 peHO.daytitle = ""
 peHO.commemorations = ""
 peHO.description1 = ""
