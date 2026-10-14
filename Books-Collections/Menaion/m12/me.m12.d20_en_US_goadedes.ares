@@ -80,8 +80,8 @@ meVE.Aposticha1.text = ""
 meVE.Aposticha2.poet = poets_en_US_goadedes.po.AndreouPyrou
 meVE.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.Aposticha2.melody = ""
-meVE.Aposticha2.incipit = "…"
-meVE.Aposticha2.text = ""
+meVE.Aposticha2.incipit = me.m12.d17_en_US_goadedes.meVE.SticBoth.incipit
+meVE.Aposticha2.text = me.m12.d17_en_US_goadedes.meVE.SticBoth.text
 
 meVE.Aposticha3.poet = poets_en_US_goadedes.po.Kyprianou
 meVE.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode2

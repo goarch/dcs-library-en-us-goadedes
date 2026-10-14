@@ -58,13 +58,13 @@ meVE.Stichera06.text = "O praiseworthy Prophet Daniel, kings and rulers of Babyl
 meVE.SticGlory.poet = poets_en_US_goadedes.po.Anatoliou
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.SticGlory.melody = ""
-meVE.SticGlory.incipit = "…"
-meVE.SticGlory.text = ""
+meVE.SticGlory.incipit = "O believers…"
+meVE.SticGlory.text = "O believers, the Prophet Daniel has spiritually assembled us today. He has richly set a banquet table of virtues, for the wealthy and the poor, foreigners and natives. He is providing a spiritual carafe serving the wine of godliness, gladdening the hearts of believers, and granting the grace of the Holy Spirit. This Prophet, that most brilliant luminary who shone in the world, demolished the idols of the Assyrians, and he stopped the mouths of ferocious lions. Let us also extol the three Servants, who were not by nature golden, but proved themselves to be more precious than gold; for the furnace fire did not melt them, but rather preserved them unharmed, even as they were covered by naphtha, pitch, and firewood. May the Lord, who has brought us to this season of the year, grant that we may reach the main holy feast day of the Nativity of Christ who, by the earnest prayers of His Saints, grants us forgiveness of sins and the great mercy."
 
 meVE.SticBoth.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.SticBoth.melody = ""
-meVE.SticBoth.incipit = "…"
-meVE.SticBoth.text = ""
+meVE.SticBoth.incipit = "Come one and all…"
+meVE.SticBoth.text = "Come one and all, let us faithfully begin to celebrate the birth of Christ. Let us mentally present a hymn, like the star, and let us glorify God with the Magi and the shepherds, and sing: The salvation of humanity has come, from a virgin womb, to restore the human race!"
 
 meVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Aposticha1.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
