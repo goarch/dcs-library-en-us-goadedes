@@ -64,6 +64,7 @@ euCA.Ode3T.incipit = "From you only we on earth…"
 euCA.Ode3T.text = "Through you only we on earth * procure divine and supernatural gifts, * all-holy Mother of God. * Therefore we salute you and sing, “Rejoice!”"
 
 euMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode4
+euMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.greekname
 euMA.Ode3Kathisma1.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
 euMA.Ode3Kathisma1.incipit = me.m09.d13_en_US_goadedes.meMA.Kathisma11.incipit
 euMA.Ode3Kathisma1.text = me.m09.d13_en_US_goadedes.meMA.Kathisma11.text
