@@ -628,11 +628,6 @@ meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.incipit = me.m08.d29_en_US_goadedes.meVE.Stichera04.incipit
 meMA.LaudsGlory.text = me.m08.d29_en_US_goadedes.meVE.Stichera04.text
 
-meMA.LaudsTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.LaudsTheotokion.melody = he.o_en_US_goadedes.heOT.TheotokeSyEi.name
-meMA.LaudsTheotokion.incipit = he.o_en_US_goadedes.heOT.TheotokeSyEi.incipit
-meMA.LaudsTheotokion.text = he.o_en_US_goadedes.heOT.TheotokeSyEiProdromou.text
-
 meMA.MM.Lauds1123as5678.text = properties_en_US_goadedes.media.key
 
 meMA.AdditionalIdiomelon1.mode = miscellanea_en_US_goadedes.misc.Mode4

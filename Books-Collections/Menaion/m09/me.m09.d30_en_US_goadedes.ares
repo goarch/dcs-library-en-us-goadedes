@@ -62,11 +62,6 @@ meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "The Martyr and Pastor…"
 meVE.AposGlory.text = "The Martyr and Pastor noetically entered the inner cloud of the indescribable light, and the secrets of God's mysteries were disclosed to him, illumined as a martyr, initiated as a pastor. Therefore he was awarded the crowns for both, from the glory on high. And he is always interceding with Christ on behalf of our souls. "
 
-meVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
-meVE.AposTheotokion.melody = he.o_en_US_goadedes.heOT.TheotokeSyEi.name
-meVE.AposTheotokion.incipit = he.o_en_US_goadedes.heOT.TheotokeSyEi.incipit
-meVE.AposTheotokion.text = he.o_en_US_goadedes.heOT.TheotokeSyEiAthloforou.text
-
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.AposStavrotheotokion.greekmelody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.greekname
 meVE.AposStavrotheotokion.melody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.name

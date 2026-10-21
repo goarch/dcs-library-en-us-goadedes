@@ -117,11 +117,6 @@ meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "…"
 meVE.AposGlory.text = ""
 
-meVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
-meVE.AposTheotokion.melody = he.o_en_US_goadedes.heOT.TheotokeSyEi.name
-meVE.AposTheotokion.incipit = he.o_en_US_goadedes.heOT.TheotokeSyEi.incipit
-meVE.AposTheotokion.text = he.o_en_US_goadedes.heOT.TheotokeSyEiAthliforou.text
-
 meVE.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode3
 meVE.Apolytikion1.greekmelody = he.a.m3_en_US_goadedes.heAU.TheiasPisteos.greekname
 meVE.Apolytikion1.melody = he.a.m3_en_US_goadedes.heAU.TheiasPisteos.name

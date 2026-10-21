@@ -90,11 +90,6 @@ meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = me.m06.d29_en_US_goadedes.meVE.AposGlory.incipit
 meVE.AposGlory.text = me.m06.d29_en_US_goadedes.meVE.AposGlory.text
 
-meVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
-meVE.AposTheotokion.melody = he.o_en_US_goadedes.heOT.TheotokeSyEi.name
-meVE.AposTheotokion.incipit = he.o_en_US_goadedes.heOT.TheotokeSyEi.incipit
-meVE.AposTheotokion.text = he.o_en_US_goadedes.heOT.TheotokeSyEiApostolon.text
-
 meVE.Apolytikion1.mode = oc.m4.d5_en_US_goadedes.ocMA.Kathisma11.mode
 meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.incipit = oc.m4.d5_en_US_goadedes.ocMA.Kathisma11.incipit

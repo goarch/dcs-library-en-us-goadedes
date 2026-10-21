@@ -465,11 +465,6 @@ meMA.AposGlory.melody = ""
 meMA.AposGlory.incipit = "…"
 meMA.AposGlory.text = ""
 
-meMA.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.AposTheotokion.melody = he.o_en_US_goadedes.heOT.TheotokeSyEi.name
-meMA.AposTheotokion.incipit = he.o_en_US_goadedes.heOT.TheotokeSyEi.incipit
-meMA.AposTheotokion.text = he.o_en_US_goadedes.heOT.TheotokeSyEiProdromou.text
-
 meLI.Kontakion1.mode = me.m02.d24_en_US_goadedes.meMA.Kontakion1.mode
 meLI.Kontakion1.greekmelody = me.m02.d24_en_US_goadedes.meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = me.m02.d24_en_US_goadedes.meMA.Kontakion1.melody

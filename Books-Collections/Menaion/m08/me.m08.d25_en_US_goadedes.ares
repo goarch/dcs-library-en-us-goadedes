@@ -60,11 +60,6 @@ meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = "…"
 meVE.SticGlory.text = ""
 
-meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
-meVE.SticTheotokion.melody = he.o_en_US_goadedes.heOT.TheotokeSyEi.name
-meVE.SticTheotokion.incipit = he.o_en_US_goadedes.heOT.TheotokeSyEi.incipit
-meVE.SticTheotokion.text = he.o_en_US_goadedes.heOT.TheotokeSyEiApostolon.text
-
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "…"

@@ -73,11 +73,6 @@ meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "From the lowest villainy…"
 meVE.AposGlory.text = "From the lowest villainy to the pinnacle of virtue, like a high-flying eagle you amazingly ascended, all-lauded Apostle Matthew. By following in the steps of Christ, who covers the heavens with His virtue and fills all the earth with His understanding, you became an ardent imitator of Him in everything. You spread the Gospel of peace and life and salvation among those who religiously obeyed the commandments of God. About which ever give us guidance, that we might please our Creator, and celebrate you."
 
-meVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
-meVE.AposTheotokion.melody = he.o_en_US_goadedes.heOT.TheotokeSyEi.name
-meVE.AposTheotokion.incipit = he.o_en_US_goadedes.heOT.TheotokeSyEi.incipit
-meVE.AposTheotokion.text = he.o_en_US_goadedes.heOT.TheotokeSyEiApostolou.text
-
 meVE.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode3
 meVE.Apolytikion1.common = he.ga_en_US_goadedes.heGA.ApostoleAgie.name
 meVE.Apolytikion1.incipit = "O holy Apostle…"
