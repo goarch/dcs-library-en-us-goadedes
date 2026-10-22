@@ -48,11 +48,6 @@ meSV.SticGlory.melody = ""
 meSV.SticGlory.incipit = "…"
 meSV.SticGlory.text = ""
 
-meSV.SticBoth.mode = miscellanea_en_US_goadedes.misc.Mode6
-meSV.SticBoth.melody = he.o_en_US_goadedes.heOT.TheotokeSyEi.name
-meSV.SticBoth.incipit = he.o_en_US_goadedes.heOT.TheotokeSyEi.incipit
-meSV.SticBoth.text = he.o_en_US_goadedes.heOT.TheotokeSyEiDidaskalon.text
-
 meSV.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode6
 meSV.Aposticha1.melody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.name
 meSV.Aposticha1.incipit = "…"

@@ -99,11 +99,6 @@ meVE.LityGlory.melody = ""
 meVE.LityGlory.incipit = "Everyone on earth…"
 meVE.LityGlory.text = "Everyone on earth, come and let us celebrate the memory of our wise and erudite teachers, Athanasius and Cyril! They were like wrestlers, worthy of God, and faithful defenders of the truth who, possessing the Orthodox frame of mind, opposed invisible and visible enemies. For this the King of all in heaven awarded them halos of immortality. And now they join the hosts of Angels, singing the thrice-holy hymn, unceasingly extolling God, the Trinity one in essence."
 
-meVE.LityBoth.mode = miscellanea_en_US_goadedes.misc.Mode6
-meVE.LityBoth.melody = he.o_en_US_goadedes.heOT.TheotokeSyEi.name
-meVE.LityBoth.incipit = he.o_en_US_goadedes.heOT.TheotokeSyEi.incipit
-meVE.LityBoth.text = he.o_en_US_goadedes.heOT.TheotokeSyEiDidaskalon.text
-
 meVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode5
 meVE.Aposticha1.greekmelody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.greekname
 meVE.Aposticha1.melody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.name

@@ -80,11 +80,6 @@ meVE.LityGlory.melody = ""
 meVE.LityGlory.incipit = "The joyous and radiant…"
 meVE.LityGlory.text = "The joyous and radiant memory of the Unmercenaries of Christ has dawned on us today, brilliantly beaming with rays of miracles. Come, let us faithfully celebrate, O lovers of the Church’s feasts. Come, let us eagerly venerate the icons and the relics of the saints, so that we may receive the speedy cures, which they abundant provide. For by the working of the Holy Spirit, they freely grant gifts of healing to all."
 
-meVE.LityBoth.mode = miscellanea_en_US_goadedes.misc.Mode6
-meVE.LityBoth.melody = he.o_en_US_goadedes.heOT.TheotokeSyEi.name
-meVE.LityBoth.incipit = he.o_en_US_goadedes.heOT.TheotokeSyEi.incipit
-meVE.LityBoth.text = he.o_en_US_goadedes.heOT.TheotokeSyEiAnargyron.text
-
 meVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.Aposticha1.greekmelody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.greekname
 meVE.Aposticha1.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.name
