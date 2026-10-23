@@ -96,24 +96,25 @@ meVE.SticTheotokion.text = oc.m6.d1_en_US_goadedes.ocVE.SticTheotokion.text
 
 meVE.Lity1.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.Lity1.melody = ""
-meVE.Lity1.incipit = "…"
-meVE.Lity1.text = ""
+meVE.Lity1.incipit = "When you established…"
+meVE.Lity1.text = "When you established an ascetic training ground on earth, O devout St. Savas, you extinguished every assault of the passions in the stream of your tears. Your God-inspired life was recognized by all as a divine and holy ladder leading to heaven. In your life, you produced the fruits of godliness, by which you cure the passions’ illnesses of us who faithfully salute you and sing: “Rejoice, O golden star of the East, guiding light and shepherd of monks! Rejoice, renowned and truest child of the desert, unwavering support of the Church! Rejoice, unerring guide of those who have erred and gone astray! Rejoice, our pious pride and joy, and Christendom’s bright celebrity!”"
 
 meVE.Lity2.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.Lity2.melody = ""
-meVE.Lity2.incipit = "…"
-meVE.Lity2.text = ""
+meVE.Lity2.incipit = "Let us honor Savas…"
+meVE.Lity2.text = "Let us honor Savas, that angel on earth and man of God in the heavens. He modeled order in the world, delighting it with blessings and virtue, and thus he is the pride and joy of ascetics. He was planted in the house of God, and flourished righteously, and like a cedar in the desert; he multiplied the flock of Christ with rational sheep, in holiness and righteousness."
 
 meVE.Lity3.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.Lity3.melody = ""
-meVE.Lity3.incipit = "…"
-meVE.Lity3.text = ""
+meVE.Lity3.incipit = "Devout Father…"
+meVE.Lity3.text = "Devout Father, 
+from early childhood you diligently practiced virtue, and thus you became an instrument of the Holy Spirit. Receiving from Him the power to work miracles, you persuaded others to dismiss all fleeting delights. Now, as you are more clearly illumined by the divine light, illumine also our minds, O Savas, our Father."
 
 meVE.LityGlory.poet = poets_en_US_goadedes.po.Theofanous
 meVE.LityGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.LityGlory.melody = ""
-meVE.LityGlory.incipit = "…"
-meVE.LityGlory.text = ""
+meVE.LityGlory.incipit = "When a yearning…"
+meVE.LityGlory.text = "When a yearning for transcendent blessings was instilled in you, O God-inspired Saint, you dismissed every worldly delight. And so, unlike Adam, you were not ensnared by its fruit, but repelling the serpent through self-control, you led an angelic life. And now you dwell in the heavens, enjoying the tree of life and praying that God have mercy on us who faithfully observe your memory, O Savas the Sanctified."
 
 meVE.LityBoth.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.LityBoth.melody = ""
@@ -187,7 +188,7 @@ meMA.Kathisma31.text = ""
 meMA.Kathisma3T.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Kathisma3T.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
 meMA.Kathisma3T.incipit = oc.m8.d1_en_US_goadedes.ocMA.Kathisma13.incipit
-meMA.Kathisma3T.text = oc.m8.d1_en_US_goadedes.ocMA.Kathisma13.text
+meMA.Kathisma3T.text = "Let us sing hymns extolling the holy ark * and the heavenly gate and the shining cloud, * the all-holy mountain, and the heavenly ladder, * the allegorical Paradise and the release of Eve, * the great and precious treasure of the entire world. * For, in her, humanity’s salvation was accomplished; * through her has the world received the forgiveness of its many sins. * Let us therefore cry out to her, * “Intercede with your Son and our God, that He grant forgiveness of their offenses * to those who faithfully honor your immaculate childbirth.”"
 
 meMA.PostGospelGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.PostGospelGlory.melody = ""
