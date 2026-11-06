@@ -84,6 +84,12 @@ meVE.AposBoth.melody = ""
 meVE.AposBoth.incipit = "…"
 meVE.AposBoth.text = ""
 
+meVE.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode8
+meVE.Apolytikion1.greekmelody = he.ga_en_US_goadedes.heGA.TaisTonDakryonSou.name
+meVE.Apolytikion1.melody = he.ga_en_US_goadedes.heGA.TaisTonDakryonSou.name
+meVE.Apolytikion1.incipit = "…"
+meVE.Apolytikion1.text = ""
+
 meVE.GeneralApolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.GeneralApolytikion1.melody = he.ga_en_US_goadedes.heGA.TaisTonDakryonSou.name
 meVE.MM.GeneralApolytikion1.text = properties_en_US_goadedes.media.key
