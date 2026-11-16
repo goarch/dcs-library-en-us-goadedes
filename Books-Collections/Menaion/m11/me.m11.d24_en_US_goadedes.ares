@@ -109,8 +109,8 @@ meMA.Kathisma11.text = me.m11.d20_en_US_goadedes.meMA.Kontakion1.text
 meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Kathisma21.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
 meMA.Kathisma21.melody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.name
-meMA.Kathisma21.incipit = "…"
-meMA.Kathisma21.text = ""
+meMA.Kathisma21.incipit = "Now the Virgin…"
+meMA.Kathisma21.text = "Now the Virgin, who will be the Theotokos, is seen * as a spotless lamb and clean chamber. With joy she is brought * into the Temple of God extraordinarily, * and splendidly escorted by the Angels of God. * Forevermore believers all will call her blest, * and they will never cease to sing with a loud voice * to praise and honor her with gratitude. * “You are our glory and our salvation, * O Mary all-immaculate.”"
 
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
