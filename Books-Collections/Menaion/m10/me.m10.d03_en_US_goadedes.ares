@@ -367,8 +367,8 @@ meMA.AposGlory.text = "Illustrious are you among priests and Martyrs, O devout S
 meMA.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.AposTheotokion.greekmelody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.greekname
 meMA.AposTheotokion.melody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.name
-meMA.AposTheotokion.incipit = "…"
-meMA.AposTheotokion.text = ""
+meMA.AposTheotokion.incipit = "Lady, I implore…"
+meMA.AposTheotokion.text = "Lady, I implore you to expel from my enervated soul * imperfection and laziness, * carelessness, extravagance, * promiscuity, thoughtlessness, * and reprehensible disobedience * to what the Spirit of God commands of me. * Rid me of ignorance, * insatiable appetites, a callous heart, * and unconscionable views, and save my soul, I pray."
 
 meMA.AposStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.AposStavrotheotokion.greekmelody = he.a.m8_en_US_goadedes.heAU.KyrieEiKaiKritirio.greekname

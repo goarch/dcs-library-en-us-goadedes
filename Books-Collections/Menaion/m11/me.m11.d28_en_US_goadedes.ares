@@ -658,8 +658,8 @@ meMA.AposTheotokion.text = oc.m3.d3_en_US_goadedes.ocMA.AposTheotokion.text
 meMA.AposStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode3
 meMA.AposStavrotheotokion.greekmelody = he.a.m3_en_US_goadedes.heAU.MegaliTouStavrouSou.greekname
 meMA.AposStavrotheotokion.melody = he.a.m3_en_US_goadedes.heAU.MegaliTouStavrouSou.name
-meMA.AposStavrotheotokion.incipit = "…"
-meMA.AposStavrotheotokion.text = ""
+meMA.AposStavrotheotokion.incipit = "A sword pierced…"
+meMA.AposStavrotheotokion.text = "A sword pierced your heart, as you were warned by Symeon, * when you beheld your Son on the Cross, O all-pure Lady. * And you cried, “O my Son and God, who kept me * a virgin even after * I gave birth to You, do not now make me childless.”"
 
 meLI.Kontakion1.mode = me.m11.d28_en_US_goadedes.meMA.Kontakion1.mode
 meLI.Kontakion1.greekmelody = me.m11.d28_en_US_goadedes.meMA.Kontakion1.greekmelody
