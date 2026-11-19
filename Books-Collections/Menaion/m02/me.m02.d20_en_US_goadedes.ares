@@ -26,18 +26,18 @@ meHO.note2 = ""
 meVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.Stichera01.greekmelody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.greekname
 meVE.Stichera01.melody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.name
-meVE.Stichera01.incipit = "…"
-meVE.Stichera01.text = ""
+meVE.Stichera01.incipit = "Leo, godly-minded…"
+meVE.Stichera01.text = "Leo, godly-minded and all-blest, by your ascetical ways, * being perfectly purified, * and through purity attached * to your God who created you, * with godly light you were thoroughly imbued, * and the divine gifts of grace were given you, * so as to always cure * incurable ailments and drive out unclean * spirits by the whip of your unceasing prayers to God."
 
 meVE.Stichera02.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.Stichera02.melody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.name
-meVE.Stichera02.incipit = "…"
-meVE.Stichera02.text = ""
+meVE.Stichera02.incipit = "Leo, being truly…"
+meVE.Stichera02.text = "Leo, being truly blest, when you became a hierarch, * as a shepherd most genuine, * by the Holy Spirit’s might, * you directed your flock with the rod * of the divine Faith to pastures, where they fed * on perfect virtue and Orthodox beliefs. * You have indeed obtained * glory that is permanent, for in their sight, * by the grace of God, you did amazing miracles."
 
 meVE.Stichera03.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.Stichera03.melody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.name
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = ""
+meVE.Stichera03.incipit = "Come, draw…"
+meVE.Stichera03.text = "Come, draw the holy oil that is ever gushing forth * from the holy sarcophagus * of that wise and erudite * prelate shepherd, as if from a well, * and to the God of the universe cry out: * “O Lord our God, who are wondrous in Your saints, * save us and pity us, * as you are benevolent, hearing his prayers * for us who with faith observe his sacred memory.”"
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.SticTheotokion.greekmelody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.greekname
