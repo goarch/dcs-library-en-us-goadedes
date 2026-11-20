@@ -36,14 +36,14 @@ meVE.Stichera02.text = "As we honor Herodion, * Rufus, Hermes, and Agabus, * Phl
 
 meVE.Stichera03.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera03.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = ""
+meVE.Stichera03.incipit = "With your minds…"
+meVE.Stichera03.text = "With your minds on the highest things, * you were heavens as you declared * the glory of God, as the Psalmist said of old. * holy Apostles who saw the Lord, * incarnate of His own will, * for the faithful you were guides, * the unshaken foundations and pillars of the Church. * You are guiding our souls to the divine light as the havens of correct faith, * serving ineffable mysteries."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.SticTheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
 meVE.SticTheotokion.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
-meVE.SticTheotokion.incipit = "…"
-meVE.SticTheotokion.text = ""
+meVE.SticTheotokion.incipit = "You were weeping…"
+meVE.SticTheotokion.text = "You were weeping most bitterly * and lamenting as you beheld * your Son who became flesh from you ineffably. * And He had mercy and pitied you. * With words, like refreshing dew, * as your Son, He spoke to you: * “Mother, please stop your weeping now. For although I die, * having willingly suffered, I will rise and I will glorify the people * who magnify you, O Virgin pure.”"
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.SticStavrotheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
